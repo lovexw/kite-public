@@ -4422,5 +4422,15 @@
       "description": "The Special Broadcasting Service (SBS) is a broadcaster with a particular focus on serving Australia's multicultural and multilingual commumities.",
       "owner": "Special Broadcasting Service",
       "typology": "State Funded Media"
-    }
+    },
+    {
+      "country": "Australia",
+      "organization": "Nine News (9News)",
+      "domains": [
+        "www.9news.com.au"
+      ],
+      "description": "Nine News is an Australian television online and news network.",
+      "owner": "Nine Entertainment",
+      "typology": "Private Media"
+    },
 ]

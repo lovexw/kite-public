@@ -4402,6 +4402,15 @@
     "description": "La Voix du Nord is a regional daily newspaper based in Lille, covering northern France. It is part of the Groupe Voix du Nord.",
     "owner": "Groupe Rossel (Belgian media group) )",
     "typology": "Private Media"
+    },
+    {
+      "country": "Australia",
+      "organization": "Crikey",
+      "domains": [
+        "www.crikey.com.au"
+      ],
+      "description": "Crikey is an Australian news and analysis newsletter and website.",
+      "owner": "Private Media Pty Ltd",
+      "typology": "Private Media"
     }
-
 ]

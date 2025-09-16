@@ -4433,4 +4433,16 @@
       "owner": "Nine Entertainment",
       "typology": "Private Media"
     },
+    {
+      "country": "Australia",
+      "organization": "Nine Publishing",
+      "domains": [
+        "www.brisbanetimes.com.au",
+        "www.smh.com.au",
+        "www.theage.com.au"
+      ],
+      "description": "Nine Publishing (formerly Fairfax Media) publishes print and online newspapers including The Sydney Morning Herald, The Age, and the Brisbane Times.",
+      "owner": "Nine Entertainment",
+      "typology": "Private Media"
+    }
 ]

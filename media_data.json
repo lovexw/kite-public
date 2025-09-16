@@ -4412,5 +4412,15 @@
       "description": "Crikey is an Australian news and analysis newsletter and website.",
       "owner": "Private Media Pty Ltd",
       "typology": "Private Media"
+    },
+    {
+      "country": "Australia",
+      "organization": "SBS (Australia)",
+      "domains": [
+        "www.sbs.com.au"
+      ],
+      "description": "The Special Broadcasting Service (SBS) is a broadcaster with a particular focus on serving Australia's multicultural and multilingual commumities.",
+      "owner": "Special Broadcasting Service",
+      "typology": "State Funded Media"
     }
 ]

@@ -3165,7 +3165,8 @@
       "https://www.schneier.com/feed/atom/",
       "https://www.wired.com/feed/category/security/latest/rss"
     ]
-    "Middle East": {
+  },
+  "Middle East": {
     "category_type": "region",
     "source_language": "en",
     "display_names": {

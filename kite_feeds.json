@@ -3566,19 +3566,26 @@
       "https://24.hu/rss",
       "https://444.hu/feed",
       "https://bkk.hu/hirek/rss",
-      
       "https://budapest.hu/hirek/rss",
       "https://hvg.hu/rss",
       "https://168.hu/rss",
       "https://telex.hu/rss/archivum?filters=%7B%22and_tags%22%3A%5B%5D%2C%22superTags%22%3A%5B%22G7%22%5D%2C%22authors%22%3A%5B%5D%2C%22title%22%3A%5B%5D%7D&perPage=20",
       "https://feeds.bbci.co.uk/news/topics/cx1m7zg0wjqt/rss.xml",
-
       "https://hang.hu/rss",
       "https://atlatszo.hu/rss",
       "https://www.direkt36.hu/rss",
       "https://www.reddit.com/r/hungary/best/.rss",
       "https://dailynewshungary.com/rss",
-      
+      "https://www.police.hu/hu/rss/feed",
+      "https://www.magyarkurir.hu/rss",
+      "https://infostart.hu/belfold/rss/",
+      "https://hirado.hu/hirado.aspx",
+      "https://www.hirstart.hu/site/publicrss.php?pos=balrovat&pid=7",
+      "https://telex.hu/rss/archivum?filters=%7B%22and_tags%22%3A%5B%5D%2C%22superTags%22%3A%5B%22After%22%5D%2C%22authors%22%3A%5B%5D%2C%22title%22%3A%5B%5D%7D&perPage=10",
+      "http://koznews.hu/rss.xml",
+      "https://magyarnarancs.hu/rss",
+      "https://rss.hirkereso.hu/",
+      "https://hu.euronews.com/rss"
     ]
   }
 }

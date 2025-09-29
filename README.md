@@ -118,6 +118,22 @@ We require at least **25 feeds** for a category in order to surface it in Kite n
 
 Kite does not scrape news websites, it only uses publicly available information in RSS feeds.
 
+## Core Feeds
+
+Kite's official core feeds are fully open source and available in `core_feeds.py`. These feeds cover essential news categories and form the foundation of Kite's news coverage. While primarily maintained by the Kagi team for quality and consistency, they are open to community contributions - you can submit pull requests to suggest improvements or additions to these core feeds.
+
+Core categories include:
+- World News
+- Business
+- Technology
+- Science
+- Sports
+- Culture
+- Politics
+- And many more specialized topics
+
+The combination of these core feeds and community-curated feeds ensures comprehensive, diverse news coverage from multiple perspectives.
+
 ## Guidelines for editing Media information
 
 Kite uses contents of `media_data.json` to show additional information about sources of information. Initial information has been sources from https://statemediamonitor.com/ and the classification methodology is explained here https://statemediamonitor.com/methodology/

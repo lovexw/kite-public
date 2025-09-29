@@ -3,10 +3,12 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Australien",
       "en": "Australia",
+      "ar": "أستراليا",
+      "de": "Australien",
       "es": "Australia",
       "fr": "Australie",
+      "he": "אוסטרליה",
       "hi": "ऑस्ट्रेलिया",
       "it": "Australia",
       "ja": "オーストラリア",
@@ -15,9 +17,7 @@
       "ru": "Австралия",
       "uk": "Австралія",
       "zh-Hans": "澳大利亚",
-      "zh-Hant": "澳大利亞",
-      "ar": "أستراليا",
-      "he": "אוסטרליה"
+      "zh-Hant": "澳洲"
     },
     "feeds": [
       "http://feeds.perthherald.com/rss/12878be9fc2ca79c",
@@ -65,10 +65,12 @@
     "category_type": "country",
     "source_language": "de",
     "display_names": {
-      "de": "Österreich",
       "en": "Austria",
+      "ar": "النمسا",
+      "de": "Österreich",
       "es": "Austria",
       "fr": "Autriche",
+      "he": "אוסטריה",
       "hi": "ऑस्ट्रिया",
       "it": "Austria",
       "ja": "オーストリア",
@@ -77,9 +79,7 @@
       "ru": "Австрия",
       "uk": "Австрія",
       "zh-Hans": "奥地利",
-      "zh-Hant": "奧地利",
-      "ar": "النمسا",
-      "he": "אוסטריה"
+      "zh-Hant": "奧地利"
     },
     "feeds": [
       "http://diepresse.com/rss/",
@@ -113,10 +113,12 @@
     "category_type": "country",
     "source_language": "nl",
     "display_names": {
-      "de": "Belgien",
       "en": "Belgium",
+      "ar": "بلجيكا",
+      "de": "Belgien",
       "es": "Bélgica",
       "fr": "Belgique",
+      "he": "בלגיה",
       "hi": "बेल्जियम",
       "it": "Belgio",
       "ja": "ベルギー",
@@ -125,9 +127,7 @@
       "ru": "Бельгия",
       "uk": "Бельгія",
       "zh-Hans": "比利时",
-      "zh-Hant": "比利時",
-      "ar": "بلجيكا",
-      "he": "בלגיה"
+      "zh-Hant": "比利時"
     },
     "feeds": [
       "http://rss.rtbf.be/article/rss/highlight_rtbfinfo_info-belgique.xml?source=internal",
@@ -173,10 +173,12 @@
     "category_type": "country",
     "source_language": "pt",
     "display_names": {
-      "de": "Brasilien",
       "en": "Brazil",
+      "ar": "البرازيل",
+      "de": "Brasilien",
       "es": "Brasil",
       "fr": "Brésil",
+      "he": "ברזיל",
       "hi": "ब्राज़ील",
       "it": "Brasile",
       "ja": "ブラジル",
@@ -185,9 +187,7 @@
       "ru": "Бразилия",
       "uk": "Бразилія",
       "zh-Hans": "巴西",
-      "zh-Hant": "巴西",
-      "ar": "البرازيل",
-      "he": "ברזיל"
+      "zh-Hant": "巴西"
     },
     "feeds": [
       "http://agenciabrasil.ebc.com.br/rss/internacional/feed.xml",
@@ -228,10 +228,12 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Kanada",
       "en": "Canada",
+      "ar": "كندا",
+      "de": "Kanada",
       "es": "Canadá",
       "fr": "Canada",
+      "he": "קנדה",
       "hi": "कनाडा",
       "it": "Canada",
       "ja": "カナダ",
@@ -240,9 +242,7 @@
       "ru": "Канада",
       "uk": "Канада",
       "zh-Hans": "加拿大",
-      "zh-Hant": "加拿大",
-      "ar": "كندا",
-      "he": "קנדה"
+      "zh-Hant": "加拿大"
     },
     "feeds": [
       "https://albertaviews.ca/feed/",
@@ -311,10 +311,12 @@
     "category_type": "country",
     "source_language": "zh-Hans",
     "display_names": {
-      "de": "China",
       "en": "China",
+      "ar": "الصين",
+      "de": "China",
       "es": "China",
       "fr": "Chine",
+      "he": "סין",
       "hi": "चीन",
       "it": "Cina",
       "ja": "中国",
@@ -323,9 +325,7 @@
       "ru": "Китай",
       "uk": "Китай",
       "zh-Hans": "中国",
-      "zh-Hant": "中國",
-      "ar": "الصين",
-      "he": "סין"
+      "zh-Hant": "中國"
     },
     "feeds": [
       "http://news.ifeng.com/rss/index.xml",
@@ -382,11 +382,13 @@
     "category_type": "country",
     "source_language": "es",
     "display_names": {
-      "de": "Kolumbien",
       "en": "Colombia",
+      "ar": "كولومبيا",
+      "de": "Kolumbien",
       "es": "Colombia",
       "fr": "Colombie",
-      "hi": "कोलंबिया",
+      "he": "קולומביה",
+      "hi": "कोलम्बिया",
       "it": "Colombia",
       "ja": "コロンビア",
       "nl": "Colombia",
@@ -394,9 +396,7 @@
       "ru": "Колумбия",
       "uk": "Колумбія",
       "zh-Hans": "哥伦比亚",
-      "zh-Hant": "哥倫比亞",
-      "ar": "كولومبيا",
-      "he": "קולומביה"
+      "zh-Hant": "哥倫比亞"
     },
     "feeds": [
       "https://caracol.com.co/arc/outboundfeeds/rss/category/tendencias/?outputType=xml",
@@ -432,21 +432,21 @@
     "category_type": "country",
     "source_language": "es",
     "display_names": {
-      "de": "Costa Rica",
       "en": "Costa Rica",
+      "ar": "كوستاريكا",
+      "de": "Costa Rica",
       "es": "Costa Rica",
       "fr": "Costa Rica",
+      "he": "קוסטה ריקה",
       "hi": "कोस्टा रिका",
       "it": "Costa Rica",
       "ja": "コスタリカ",
       "nl": "Costa Rica",
       "pt": "Costa Rica",
       "ru": "Коста-Рика",
-      "uk": "Коста-Рика",
+      "uk": "Коста-Ріка",
       "zh-Hans": "哥斯达黎加",
-      "zh-Hant": "哥斯大黎加",
-      "ar": "كوستاريكا",
-      "he": "קוסטה ריקה"
+      "zh-Hant": "哥斯達黎加"
     },
     "feeds": [
       "https://caribeactual.com/feed/",
@@ -483,10 +483,12 @@
     "category_type": "country",
     "source_language": "hr",
     "display_names": {
-      "de": "Kroatien",
       "en": "Croatia",
+      "ar": "كرواتيا",
+      "de": "Kroatien",
       "es": "Croacia",
       "fr": "Croatie",
+      "he": "קרואטיה",
       "hi": "क्रोएशिया",
       "it": "Croazia",
       "ja": "クロアチア",
@@ -495,9 +497,7 @@
       "ru": "Хорватия",
       "uk": "Хорватія",
       "zh-Hans": "克罗地亚",
-      "zh-Hant": "克羅埃西亞",
-      "ar": "كرواتيا",
-      "he": "קרואטיה"
+      "zh-Hant": "克羅地亞"
     },
     "feeds": [
       "https://direktno.hr/rss/publish/latest/",
@@ -533,21 +533,21 @@
     "category_type": "country",
     "source_language": "cs",
     "display_names": {
-      "de": "Tschechische Republik",
       "en": "Czech Republic",
+      "ar": "التشيك",
+      "de": "Tschechien",
       "es": "República Checa",
       "fr": "République tchèque",
+      "he": "צ'כיה",
       "hi": "चेक गणराज्य",
       "it": "Repubblica Ceca",
-      "ja": "チェコ共和国",
+      "ja": "チェコ",
       "nl": "Tsjechië",
       "pt": "República Tcheca",
       "ru": "Чехия",
       "uk": "Чехія",
-      "zh-Hans": "捷克共和国",
-      "zh-Hant": "捷克共和國",
-      "ar": "جمهورية التشيك",
-      "he": "צ'כיה"
+      "zh-Hans": "捷克",
+      "zh-Hant": "捷克"
     },
     "feeds": [
       "https://cc.cz/feed/",
@@ -582,10 +582,12 @@
     "category_type": "country",
     "source_language": "et",
     "display_names": {
-      "de": "Estland",
       "en": "Estonia",
+      "ar": "إستونيا",
+      "de": "Estland",
       "es": "Estonia",
       "fr": "Estonie",
+      "he": "אסטוניה",
       "hi": "एस्टोनिया",
       "it": "Estonia",
       "ja": "エストニア",
@@ -594,9 +596,7 @@
       "ru": "Эстония",
       "uk": "Естонія",
       "zh-Hans": "爱沙尼亚",
-      "zh-Hant": "愛沙尼亞",
-      "ar": "إستونيا",
-      "he": "אסטוניה"
+      "zh-Hant": "愛沙尼亞"
     },
     "feeds": [
       "https://digi.geenius.ee/feed/",
@@ -647,10 +647,12 @@
     "category_type": "country",
     "source_language": "fi",
     "display_names": {
-      "de": "Finnland",
       "en": "Finland",
+      "ar": "فنلندا",
+      "de": "Finnland",
       "es": "Finlandia",
       "fr": "Finlande",
+      "he": "פינלנד",
       "hi": "फ़िनलैंड",
       "it": "Finlandia",
       "ja": "フィンランド",
@@ -659,9 +661,7 @@
       "ru": "Финляндия",
       "uk": "Фінляндія",
       "zh-Hans": "芬兰",
-      "zh-Hant": "芬蘭",
-      "ar": "فنلندا",
-      "he": "פינלנד"
+      "zh-Hant": "芬蘭"
     },
     "feeds": [
       "https://feeds.kauppalehti.fi/rss/main",
@@ -696,10 +696,12 @@
     "category_type": "country",
     "source_language": "fr",
     "display_names": {
-      "de": "Frankreich",
       "en": "France",
+      "ar": "فرنسا",
+      "de": "Frankreich",
       "es": "Francia",
       "fr": "France",
+      "he": "צרפת",
       "hi": "फ्रांस",
       "it": "Francia",
       "ja": "フランス",
@@ -708,9 +710,7 @@
       "ru": "Франция",
       "uk": "Франція",
       "zh-Hans": "法国",
-      "zh-Hant": "法國",
-      "ar": "فرنسا",
-      "he": "צרפת"
+      "zh-Hant": "法國"
     },
     "feeds": [
       "http://feeds.feedburner.com/actu/rMQn",
@@ -808,10 +808,12 @@
     "category_type": "country",
     "source_language": "de",
     "display_names": {
-      "de": "Deutschland",
       "en": "Germany",
+      "ar": "ألمانيا",
+      "de": "Deutschland",
       "es": "Alemania",
       "fr": "Allemagne",
+      "he": "גרמניה",
       "hi": "जर्मनी",
       "it": "Germania",
       "ja": "ドイツ",
@@ -820,9 +822,7 @@
       "ru": "Германия",
       "uk": "Німеччина",
       "zh-Hans": "德国",
-      "zh-Hant": "德國",
-      "ar": "ألمانيا",
-      "he": "גרמניה"
+      "zh-Hant": "德國"
     },
     "feeds": [
       "https://correctiv.org/feed/",
@@ -858,10 +858,12 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Indien",
       "en": "India",
+      "ar": "الهند",
+      "de": "Indien",
       "es": "India",
       "fr": "Inde",
+      "he": "הודו",
       "hi": "भारत",
       "it": "India",
       "ja": "インド",
@@ -870,9 +872,7 @@
       "ru": "Индия",
       "uk": "Індія",
       "zh-Hans": "印度",
-      "zh-Hant": "印度",
-      "ar": "الهند",
-      "he": "הודו"
+      "zh-Hant": "印度"
     },
     "feeds": [
       "http://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
@@ -944,10 +944,12 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Irland",
       "en": "Ireland",
+      "ar": "أيرلندا",
+      "de": "Irland",
       "es": "Irlanda",
       "fr": "Irlande",
+      "he": "אירלנד",
       "hi": "आयरलैंड",
       "it": "Irlanda",
       "ja": "アイルランド",
@@ -956,9 +958,7 @@
       "ru": "Ирландия",
       "uk": "Ірландія",
       "zh-Hans": "爱尔兰",
-      "zh-Hant": "愛爾蘭",
-      "ar": "أيرلندا",
-      "he": "אירלנד"
+      "zh-Hant": "愛爾蘭"
     },
     "feeds": [
       "http://www.irisheconomy.ie/index.php/feed/",
@@ -991,10 +991,12 @@
     "category_type": "country",
     "source_language": "he",
     "display_names": {
-      "de": "Israel",
       "en": "Israel",
+      "ar": "إسرائيل",
+      "de": "Israel",
       "es": "Israel",
       "fr": "Israël",
+      "he": "ישראל",
       "hi": "इज़राइल",
       "it": "Israele",
       "ja": "イスラエル",
@@ -1003,9 +1005,7 @@
       "ru": "Израиль",
       "uk": "Ізраїль",
       "zh-Hans": "以色列",
-      "zh-Hant": "以色列",
-      "ar": "إسرائيل",
-      "he": "ישראל"
+      "zh-Hant": "以色列"
     },
     "feeds": [
       "https://elderofziyon.blogspot.com/feeds/posts/default?alt=rss",
@@ -1068,10 +1068,12 @@
     "category_type": "country",
     "source_language": "it",
     "display_names": {
-      "de": "Italien",
       "en": "Italy",
+      "ar": "إيطاليا",
+      "de": "Italien",
       "es": "Italia",
       "fr": "Italie",
+      "he": "איטליה",
       "hi": "इटली",
       "it": "Italia",
       "ja": "イタリア",
@@ -1080,9 +1082,7 @@
       "ru": "Италия",
       "uk": "Італія",
       "zh-Hans": "意大利",
-      "zh-Hant": "義大利",
-      "ar": "إيطاليا",
-      "he": "איטליה"
+      "zh-Hant": "義大利"
     },
     "feeds": [
       "http://feed.lastampa.it/cronache.rss",
@@ -1154,10 +1154,12 @@
     "category_type": "country",
     "source_language": "ja",
     "display_names": {
-      "de": "Japan",
       "en": "Japan",
+      "ar": "اليابان",
+      "de": "Japan",
       "es": "Japón",
       "fr": "Japon",
+      "he": "יפן",
       "hi": "जापान",
       "it": "Giappone",
       "ja": "日本",
@@ -1166,9 +1168,7 @@
       "ru": "Япония",
       "uk": "Японія",
       "zh-Hans": "日本",
-      "zh-Hant": "日本",
-      "ar": "اليابان",
-      "he": "יפן"
+      "zh-Hant": "日本"
     },
     "feeds": [
       "https://asia.nikkei.com/rss/feed/nar",
@@ -1205,10 +1205,12 @@
     "category_type": "country",
     "source_language": "es",
     "display_names": {
-      "de": "Mexiko",
       "en": "Mexico",
+      "ar": "المكسيك",
+      "de": "Mexiko",
       "es": "México",
       "fr": "Mexique",
+      "he": "מקסיקו",
       "hi": "मेक्सिको",
       "it": "Messico",
       "ja": "メキシコ",
@@ -1217,9 +1219,7 @@
       "ru": "Мексика",
       "uk": "Мексика",
       "zh-Hans": "墨西哥",
-      "zh-Hant": "墨西哥",
-      "ar": "المكسيك",
-      "he": "מקסיקו"
+      "zh-Hant": "墨西哥"
     },
     "feeds": [
       "https://editorial.aristeguinoticias.com/feed/",
@@ -1259,10 +1259,12 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Neuseeland",
       "en": "New Zealand",
+      "ar": "نيوزيلندا",
+      "de": "Neuseeland",
       "es": "Nueva Zelanda",
       "fr": "Nouvelle-Zélande",
+      "he": "ניו זילנד",
       "hi": "न्यूज़ीलैंड",
       "it": "Nuova Zelanda",
       "ja": "ニュージーランド",
@@ -1271,9 +1273,7 @@
       "ru": "Новая Зеландия",
       "uk": "Нова Зеландія",
       "zh-Hans": "新西兰",
-      "zh-Hant": "紐西蘭",
-      "ar": "نيوزيلندا",
-      "he": "ניו זילנד"
+      "zh-Hant": "紐西蘭"
     },
     "feeds": [
       "https://news.google.com/atom/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNR04wZDE5aUVnVmxiaTFIUWlnQVAB",
@@ -1326,10 +1326,12 @@
     "category_type": "country",
     "source_language": "no",
     "display_names": {
-      "de": "Norwegen",
       "en": "Norway",
+      "ar": "النرويج",
+      "de": "Norwegen",
       "es": "Noruega",
       "fr": "Norvège",
+      "he": "נורווגיה",
       "hi": "नॉर्वे",
       "it": "Norvegia",
       "ja": "ノルウェー",
@@ -1338,9 +1340,7 @@
       "ru": "Норвегия",
       "uk": "Норвегія",
       "zh-Hans": "挪威",
-      "zh-Hant": "挪威",
-      "ar": "النرويج",
-      "he": "נורבגיה"
+      "zh-Hant": "挪威"
     },
     "feeds": [
       "http://e24.no/rss2/",
@@ -1383,10 +1383,12 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Pakistan",
       "en": "Pakistan",
+      "ar": "باكستان",
+      "de": "Pakistan",
       "es": "Pakistán",
       "fr": "Pakistan",
+      "he": "פקיסטן",
       "hi": "पाकिस्तान",
       "it": "Pakistan",
       "ja": "パキスタン",
@@ -1395,9 +1397,7 @@
       "ru": "Пакистан",
       "uk": "Пакистан",
       "zh-Hans": "巴基斯坦",
-      "zh-Hant": "巴基斯坦",
-      "ar": "باكستان",
-      "he": "פקיסטן"
+      "zh-Hant": "巴基斯坦"
     },
     "feeds": [
       "https://arynews.tv/feed/",
@@ -1432,11 +1432,13 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Palästina",
       "en": "Palestine",
+      "ar": "فلسطين",
+      "de": "Palästina",
       "es": "Palestina",
       "fr": "Palestine",
-      "hi": "फ़िलिस्तीन",
+      "he": "פלסטין",
+      "hi": "फिलिस्तीन",
       "it": "Palestina",
       "ja": "パレスチナ",
       "nl": "Palestina",
@@ -1444,9 +1446,7 @@
       "ru": "Палестина",
       "uk": "Палестина",
       "zh-Hans": "巴勒斯坦",
-      "zh-Hant": "巴勒斯坦",
-      "ar": "فلسطين",
-      "he": "פלסטין"
+      "zh-Hant": "巴勒斯坦"
     },
     "feeds": [
       "https://english.palinfo.com/feed/",
@@ -1482,11 +1482,13 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Philippinen",
       "en": "Philippines",
+      "ar": "الفلبين",
+      "de": "Philippinen",
       "es": "Filipinas",
       "fr": "Philippines",
-      "hi": "फिलीपींस",
+      "he": "פיליפינים",
+      "hi": "फ़िलीपींस",
       "it": "Filippine",
       "ja": "フィリピン",
       "nl": "Filipijnen",
@@ -1494,9 +1496,7 @@
       "ru": "Филиппины",
       "uk": "Філіппіни",
       "zh-Hans": "菲律宾",
-      "zh-Hant": "菲律賓",
-      "ar": "الفلبين",
-      "he": "פיליפינים"
+      "zh-Hant": "菲律賓"
     },
     "feeds": [
       "https://businessmirror.com.ph/feed/",
@@ -1530,10 +1530,12 @@
     "category_type": "country",
     "source_language": "pl",
     "display_names": {
-      "de": "Polen",
       "en": "Poland",
+      "ar": "بولندا",
+      "de": "Polen",
       "es": "Polonia",
       "fr": "Pologne",
+      "he": "פולין",
       "hi": "पोलैंड",
       "it": "Polonia",
       "ja": "ポーランド",
@@ -1542,9 +1544,7 @@
       "ru": "Польша",
       "uk": "Польща",
       "zh-Hans": "波兰",
-      "zh-Hant": "波蘭",
-      "ar": "بولندا",
-      "he": "פולין"
+      "zh-Hant": "波蘭"
     },
     "feeds": [
       "http://rss.dziennik.pl/Dziennik-Wiadomosci",
@@ -1587,10 +1587,12 @@
     "category_type": "country",
     "source_language": "pt",
     "display_names": {
-      "de": "Portugal",
       "en": "Portugal",
+      "ar": "البرتغال",
+      "de": "Portugal",
       "es": "Portugal",
       "fr": "Portugal",
+      "he": "פורטוגל",
       "hi": "पुर्तगाल",
       "it": "Portogallo",
       "ja": "ポルトガル",
@@ -1599,9 +1601,7 @@
       "ru": "Португалия",
       "uk": "Португалія",
       "zh-Hans": "葡萄牙",
-      "zh-Hant": "葡萄牙",
-      "ar": "البرتغال",
-      "he": "פורטוגל"
+      "zh-Hant": "葡萄牙"
     },
     "feeds": [
       "http://feeds.dinheirovivo.pt/DV-ultimas",
@@ -1636,10 +1636,12 @@
     "category_type": "country",
     "source_language": "ro",
     "display_names": {
-      "de": "Rumänien",
       "en": "Romania",
+      "ar": "رومانيا",
+      "de": "Rumänien",
       "es": "Rumania",
       "fr": "Roumanie",
+      "he": "רומניה",
       "hi": "रोमानिया",
       "it": "Romania",
       "ja": "ルーマニア",
@@ -1648,9 +1650,7 @@
       "ru": "Румыния",
       "uk": "Румунія",
       "zh-Hans": "罗马尼亚",
-      "zh-Hant": "羅馬尼亞",
-      "ar": "رومانيا",
-      "he": "רומניה"
+      "zh-Hant": "羅馬尼亞"
     },
     "feeds": [
       "https://adevarul.ro/rss/",
@@ -1687,10 +1687,12 @@
     "category_type": "country",
     "source_language": "ru",
     "display_names": {
-      "de": "Russland",
       "en": "Russia",
+      "ar": "روسيا",
+      "de": "Russland",
       "es": "Rusia",
       "fr": "Russie",
+      "he": "רוסיה",
       "hi": "रूस",
       "it": "Russia",
       "ja": "ロシア",
@@ -1699,9 +1701,7 @@
       "ru": "Россия",
       "uk": "Росія",
       "zh-Hans": "俄罗斯",
-      "zh-Hant": "俄羅斯",
-      "ar": "روسيا",
-      "he": "רוסיה"
+      "zh-Hant": "俄羅斯"
     },
     "feeds": [
       "https://daily.afisha.ru/rss/",
@@ -1735,10 +1735,12 @@
     "category_type": "country",
     "source_language": "sr",
     "display_names": {
-      "de": "Serbien",
       "en": "Serbia",
+      "ar": "صربيا",
+      "de": "Serbien",
       "es": "Serbia",
       "fr": "Serbie",
+      "he": "סרביה",
       "hi": "सर्बिया",
       "it": "Serbia",
       "ja": "セルビア",
@@ -1747,9 +1749,7 @@
       "ru": "Сербия",
       "uk": "Сербія",
       "zh-Hans": "塞尔维亚",
-      "zh-Hant": "塞爾維亞",
-      "ar": "صربيا",
-      "he": "סרביה"
+      "zh-Hant": "塞爾維亞"
     },
     "feeds": [
       "https://birnsrbija.rs/feed/",
@@ -1819,10 +1819,12 @@
     "category_type": "country",
     "source_language": "sl",
     "display_names": {
-      "de": "Slowenien",
       "en": "Slovenia",
+      "ar": "سلوفينيا",
+      "de": "Slowenien",
       "es": "Eslovenia",
       "fr": "Slovénie",
+      "he": "סלובניה",
       "hi": "स्लोवेनिया",
       "it": "Slovenia",
       "ja": "スロベニア",
@@ -1831,9 +1833,7 @@
       "ru": "Словения",
       "uk": "Словенія",
       "zh-Hans": "斯洛文尼亚",
-      "zh-Hant": "斯洛維尼亞",
-      "ar": "سلوفينيا",
-      "he": "סלובניה"
+      "zh-Hant": "斯洛維尼亞"
     },
     "feeds": [
       "https://ekipa.svet24.si/rss/site.xml",
@@ -1868,10 +1868,12 @@
     "category_type": "country",
     "source_language": "ko",
     "display_names": {
-      "de": "Südkorea",
       "en": "South Korea",
+      "ar": "كوريا الجنوبية",
+      "de": "Südkorea",
       "es": "Corea del Sur",
       "fr": "Corée du Sud",
+      "he": "דרום קוריאה",
       "hi": "दक्षिण कोरिया",
       "it": "Corea del Sud",
       "ja": "韓国",
@@ -1880,9 +1882,7 @@
       "ru": "Южная Корея",
       "uk": "Південна Корея",
       "zh-Hans": "韩国",
-      "zh-Hant": "南韓",
-      "ar": "كوريا الجنوبية",
-      "he": "דרום קוריאה"
+      "zh-Hant": "南韓"
     },
     "feeds": [
       "http://news.google.co.kr/news?pz=1&hdlOnly=1&cf=all&ned=kr&hl=ko&topic=b&output=rss",
@@ -1936,10 +1936,12 @@
     "category_type": "country",
     "source_language": "es",
     "display_names": {
-      "de": "Spanien",
       "en": "Spain",
+      "ar": "إسبانيا",
+      "de": "Spanien",
       "es": "España",
       "fr": "Espagne",
+      "he": "ספרד",
       "hi": "स्पेन",
       "it": "Spagna",
       "ja": "スペイン",
@@ -1948,9 +1950,7 @@
       "ru": "Испания",
       "uk": "Іспанія",
       "zh-Hans": "西班牙",
-      "zh-Hant": "西班牙",
-      "ar": "إسبانيا",
-      "he": "ספרד"
+      "zh-Hant": "西班牙"
     },
     "feeds": [
       "http://rss.libertaddigital.com/libertaddigital/portada",
@@ -1999,10 +1999,12 @@
     "category_type": "country",
     "source_language": "sv",
     "display_names": {
-      "de": "Schweden",
       "en": "Sweden",
+      "ar": "السويد",
+      "de": "Schweden",
       "es": "Suecia",
       "fr": "Suède",
+      "he": "שוודיה",
       "hi": "स्वीडन",
       "it": "Svezia",
       "ja": "スウェーデン",
@@ -2011,9 +2013,7 @@
       "ru": "Швеция",
       "uk": "Швеція",
       "zh-Hans": "瑞典",
-      "zh-Hant": "瑞典",
-      "ar": "السويد",
-      "he": "שוודיה"
+      "zh-Hant": "瑞典"
     },
     "feeds": [
       "https://api.sr.se/api/rss/program/83",
@@ -2055,21 +2055,21 @@
     "category_type": "country",
     "source_language": "de",
     "display_names": {
-      "de": "Schweiz (DE)",
       "en": "Switzerland (DE)",
+      "ar": "سويسرا (ألمانية)",
+      "de": "Schweiz (DE)",
       "es": "Suiza (DE)",
       "fr": "Suisse (DE)",
+      "he": "שווייץ (גרמנית)",
       "hi": "स्विट्ज़रलैंड (जर्मन)",
       "it": "Svizzera (DE)",
-      "ja": "スイス (ドイツ語)",
+      "ja": "スイス（ドイツ語圏）",
       "nl": "Zwitserland (DE)",
       "pt": "Suíça (DE)",
       "ru": "Швейцария (НЕМ)",
       "uk": "Швейцарія (НІМ)",
-      "zh-Hans": "瑞士 (德语)",
-      "zh-Hant": "瑞士 (德語)",
-      "ar": "سويسرا (ألمانية)",
-      "he": "שווייץ (גרמנית)"
+      "zh-Hans": "瑞士（德语）",
+      "zh-Hant": "瑞士（德語）"
     },
     "feeds": [
       "https://aargauerzeitung.ch/schweiz.rss",
@@ -2118,10 +2118,12 @@
     "category_type": "country",
     "source_language": "th",
     "display_names": {
-      "de": "Thailand",
       "en": "Thailand",
+      "ar": "تايلاند",
+      "de": "Thailand",
       "es": "Tailandia",
       "fr": "Thaïlande",
+      "he": "תאילנד",
       "hi": "थाईलैंड",
       "it": "Thailandia",
       "ja": "タイ",
@@ -2130,9 +2132,7 @@
       "ru": "Таиланд",
       "uk": "Таїланд",
       "zh-Hans": "泰国",
-      "zh-Hant": "泰國",
-      "ar": "تايلاند",
-      "he": "תאילנד"
+      "zh-Hant": "泰國"
     },
     "feeds": [
       "http://rssfeeds.sanook.com/rss/feeds/sanook/news.crime.xml",
@@ -2192,10 +2192,12 @@
     "category_type": "country",
     "source_language": "nl",
     "display_names": {
-      "de": "Niederlande",
       "en": "The Netherlands",
+      "ar": "هولندا",
+      "de": "Niederlande",
       "es": "Países Bajos",
       "fr": "Pays-Bas",
+      "he": "הולנד",
       "hi": "नीदरलैंड",
       "it": "Paesi Bassi",
       "ja": "オランダ",
@@ -2204,9 +2206,7 @@
       "ru": "Нидерланды",
       "uk": "Нідерланди",
       "zh-Hans": "荷兰",
-      "zh-Hant": "荷蘭",
-      "ar": "هولندا",
-      "he": "הולנד"
+      "zh-Hant": "荷蘭"
     },
     "feeds": [
       "http://www.nd.nl/rss/binnenland",
@@ -2276,10 +2276,12 @@
     "category_type": "country",
     "source_language": "tr",
     "display_names": {
-      "de": "Türkei",
       "en": "Turkey",
+      "ar": "تركيا",
+      "de": "Türkei",
       "es": "Turquía",
       "fr": "Turquie",
+      "he": "טורקיה",
       "hi": "तुर्की",
       "it": "Turchia",
       "ja": "トルコ",
@@ -2288,9 +2290,7 @@
       "ru": "Турция",
       "uk": "Туреччина",
       "zh-Hans": "土耳其",
-      "zh-Hant": "土耳其",
-      "ar": "تركيا",
-      "he": "טורקיה"
+      "zh-Hant": "土耳其"
     },
     "feeds": [
       "http://www.dunya.com/rss?dunya",
@@ -2334,10 +2334,12 @@
     "category_type": "country",
     "source_language": "en",
     "display_names": {
-      "de": "Großbritannien",
       "en": "UK",
+      "ar": "المملكة المتحدة",
+      "de": "Vereinigtes Königreich",
       "es": "Reino Unido",
       "fr": "Royaume-Uni",
+      "he": "בריטניה",
       "hi": "यूके",
       "it": "Regno Unito",
       "ja": "イギリス",
@@ -2346,9 +2348,7 @@
       "ru": "Великобритания",
       "uk": "Великобританія",
       "zh-Hans": "英国",
-      "zh-Hant": "英國",
-      "ar": "المملكة المتحدة",
-      "he": "בריטניה"
+      "zh-Hant": "英國"
     },
     "feeds": [
       "https://bills.parliament.uk/rss/allbills.rss",
@@ -2413,10 +2413,12 @@
     "category_type": "country",
     "source_language": "uk",
     "display_names": {
-      "de": "Ukraine",
       "en": "Ukraine",
+      "ar": "أوكرانيا",
+      "de": "Ukraine",
       "es": "Ucrania",
       "fr": "Ukraine",
+      "he": "אוקראינה",
       "hi": "यूक्रेन",
       "it": "Ucraina",
       "ja": "ウクライナ",
@@ -2425,9 +2427,7 @@
       "ru": "Украина",
       "uk": "Україна",
       "zh-Hans": "乌克兰",
-      "zh-Hant": "烏克蘭",
-      "ar": "أوكرانيا",
-      "he": "אוקראינה"
+      "zh-Hant": "烏克蘭"
     },
     "feeds": [
       "https://babel.ua/rss.xml",
@@ -2479,21 +2479,21 @@
     "category_type": "region",
     "source_language": "zh-Hant",
     "display_names": {
-      "de": "China | Taiwan",
-      "en": "China | Taiwan",
-      "es": "China | Taiwán",
-      "fr": "Chine | Taïwan",
-      "hi": "चीन | ताइवान",
-      "it": "Cina | Taiwan",
-      "ja": "中国 | 台湾",
-      "nl": "China | Taiwan",
-      "pt": "China | Taiwan",
-      "ru": "Китай | Тайвань",
-      "uk": "Китай | Тайвань",
-      "zh-Hans": "中国 | 台湾",
-      "zh-Hant": "中國 | 台灣",
-      "ar": "الصين | تايوان",
-      "he": "סין | טייוואן"
+      "en": "Taiwan",
+      "ar": "تايوان",
+      "de": "Taiwan",
+      "es": "Taiwán",
+      "fr": "Taïwan",
+      "he": "טייוואן",
+      "hi": "ताइवान",
+      "it": "Taiwan",
+      "ja": "台湾",
+      "nl": "Taiwan",
+      "pt": "Taiwan",
+      "ru": "Тайвань",
+      "uk": "Тайвань",
+      "zh-Hans": "台湾",
+      "zh-Hant": "臺灣"
     },
     "feeds": [
       "https://feeds.feedburner.com/ettoday/army",
@@ -2535,10 +2535,12 @@
     "category_type": "region",
     "source_language": "en",
     "display_names": {
-      "de": "Europa",
       "en": "Europe",
+      "ar": "أوروبا",
+      "de": "Europa",
       "es": "Europa",
       "fr": "Europe",
+      "he": "אירופה",
       "hi": "यूरोप",
       "it": "Europa",
       "ja": "ヨーロッパ",
@@ -2547,9 +2549,7 @@
       "ru": "Европа",
       "uk": "Європа",
       "zh-Hans": "欧洲",
-      "zh-Hant": "歐洲",
-      "ar": "أوروبا",
-      "he": "אירופה"
+      "zh-Hant": "歐洲"
     },
     "feeds": [
       "http://feeds.bbci.co.uk/news/world/europe/rss.xml",
@@ -2620,10 +2620,12 @@
     "category_type": "region",
     "source_language": "de",
     "display_names": {
-      "de": "Deutschland | Hessen",
       "en": "Germany | Hesse",
+      "ar": "ألمانيا | هيسن",
+      "de": "Deutschland | Hessen",
       "es": "Alemania | Hesse",
       "fr": "Allemagne | Hesse",
+      "he": "גרמניה | הסה",
       "hi": "जर्मनी | हेस्से",
       "it": "Germania | Assia",
       "ja": "ドイツ | ヘッセン州",
@@ -2632,9 +2634,7 @@
       "ru": "Германия | Гессен",
       "uk": "Німеччина | Гессен",
       "zh-Hans": "德国 | 黑森州",
-      "zh-Hant": "德國 | 黑森州",
-      "ar": "ألمانيا | هيسن",
-      "he": "גרמניה | הסן"
+      "zh-Hant": "德國 | 黑森州"
     },
     "feeds": [
       "https://byc-news.de/feed/",
@@ -2670,10 +2670,12 @@
     "category_type": "region",
     "source_language": "en",
     "display_names": {
-      "de": "Naher Osten",
       "en": "Middle East",
+      "ar": "الشرق الأوسط",
+      "de": "Naher Osten",
       "es": "Oriente Medio",
       "fr": "Moyen-Orient",
+      "he": "המזרח התיכון",
       "hi": "मध्य पूर्व",
       "it": "Medio Oriente",
       "ja": "中東",
@@ -2682,9 +2684,7 @@
       "ru": "Ближний Восток",
       "uk": "Близький Схід",
       "zh-Hans": "中东",
-      "zh-Hant": "中東",
-      "ar": "الشرق الأوسط",
-      "he": "המזרח התיכון"
+      "zh-Hant": "中東"
     },
     "feeds": [
       "https://english.alarabiya.net/feed/rss2/en.xml",
@@ -2723,11 +2723,13 @@
     "category_type": "region",
     "source_language": "en",
     "display_names": {
-      "de": "USA | Vermont",
       "en": "USA | Vermont",
+      "ar": "الولايات المتحدة | فيرمونت",
+      "de": "USA | Vermont",
       "es": "EE.UU. | Vermont",
       "fr": "États-Unis | Vermont",
-      "hi": "यूएसए | वरमोंट",
+      "he": "ארה\"ב | ורמונט",
+      "hi": "यूएसए | वर्मोंट",
       "it": "USA | Vermont",
       "ja": "アメリカ | バーモント州",
       "nl": "VS | Vermont",
@@ -2735,9 +2737,7 @@
       "ru": "США | Вермонт",
       "uk": "США | Вермонт",
       "zh-Hans": "美国 | 佛蒙特州",
-      "zh-Hant": "美國 | 佛蒙特州",
-      "ar": "الولايات المتحدة | فيرمونت",
-      "he": "ארה\"ב | ורמונט"
+      "zh-Hant": "美國 | 佛蒙特州"
     },
     "feeds": [
       "https://bartonchronicle.com/feed/",
@@ -2825,10 +2825,12 @@
     "category_type": "region",
     "source_language": "en",
     "display_names": {
-      "de": "USA | Virginia",
       "en": "USA | Virginia",
+      "ar": "الولايات المتحدة | فيرجينيا",
+      "de": "USA | Virginia",
       "es": "EE.UU. | Virginia",
       "fr": "États-Unis | Virginie",
+      "he": "ארה\"ב | וירג'יניה",
       "hi": "यूएसए | वर्जीनिया",
       "it": "USA | Virginia",
       "ja": "アメリカ | バージニア州",
@@ -2837,9 +2839,7 @@
       "ru": "США | Виргиния",
       "uk": "США | Вірджинія",
       "zh-Hans": "美国 | 弗吉尼亚州",
-      "zh-Hant": "美國 | 維吉尼亞州",
-      "ar": "الولايات المتحدة | فيرجينيا",
-      "he": "ארה\"ב | וירג'יניה"
+      "zh-Hant": "美國 | 維吉尼亞州"
     },
     "feeds": [
       "https://alextimes.com/feed/",
@@ -2877,10 +2877,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "KI",
       "en": "AI",
+      "ar": "الذكاء الاصطناعي",
+      "de": "KI",
       "es": "IA",
       "fr": "IA",
+      "he": "בינה מלאכותית",
       "hi": "एआई",
       "it": "IA",
       "ja": "AI",
@@ -2889,9 +2891,7 @@
       "ru": "ИИ",
       "uk": "ШІ",
       "zh-Hans": "人工智能",
-      "zh-Hant": "人工智慧",
-      "ar": "الذكاء الاصطناعي",
-      "he": "בינה מלאכותית"
+      "zh-Hant": "人工智慧"
     },
     "feeds": [
       "https://bair.berkeley.edu/blog/feed.xml",
@@ -2958,10 +2958,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "Apple",
       "en": "Apple",
+      "ar": "آبل",
+      "de": "Apple",
       "es": "Apple",
       "fr": "Apple",
+      "he": "אפל",
       "hi": "एप्पल",
       "it": "Apple",
       "ja": "アップル",
@@ -2970,9 +2972,7 @@
       "ru": "Apple",
       "uk": "Apple",
       "zh-Hans": "苹果",
-      "zh-Hant": "蘋果",
-      "ar": "آبل",
-      "he": "אפל"
+      "zh-Hant": "蘋果"
     },
     "feeds": [
       "http://feeds2.feedburner.com/apfelnews",
@@ -3033,10 +3033,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "Bitcoin",
       "en": "Bitcoin",
+      "ar": "بيتكوين",
+      "de": "Bitcoin",
       "es": "Bitcoin",
       "fr": "Bitcoin",
+      "he": "ביטקוין",
       "hi": "बिटकॉइन",
       "it": "Bitcoin",
       "ja": "ビットコイン",
@@ -3045,9 +3047,7 @@
       "ru": "Биткоин",
       "uk": "Біткоїн",
       "zh-Hans": "比特币",
-      "zh-Hant": "比特幣",
-      "ar": "بيتكوين",
-      "he": "ביטקוין"
+      "zh-Hant": "比特幣"
     },
     "feeds": [
       "https://bitbo.io/news/feed.xml",
@@ -3084,10 +3084,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "Kryptowährung",
       "en": "Cryptocurrency",
+      "ar": "العملة المشفرة",
+      "de": "Kryptowährung",
       "es": "Criptomoneda",
       "fr": "Cryptomonnaie",
+      "he": "מטבע קריפטו",
       "hi": "क्रिप्टोकरेंसी",
       "it": "Criptovaluta",
       "ja": "暗号通貨",
@@ -3096,9 +3098,7 @@
       "ru": "Криптовалюта",
       "uk": "Криптовалюта",
       "zh-Hans": "加密货币",
-      "zh-Hant": "加密貨幣",
-      "ar": "العملة المشفرة",
-      "he": "מטבע קריפטו"
+      "zh-Hant": "加密貨幣"
     },
     "feeds": [
       "https://beincrypto.com/analysis/feed",
@@ -3150,10 +3150,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "Cybersicherheit",
       "en": "Cybersecurity",
+      "ar": "الأمن السيبراني",
+      "de": "Cybersicherheit",
       "es": "Ciberseguridad",
       "fr": "Cybersécurité",
+      "he": "אבטחת סייבר",
       "hi": "साइबर सुरक्षा",
       "it": "Sicurezza informatica",
       "ja": "サイバーセキュリティ",
@@ -3162,9 +3164,7 @@
       "ru": "Кибербезопасность",
       "uk": "Кібербезпека",
       "zh-Hans": "网络安全",
-      "zh-Hant": "網路安全",
-      "ar": "الأمن السيبراني",
-      "he": "אבטחת סייבר"
+      "zh-Hant": "網路安全"
     },
     "feeds": [
       "https://blog.talosintelligence.com/rss/",
@@ -3207,10 +3207,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "Wirtschaft",
       "en": "Economy",
+      "ar": "الاقتصاد",
+      "de": "Wirtschaft",
       "es": "Economía",
       "fr": "Économie",
+      "he": "כלכלה",
       "hi": "अर्थव्यवस्था",
       "it": "Economia",
       "ja": "経済",
@@ -3219,9 +3221,7 @@
       "ru": "Экономика",
       "uk": "Економіка",
       "zh-Hans": "经济",
-      "zh-Hant": "經濟",
-      "ar": "الاقتصاد",
-      "he": "כלכלה"
+      "zh-Hant": "經濟"
     },
     "feeds": [
       "http://feed.lastampa.it/economia.rss",
@@ -3317,10 +3317,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "Linux & OSS",
       "en": "Linux & OSS",
+      "ar": "لينكس والبرمجيات مفتوحة المصدر",
+      "de": "Linux & OSS",
       "es": "Linux y OSS",
       "fr": "Linux et OSS",
+      "he": "לינוקס וקוד פתוח",
       "hi": "लिनक्स और ओएसएस",
       "it": "Linux e OSS",
       "ja": "Linux & OSS",
@@ -3328,10 +3330,8 @@
       "pt": "Linux e OSS",
       "ru": "Linux и OSS",
       "uk": "Linux та OSS",
-      "zh-Hans": "Linux 与开源软件",
-      "zh-Hant": "Linux 與開源軟體",
-      "ar": "لينكس والبرمجيات مفتوحة المصدر",
-      "he": "לינוקס וקוד פתוח"
+      "zh-Hans": "Linux与开源软件",
+      "zh-Hant": "Linux與開源軟體"
     },
     "feeds": [
       "http://blog.linuxmint.com/?feed=rss2",
@@ -3416,10 +3416,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "Microsoft",
       "en": "Microsoft",
+      "ar": "مايكروسوفت",
+      "de": "Microsoft",
       "es": "Microsoft",
       "fr": "Microsoft",
+      "he": "מיקרוסופט",
       "hi": "माइक्रोसॉफ्ट",
       "it": "Microsoft",
       "ja": "マイクロソフト",
@@ -3428,9 +3430,7 @@
       "ru": "Microsoft",
       "uk": "Microsoft",
       "zh-Hans": "微软",
-      "zh-Hant": "微軟",
-      "ar": "مايكروسوفت",
-      "he": "מיקרוסופט"
+      "zh-Hant": "微軟"
     },
     "feeds": [
       "http://feeds.windowscentral.com/wmexperts",
@@ -3446,10 +3446,12 @@
     "category_type": "topic",
     "source_language": "en",
     "display_names": {
-      "de": "Datenschutz",
       "en": "Privacy",
+      "ar": "الخصوصية",
+      "de": "Datenschutz",
       "es": "Privacidad",
       "fr": "Confidentialité",
+      "he": "פרטיות",
       "hi": "गोपनीयता",
       "it": "Privacy",
       "ja": "プライバシー",
@@ -3458,9 +3460,7 @@
       "ru": "Конфиденциальность",
       "uk": "Конфіденційність",
       "zh-Hans": "隐私",
-      "zh-Hant": "隱私",
-      "ar": "الخصوصية",
-      "he": "פרטיות"
+      "zh-Hant": "隱私"
     },
     "feeds": [
       "https://arstechnica.com/information-technology/category/security/feed/",

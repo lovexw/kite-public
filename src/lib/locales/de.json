@@ -1364,8 +1364,8 @@
         "translationContext": "Label for the data/content language setting"
     },
     "settings.dataLanguage.tooltip": {
-        "text": "Nachrichten werden in ihrer ursprünglichen Quellsprache generiert und dann übersetzt. 'Standard' zeigt Artikel in ihren Originalsprachen ohne Übersetzung an.",
-        "translationContext": "Tooltip explaining how data language translation works"
+        "text": "Steuert die Sprache der Nachrichten und ihrer Inhalte.\n\n• Standard: Die meisten Kategorien in Ihrer Browsersprache ({{browserLang}}), Länder in der jeweiligen Landessprache\n• Quelle: Alle Inhalte in der Originalsprache\n• Andere: Alle Inhalte in die ausgewählte Sprache übersetzt",
+        "translationContext": "Tooltip explaining how data language translation works, with browser language variable"
     },
     "settings.experimental.articleIcons.description": {
         "text": "Wenn aktiviert, werden neben Artikeln kleine Symbole angezeigt, die visuelle Hinweise geben.",
@@ -2174,5 +2174,201 @@
     "meta.news": {
         "text": "Nachrichten",
         "translationContext": "The word 'News' used in titles"
+    },
+    "settings.categories.noEnabled": {
+        "text": "Keine Kategorien aktiviert",
+        "translationContext": "Shows when no categories are enabled"
+    },
+    "settings.categories.allCategories": {
+        "text": "Alle Kategorien",
+        "translationContext": "Label for showing all categories option in settings"
+    },
+    "settings.language.source": {
+        "text": "Quelle",
+        "translationContext": "Option for showing content in original source language"
+    },
+    "settings.tabs.syncPrivacy": {
+        "text": "Synchronisierung",
+        "translationContext": "Title for the sync and privacy settings tab"
+    },
+    "ui.cancel": {
+        "text": "Abbrechen",
+        "translationContext": "Text for cancel buttons"
+    },
+    "ui.ok": {
+        "text": "OK",
+        "translationContext": "Text for OK buttons"
+    },
+    "ui.back": {
+        "text": "Zurück",
+        "translationContext": "Text for back buttons"
+    },
+    "ui.success": {
+        "text": "Erfolgreich!",
+        "translationContext": "Text for success messages"
+    },
+    "ui.enable": {
+        "text": "Aktivieren",
+        "translationContext": "Text for enabling features"
+    },
+    "ui.disable": {
+        "text": "Deaktivieren",
+        "translationContext": "Text for disabling features"
+    },
+    "settings.sync.info.description": {
+        "text": "Kagi News kann Ihre Einstellungen und Ihren Leseverlauf auf allen Ihren Geräten synchronisieren. Diese Daten werden sicher auf den Kagi-Servern gespeichert und mit Ihrem Kagi-Search-Konto verknüpft.\n\nIhre synchronisierten Daten werden für keine anderen Zwecke verwendet, nicht mit Dritten geteilt und ausschließlich gespeichert, um Ihnen den Synchronisierungsdienst bereitzustellen. Sie haben die volle Kontrolle darüber, was synchronisiert wird, und können Ihre Daten jederzeit löschen.",
+        "translationContext": "Description of sync and privacy features"
+    },
+    "settings.sync.toggles.title": {
+        "text": "Synchronisierungseinstellungen",
+        "translationContext": "Title for sync preferences section"
+    },
+    "settings.sync.settings.label": {
+        "text": "Einstellungen synchronisieren",
+        "translationContext": "Label for settings sync toggle"
+    },
+    "settings.sync.settings.description": {
+        "text": "Schriftgröße, Anzahl der Beiträge und andere Präferenzen",
+        "translationContext": "Description of what settings get synced"
+    },
+    "settings.sync.settings.enableInfo": {
+        "text": "Wenn aktiviert, werden Ihre aktuellen Einstellungen hochgeladen und auf allen Ihren Geräten geteilt",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.readHistory.label": {
+        "text": "Leseverlauf synchronisieren",
+        "translationContext": "Label for read history sync toggle"
+    },
+    "settings.sync.readHistory.description": {
+        "text": "Beiträge, die Sie in allen Kategorien gelesen haben",
+        "translationContext": "Description of what read history gets synced"
+    },
+    "settings.sync.readHistory.enableInfo": {
+        "text": "Wenn aktiviert, wird Ihr Leseverlauf hochgeladen und auf allen Ihren Geräten synchronisiert",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.clear.title": {
+        "text": "Datenverwaltung",
+        "translationContext": "Title for data management section"
+    },
+    "settings.sync.clear.description": {
+        "text": "Sie haben die Kontrolle über Ihre Daten. Exportieren oder löschen Sie Ihre Cloud-Daten jederzeit. Das Löschen hat keine Auswirkungen auf lokale Daten.",
+        "translationContext": "Description of data management section"
+    },
+    "settings.sync.clear.button": {
+        "text": "Alle synchronisierten Daten löschen",
+        "translationContext": "Button text to clear all synced data"
+    },
+    "settings.sync.clear.clearing": {
+        "text": "Lösche...",
+        "translationContext": "Text shown while clearing data"
+    },
+    "settings.sync.clear.success": {
+        "text": "Alle synchronisierten Daten wurden erfolgreich gelöscht.",
+        "translationContext": "Success message after clearing synced data"
+    },
+    "settings.sync.notLoggedIn.title": {
+        "text": "Anmeldung erforderlich",
+        "translationContext": "Title when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.description": {
+        "text": "Melden Sie sich bei Ihrem Kagi-Konto an, um Ihre Einstellungen und Ihren Leseverlauf geräteübergreifend zu synchronisieren.",
+        "translationContext": "Description when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.signIn": {
+        "text": "Anmelden",
+        "translationContext": "Sign in button text"
+    },
+    "settings.sync.clear.confirmTitle": {
+        "text": "Alle synchronisierten Daten löschen?",
+        "translationContext": "Title for confirmation dialog when clearing synced data"
+    },
+    "settings.sync.clear.confirmMessage": {
+        "text": "Dadurch werden alle Ihre synchronisierten Einstellungen und Ihr Leseverlauf dauerhaft von den Kagi-Servern gelöscht. Ihre lokalen Daten bleiben erhalten.",
+        "translationContext": "Confirmation message when clearing synced data"
+    },
+    "settings.sync.clear.confirmWarning": {
+        "text": "Diese Aktion kann nicht rückgängig gemacht werden.",
+        "translationContext": "Warning message in confirmation dialog"
+    },
+    "settings.sync.clear.confirmButton": {
+        "text": "Löschen",
+        "translationContext": "Confirm button text for deleting synced data"
+    },
+    "settings.sync.clear.deleting": {
+        "text": "Ihre Daten werden gelöscht...",
+        "translationContext": "Loading message shown while deleting synced data"
+    },
+    "settings.sync.clear.errorNotLoggedIn": {
+        "text": "Sie müssen angemeldet sein, um synchronisierte Daten zu löschen",
+        "translationContext": "Error message when trying to clear data while not logged in"
+    },
+    "settings.sync.clear.errorFailed": {
+        "text": "Löschen der Daten fehlgeschlagen",
+        "translationContext": "Generic error message when clearing data fails"
+    },
+    "settings.sync.export.button": {
+        "text": "Daten exportieren",
+        "translationContext": "Button text to export synced data"
+    },
+    "settings.sync.export.exporting": {
+        "text": "Exportiere...",
+        "translationContext": "Text shown while exporting data"
+    },
+    "settings.sync.export.errorNotLoggedIn": {
+        "text": "Sie müssen angemeldet sein, um synchronisierte Daten zu exportieren",
+        "translationContext": "Error message when trying to export data while not logged in"
+    },
+    "settings.sync.export.errorFailed": {
+        "text": "Export der Daten fehlgeschlagen",
+        "translationContext": "Generic error message when exporting data fails"
+    },
+    "settings.mapsProvider.label": {
+        "text": "Kartenanbieter",
+        "translationContext": "Label for the maps provider setting"
+    },
+    "settings.mapsProvider.description": {
+        "text": "Wählen Sie aus, welcher Kartendienst für Standort-Links verwendet werden soll",
+        "translationContext": "Description explaining what the maps provider setting does"
+    },
+    "settings.mapsProvider.auto": {
+        "text": "Automatisch",
+        "translationContext": "Option for automatic maps provider selection based on login status"
+    },
+    "settings.mapsProvider.kagi": {
+        "text": "Kagi Maps",
+        "translationContext": "Option to use Kagi Maps"
+    },
+    "settings.mapsProvider.google": {
+        "text": "Google Maps",
+        "translationContext": "Option to use Google Maps"
+    },
+    "settings.mapsProvider.openstreetmap": {
+        "text": "OpenStreetMap",
+        "translationContext": "Option to use OpenStreetMap"
+    },
+    "settings.mapsProvider.apple": {
+        "text": "Apple Maps",
+        "translationContext": "Option to use Apple Maps"
+    },
+    "contentFilter.linkedStoryFilteredBecause": {
+        "text": "Der Beitrag, den Sie ansehen wollten, wird durch Ihren Inhaltsfilter blockiert:",
+        "translationContext": "Message shown when a linked/pre-opened story is filtered"
+    },
+    "contentFilter.linkedStoryClickToReveal": {
+        "text": "Trotzdem anzeigen",
+        "translationContext": "Instruction to reveal a linked/pre-opened filtered story"
+    },
+    "ui.skipToMainContent": {
+        "text": "Zum Hauptinhalt springen",
+        "translationContext": "Accessibility link to skip navigation and jump to main content"
+    },
+    "notification.newBatch.message": {
+        "text": "Neue Nachrichten verfügbar!",
+        "translationContext": "Toast notification message when a new batch of news is published"
+    },
+    "notification.newBatch.action": {
+        "text": "Anzeigen",
+        "translationContext": "Action button label on toast notification to view the new batch of news"
     }
 }

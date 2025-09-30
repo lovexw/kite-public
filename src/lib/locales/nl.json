@@ -1364,8 +1364,8 @@
         "translationContext": "Label for the data/content language setting"
     },
     "settings.dataLanguage.tooltip": {
-        "text": "Nieuwsverhalen worden gegenereerd in hun oorspronkelijke brontaal en vervolgens vertaald. 'Standaard' toont verhalen in hun oorspronkelijke talen zonder vertaling.",
-        "translationContext": "Tooltip explaining how data language translation works"
+        "text": "Regelt de taal van nieuwsberichten en hun inhoud.\n\n• Standaard: De meeste categorieën in uw browsertaal ({{browserLang}}), landen in de lokale taal\n• Bron: Alle inhoud in de oorspronkelijke taal\n• Overig: Alle inhoud vertaald naar de geselecteerde taal",
+        "translationContext": "Tooltip explaining how data language translation works, with browser language variable"
     },
     "settings.experimental.articleIcons.description": {
         "text": "Indien ingeschakeld, worden kleine pictogrammen naast artikelen weergegeven om visuele context te bieden.",
@@ -2174,5 +2174,201 @@
     "meta.news": {
         "text": "Nieuws",
         "translationContext": "The word 'News' used in titles"
+    },
+    "settings.categories.noEnabled": {
+        "text": "Geen categorieën ingeschakeld",
+        "translationContext": "Shows when no categories are enabled"
+    },
+    "settings.categories.allCategories": {
+        "text": "Alle categorieën",
+        "translationContext": "Label for showing all categories option in settings"
+    },
+    "settings.language.source": {
+        "text": "Bron",
+        "translationContext": "Option for showing content in original source language"
+    },
+    "settings.tabs.syncPrivacy": {
+        "text": "Synchroniseren",
+        "translationContext": "Title for the sync and privacy settings tab"
+    },
+    "ui.cancel": {
+        "text": "Annuleren",
+        "translationContext": "Text for cancel buttons"
+    },
+    "ui.ok": {
+        "text": "OK",
+        "translationContext": "Text for OK buttons"
+    },
+    "ui.back": {
+        "text": "Terug",
+        "translationContext": "Text for back buttons"
+    },
+    "ui.success": {
+        "text": "Gelukt!",
+        "translationContext": "Text for success messages"
+    },
+    "ui.enable": {
+        "text": "Inschakelen",
+        "translationContext": "Text for enabling features"
+    },
+    "ui.disable": {
+        "text": "Uitschakelen",
+        "translationContext": "Text for disabling features"
+    },
+    "settings.sync.info.description": {
+        "text": "Kagi News kan uw instellingen en leesgeschiedenis synchroniseren op al uw apparaten. Deze gegevens worden veilig opgeslagen op Kagi-servers en gekoppeld aan uw Kagi Search-account.\n\nUw gesynchroniseerde gegevens worden niet voor andere doeleinden gebruikt, met niemand gedeeld en worden uitsluitend opgeslagen om u de synchronisatiedienst te bieden. U heeft volledige controle over wat er wordt gesynchroniseerd en kunt uw gegevens op elk moment verwijderen.",
+        "translationContext": "Description of sync and privacy features"
+    },
+    "settings.sync.toggles.title": {
+        "text": "Synchronisatievoorkeuren",
+        "translationContext": "Title for sync preferences section"
+    },
+    "settings.sync.settings.label": {
+        "text": "Instellingen synchroniseren",
+        "translationContext": "Label for settings sync toggle"
+    },
+    "settings.sync.settings.description": {
+        "text": "Lettergrootte, aantal verhalen en andere voorkeuren",
+        "translationContext": "Description of what settings get synced"
+    },
+    "settings.sync.settings.enableInfo": {
+        "text": "Indien ingeschakeld, worden uw huidige instellingen geüpload en gedeeld op al uw apparaten",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.readHistory.label": {
+        "text": "Leesgeschiedenis synchroniseren",
+        "translationContext": "Label for read history sync toggle"
+    },
+    "settings.sync.readHistory.description": {
+        "text": "Verhalen die u in alle categorieën hebt gelezen",
+        "translationContext": "Description of what read history gets synced"
+    },
+    "settings.sync.readHistory.enableInfo": {
+        "text": "Indien ingeschakeld, wordt uw leesgeschiedenis geüpload en gesynchroniseerd op al uw apparaten",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.clear.title": {
+        "text": "Gegevensbeheer",
+        "translationContext": "Title for data management section"
+    },
+    "settings.sync.clear.description": {
+        "text": "U heeft de controle over uw gegevens. Exporteer of verwijder uw cloudgegevens op elk gewenst moment. Verwijdering heeft geen invloed op lokale gegevens.",
+        "translationContext": "Description of data management section"
+    },
+    "settings.sync.clear.button": {
+        "text": "Alle gesynchroniseerde gegevens wissen",
+        "translationContext": "Button text to clear all synced data"
+    },
+    "settings.sync.clear.clearing": {
+        "text": "Wissen...",
+        "translationContext": "Text shown while clearing data"
+    },
+    "settings.sync.clear.success": {
+        "text": "Alle gesynchroniseerde gegevens zijn succesvol verwijderd.",
+        "translationContext": "Success message after clearing synced data"
+    },
+    "settings.sync.notLoggedIn.title": {
+        "text": "Inloggen vereist",
+        "translationContext": "Title when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.description": {
+        "text": "Log in op uw Kagi-account om uw instellingen en leesgeschiedenis op verschillende apparaten te synchroniseren.",
+        "translationContext": "Description when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.signIn": {
+        "text": "Inloggen",
+        "translationContext": "Sign in button text"
+    },
+    "settings.sync.clear.confirmTitle": {
+        "text": "Alle gesynchroniseerde gegevens verwijderen?",
+        "translationContext": "Title for confirmation dialog when clearing synced data"
+    },
+    "settings.sync.clear.confirmMessage": {
+        "text": "Hiermee worden al uw gesynchroniseerde instellingen en leesgeschiedenis permanent verwijderd van de Kagi-servers. Uw lokale gegevens blijven intact.",
+        "translationContext": "Confirmation message when clearing synced data"
+    },
+    "settings.sync.clear.confirmWarning": {
+        "text": "Deze actie kan niet ongedaan worden gemaakt.",
+        "translationContext": "Warning message in confirmation dialog"
+    },
+    "settings.sync.clear.confirmButton": {
+        "text": "Verwijderen",
+        "translationContext": "Confirm button text for deleting synced data"
+    },
+    "settings.sync.clear.deleting": {
+        "text": "Uw gegevens worden verwijderd...",
+        "translationContext": "Loading message shown while deleting synced data"
+    },
+    "settings.sync.clear.errorNotLoggedIn": {
+        "text": "U moet ingelogd zijn om gesynchroniseerde gegevens te wissen",
+        "translationContext": "Error message when trying to clear data while not logged in"
+    },
+    "settings.sync.clear.errorFailed": {
+        "text": "Wissen van gegevens mislukt",
+        "translationContext": "Generic error message when clearing data fails"
+    },
+    "settings.sync.export.button": {
+        "text": "Gegevens exporteren",
+        "translationContext": "Button text to export synced data"
+    },
+    "settings.sync.export.exporting": {
+        "text": "Exporteren...",
+        "translationContext": "Text shown while exporting data"
+    },
+    "settings.sync.export.errorNotLoggedIn": {
+        "text": "U moet ingelogd zijn om gesynchroniseerde gegevens te exporteren",
+        "translationContext": "Error message when trying to export data while not logged in"
+    },
+    "settings.sync.export.errorFailed": {
+        "text": "Exporteren van gegevens mislukt",
+        "translationContext": "Generic error message when exporting data fails"
+    },
+    "settings.mapsProvider.label": {
+        "text": "Kaartaanbieder",
+        "translationContext": "Label for the maps provider setting"
+    },
+    "settings.mapsProvider.description": {
+        "text": "Kies welke kaartendienst te gebruiken voor locatielinks",
+        "translationContext": "Description explaining what the maps provider setting does"
+    },
+    "settings.mapsProvider.auto": {
+        "text": "Auto",
+        "translationContext": "Option for automatic maps provider selection based on login status"
+    },
+    "settings.mapsProvider.kagi": {
+        "text": "Kagi Maps",
+        "translationContext": "Option to use Kagi Maps"
+    },
+    "settings.mapsProvider.google": {
+        "text": "Google Maps",
+        "translationContext": "Option to use Google Maps"
+    },
+    "settings.mapsProvider.openstreetmap": {
+        "text": "OpenStreetMap",
+        "translationContext": "Option to use OpenStreetMap"
+    },
+    "settings.mapsProvider.apple": {
+        "text": "Apple Maps",
+        "translationContext": "Option to use Apple Maps"
+    },
+    "contentFilter.linkedStoryFilteredBecause": {
+        "text": "Het artikel dat je wilde bekijken, wordt geblokkeerd door je contentfilter:",
+        "translationContext": "Message shown when a linked/pre-opened story is filtered"
+    },
+    "contentFilter.linkedStoryClickToReveal": {
+        "text": "Klik om toch weer te geven",
+        "translationContext": "Instruction to reveal a linked/pre-opened filtered story"
+    },
+    "ui.skipToMainContent": {
+        "text": "Spring naar hoofdinhoud",
+        "translationContext": "Accessibility link to skip navigation and jump to main content"
+    },
+    "notification.newBatch.message": {
+        "text": "Nieuw nieuws beschikbaar!",
+        "translationContext": "Toast notification message when a new batch of news is published"
+    },
+    "notification.newBatch.action": {
+        "text": "Bekijken",
+        "translationContext": "Action button label on toast notification to view the new batch of news"
     }
 }

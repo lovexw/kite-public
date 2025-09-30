@@ -1380,8 +1380,8 @@
         "translationContext": "Label for the data/content language setting"
     },
     "settings.dataLanguage.tooltip": {
-        "text": "新聞報導會以其原始來源語言產生，然後再進行翻譯。「預設」會以原始語言顯示報導，而不進行翻譯。",
-        "translationContext": "Tooltip explaining how data language translation works"
+        "text": "控制新聞報導及其內容的語言。\n\n• 預設：大多數分類以您的瀏覽器語言（{{browserLang}}）顯示，國家/地區則以當地語言顯示\n• 來源：所有內容以原文顯示\n• 其他：所有內容翻譯為所選語言",
+        "translationContext": "Tooltip explaining how data language translation works, with browser language variable"
     },
     "settings.experimental.articleIcons.description": {
         "text": "啟用後，文章旁會顯示小圖示以提供視覺脈絡。",
@@ -2106,5 +2106,201 @@
     "shared.viewAllArticles": {
         "text": "← 檢視來自 {{{date}}} 的所有文章",
         "translationContext": "Button to exit shared article view and see all articles from a specific date. {{date}} will be replaced with a localized date."
+    },
+    "settings.categories.noEnabled": {
+        "text": "未啟用任何類別",
+        "translationContext": "Shows when no categories are enabled"
+    },
+    "settings.categories.allCategories": {
+        "text": "所有分類",
+        "translationContext": "Label for showing all categories option in settings"
+    },
+    "settings.language.source": {
+        "text": "原文",
+        "translationContext": "Option for showing content in original source language"
+    },
+    "settings.tabs.syncPrivacy": {
+        "text": "同步",
+        "translationContext": "Title for the sync and privacy settings tab"
+    },
+    "ui.cancel": {
+        "text": "取消",
+        "translationContext": "Text for cancel buttons"
+    },
+    "ui.ok": {
+        "text": "確定",
+        "translationContext": "Text for OK buttons"
+    },
+    "ui.back": {
+        "text": "返回",
+        "translationContext": "Text for back buttons"
+    },
+    "ui.success": {
+        "text": "成功！",
+        "translationContext": "Text for success messages"
+    },
+    "ui.enable": {
+        "text": "啟用",
+        "translationContext": "Text for enabling features"
+    },
+    "ui.disable": {
+        "text": "停用",
+        "translationContext": "Text for disabling features"
+    },
+    "settings.sync.info.description": {
+        "text": "Kagi News 可以在您所有裝置間同步您的設定和閱讀記錄。這些資料會安全地儲存在 Kagi 伺服器上，並與您的 Kagi Search 帳戶關聯。\n\n您同步的資料不會用於任何其他目的，不會與任何人分享，且僅為提供同步服務給您而儲存。您對同步的內容擁有完全的控制權，並可以隨時刪除您的資料。",
+        "translationContext": "Description of sync and privacy features"
+    },
+    "settings.sync.toggles.title": {
+        "text": "同步偏好設定",
+        "translationContext": "Title for sync preferences section"
+    },
+    "settings.sync.settings.label": {
+        "text": "同步設定",
+        "translationContext": "Label for settings sync toggle"
+    },
+    "settings.sync.settings.description": {
+        "text": "字體大小、文章數量及其他偏好設定",
+        "translationContext": "Description of what settings get synced"
+    },
+    "settings.sync.settings.enableInfo": {
+        "text": "啟用後，您目前的設定將會上傳並在您所有裝置間共享",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.readHistory.label": {
+        "text": "同步閱讀記錄",
+        "translationContext": "Label for read history sync toggle"
+    },
+    "settings.sync.readHistory.description": {
+        "text": "您在所有分類中已閱讀的文章",
+        "translationContext": "Description of what read history gets synced"
+    },
+    "settings.sync.readHistory.enableInfo": {
+        "text": "啟用後，您的閱讀記錄將會上傳並在您所有裝置間同步",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.clear.title": {
+        "text": "資料管理",
+        "translationContext": "Title for data management section"
+    },
+    "settings.sync.clear.description": {
+        "text": "您的資料由您全權掌控。您可以隨時匯出或刪除您的雲端資料。刪除操作不會影響本機資料。",
+        "translationContext": "Description of data management section"
+    },
+    "settings.sync.clear.button": {
+        "text": "清除所有同步資料",
+        "translationContext": "Button text to clear all synced data"
+    },
+    "settings.sync.clear.clearing": {
+        "text": "清除中...",
+        "translationContext": "Text shown while clearing data"
+    },
+    "settings.sync.clear.success": {
+        "text": "所有同步資料已成功刪除。",
+        "translationContext": "Success message after clearing synced data"
+    },
+    "settings.sync.notLoggedIn.title": {
+        "text": "需要登入",
+        "translationContext": "Title when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.description": {
+        "text": "登入您的 Kagi 帳戶，即可在不同裝置間同步您的設定和閱讀記錄。",
+        "translationContext": "Description when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.signIn": {
+        "text": "登入",
+        "translationContext": "Sign in button text"
+    },
+    "settings.sync.clear.confirmTitle": {
+        "text": "要刪除所有同步資料嗎？",
+        "translationContext": "Title for confirmation dialog when clearing synced data"
+    },
+    "settings.sync.clear.confirmMessage": {
+        "text": "此操作將從 Kagi 伺服器永久刪除您所有已同步的設定和閱讀記錄。您的本機資料將保持不變。",
+        "translationContext": "Confirmation message when clearing synced data"
+    },
+    "settings.sync.clear.confirmWarning": {
+        "text": "此操作無法復原。",
+        "translationContext": "Warning message in confirmation dialog"
+    },
+    "settings.sync.clear.confirmButton": {
+        "text": "刪除",
+        "translationContext": "Confirm button text for deleting synced data"
+    },
+    "settings.sync.clear.deleting": {
+        "text": "正在刪除您的資料...",
+        "translationContext": "Loading message shown while deleting synced data"
+    },
+    "settings.sync.clear.errorNotLoggedIn": {
+        "text": "您必須登入才能清除同步資料",
+        "translationContext": "Error message when trying to clear data while not logged in"
+    },
+    "settings.sync.clear.errorFailed": {
+        "text": "清除資料失敗",
+        "translationContext": "Generic error message when clearing data fails"
+    },
+    "settings.sync.export.button": {
+        "text": "匯出資料",
+        "translationContext": "Button text to export synced data"
+    },
+    "settings.sync.export.exporting": {
+        "text": "匯出中...",
+        "translationContext": "Text shown while exporting data"
+    },
+    "settings.sync.export.errorNotLoggedIn": {
+        "text": "您必須登入才能匯出同步資料",
+        "translationContext": "Error message when trying to export data while not logged in"
+    },
+    "settings.sync.export.errorFailed": {
+        "text": "匯出資料失敗",
+        "translationContext": "Generic error message when exporting data fails"
+    },
+    "settings.mapsProvider.label": {
+        "text": "地圖提供者",
+        "translationContext": "Label for the maps provider setting"
+    },
+    "settings.mapsProvider.description": {
+        "text": "選擇要用來開啟位置連結的地圖服務",
+        "translationContext": "Description explaining what the maps provider setting does"
+    },
+    "settings.mapsProvider.auto": {
+        "text": "自動",
+        "translationContext": "Option for automatic maps provider selection based on login status"
+    },
+    "settings.mapsProvider.kagi": {
+        "text": "Kagi 地圖",
+        "translationContext": "Option to use Kagi Maps"
+    },
+    "settings.mapsProvider.google": {
+        "text": "Google 地圖",
+        "translationContext": "Option to use Google Maps"
+    },
+    "settings.mapsProvider.openstreetmap": {
+        "text": "OpenStreetMap",
+        "translationContext": "Option to use OpenStreetMap"
+    },
+    "settings.mapsProvider.apple": {
+        "text": "Apple 地圖",
+        "translationContext": "Option to use Apple Maps"
+    },
+    "contentFilter.linkedStoryFilteredBecause": {
+        "text": "您想檢視的報導已被您的內容過濾器封鎖：",
+        "translationContext": "Message shown when a linked/pre-opened story is filtered"
+    },
+    "contentFilter.linkedStoryClickToReveal": {
+        "text": "點擊仍要顯示",
+        "translationContext": "Instruction to reveal a linked/pre-opened filtered story"
+    },
+    "ui.skipToMainContent": {
+        "text": "跳至主要內容",
+        "translationContext": "Accessibility link to skip navigation and jump to main content"
+    },
+    "notification.newBatch.message": {
+        "text": "有新的新聞！",
+        "translationContext": "Toast notification message when a new batch of news is published"
+    },
+    "notification.newBatch.action": {
+        "text": "查看",
+        "translationContext": "Action button label on toast notification to view the new batch of news"
     }
 }

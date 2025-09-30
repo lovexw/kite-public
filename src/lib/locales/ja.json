@@ -1364,8 +1364,8 @@
         "translationContext": "Label for the data/content language setting"
     },
     "settings.dataLanguage.tooltip": {
-        "text": "ニュース記事は最初に原言語で生成され、その後翻訳されます。「デフォルト」では、翻訳せずに元の言語で記事が表示されます。",
-        "translationContext": "Tooltip explaining how data language translation works"
+        "text": "ニュース記事とそのコンテンツの言語を設定します。\n\n• デフォルト: ほとんどのカテゴリーはブラウザの言語（{{browserLang}}）、国名は現地の言語で表示されます。\n• ソース: すべてのコンテンツが元の言語で表示されます。\n• その他: すべてのコンテンツが選択した言語に翻訳されます。",
+        "translationContext": "Tooltip explaining how data language translation works, with browser language variable"
     },
     "settings.experimental.articleIcons.description": {
         "text": "有効にすると、視覚的な補助として記事の横に小さなアイコンが表示されます。",
@@ -2174,5 +2174,201 @@
     "meta.news": {
         "text": "ニュース",
         "translationContext": "The word 'News' used in titles"
+    },
+    "settings.categories.noEnabled": {
+        "text": "有効なカテゴリがありません",
+        "translationContext": "Shows when no categories are enabled"
+    },
+    "settings.categories.allCategories": {
+        "text": "すべてのカテゴリー",
+        "translationContext": "Label for showing all categories option in settings"
+    },
+    "settings.language.source": {
+        "text": "原文",
+        "translationContext": "Option for showing content in original source language"
+    },
+    "settings.tabs.syncPrivacy": {
+        "text": "同期",
+        "translationContext": "Title for the sync and privacy settings tab"
+    },
+    "ui.cancel": {
+        "text": "キャンセル",
+        "translationContext": "Text for cancel buttons"
+    },
+    "ui.ok": {
+        "text": "OK",
+        "translationContext": "Text for OK buttons"
+    },
+    "ui.back": {
+        "text": "戻る",
+        "translationContext": "Text for back buttons"
+    },
+    "ui.success": {
+        "text": "成功しました！",
+        "translationContext": "Text for success messages"
+    },
+    "ui.enable": {
+        "text": "有効にする",
+        "translationContext": "Text for enabling features"
+    },
+    "ui.disable": {
+        "text": "無効にする",
+        "translationContext": "Text for disabling features"
+    },
+    "settings.sync.info.description": {
+        "text": "Kagiニュースは、設定と閲覧履歴をすべてのデバイスで同期できます。このデータはKagiのサーバーに安全に保存され、あなたのKagi検索アカウントに関連付けられます。\n\n同期されたデータは他の目的で使用されたり、誰かと共有されたりすることはなく、同期サービスを提供するためだけに保存されます。同期する内容を完全に管理でき、いつでもデータを削除できます。",
+        "translationContext": "Description of sync and privacy features"
+    },
+    "settings.sync.toggles.title": {
+        "text": "同期設定",
+        "translationContext": "Title for sync preferences section"
+    },
+    "settings.sync.settings.label": {
+        "text": "設定の同期",
+        "translationContext": "Label for settings sync toggle"
+    },
+    "settings.sync.settings.description": {
+        "text": "フォントサイズ、記事数、その他の設定",
+        "translationContext": "Description of what settings get synced"
+    },
+    "settings.sync.settings.enableInfo": {
+        "text": "有効にすると、現在の設定がアップロードされ、すべてのデバイスで共有されます",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.readHistory.label": {
+        "text": "閲覧履歴の同期",
+        "translationContext": "Label for read history sync toggle"
+    },
+    "settings.sync.readHistory.description": {
+        "text": "すべてのカテゴリーで閲覧した記事",
+        "translationContext": "Description of what read history gets synced"
+    },
+    "settings.sync.readHistory.enableInfo": {
+        "text": "有効にすると、閲覧履歴がアップロードされ、すべてのデバイスで同期されます",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.clear.title": {
+        "text": "データ管理",
+        "translationContext": "Title for data management section"
+    },
+    "settings.sync.clear.description": {
+        "text": "あなたのデータはあなたが管理します。クラウド上のデータはいつでもエクスポートまたは削除できます。削除してもローカルデータには影響しません。",
+        "translationContext": "Description of data management section"
+    },
+    "settings.sync.clear.button": {
+        "text": "同期データをすべて消去",
+        "translationContext": "Button text to clear all synced data"
+    },
+    "settings.sync.clear.clearing": {
+        "text": "消去中...",
+        "translationContext": "Text shown while clearing data"
+    },
+    "settings.sync.clear.success": {
+        "text": "すべての同期データが正常に削除されました。",
+        "translationContext": "Success message after clearing synced data"
+    },
+    "settings.sync.notLoggedIn.title": {
+        "text": "サインインが必要です",
+        "translationContext": "Title when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.description": {
+        "text": "設定と閲覧履歴をデバイス間で同期するには、Kagiアカウントにサインインしてください。",
+        "translationContext": "Description when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.signIn": {
+        "text": "サインイン",
+        "translationContext": "Sign in button text"
+    },
+    "settings.sync.clear.confirmTitle": {
+        "text": "すべての同期データを削除しますか？",
+        "translationContext": "Title for confirmation dialog when clearing synced data"
+    },
+    "settings.sync.clear.confirmMessage": {
+        "text": "これにより、Kagiサーバーから同期されたすべての設定と閲覧履歴が完全に削除されます。ローカルデータはそのまま残ります。",
+        "translationContext": "Confirmation message when clearing synced data"
+    },
+    "settings.sync.clear.confirmWarning": {
+        "text": "この操作は元に戻せません。",
+        "translationContext": "Warning message in confirmation dialog"
+    },
+    "settings.sync.clear.confirmButton": {
+        "text": "削除",
+        "translationContext": "Confirm button text for deleting synced data"
+    },
+    "settings.sync.clear.deleting": {
+        "text": "データを削除中...",
+        "translationContext": "Loading message shown while deleting synced data"
+    },
+    "settings.sync.clear.errorNotLoggedIn": {
+        "text": "同期データを消去するにはログインする必要があります",
+        "translationContext": "Error message when trying to clear data while not logged in"
+    },
+    "settings.sync.clear.errorFailed": {
+        "text": "データの消去に失敗しました",
+        "translationContext": "Generic error message when clearing data fails"
+    },
+    "settings.sync.export.button": {
+        "text": "データをエクスポート",
+        "translationContext": "Button text to export synced data"
+    },
+    "settings.sync.export.exporting": {
+        "text": "エクスポート中...",
+        "translationContext": "Text shown while exporting data"
+    },
+    "settings.sync.export.errorNotLoggedIn": {
+        "text": "同期データをエクスポートするにはログインする必要があります",
+        "translationContext": "Error message when trying to export data while not logged in"
+    },
+    "settings.sync.export.errorFailed": {
+        "text": "データのエクスポートに失敗しました",
+        "translationContext": "Generic error message when exporting data fails"
+    },
+    "settings.mapsProvider.label": {
+        "text": "マッププロバイダー",
+        "translationContext": "Label for the maps provider setting"
+    },
+    "settings.mapsProvider.description": {
+        "text": "位置情報リンクに使用するマップサービスを選択してください",
+        "translationContext": "Description explaining what the maps provider setting does"
+    },
+    "settings.mapsProvider.auto": {
+        "text": "自動",
+        "translationContext": "Option for automatic maps provider selection based on login status"
+    },
+    "settings.mapsProvider.kagi": {
+        "text": "Kagi マップ",
+        "translationContext": "Option to use Kagi Maps"
+    },
+    "settings.mapsProvider.google": {
+        "text": "Google マップ",
+        "translationContext": "Option to use Google Maps"
+    },
+    "settings.mapsProvider.openstreetmap": {
+        "text": "OpenStreetMap",
+        "translationContext": "Option to use OpenStreetMap"
+    },
+    "settings.mapsProvider.apple": {
+        "text": "Appleマップ",
+        "translationContext": "Option to use Apple Maps"
+    },
+    "contentFilter.linkedStoryFilteredBecause": {
+        "text": "表示しようとした記事は、コンテンツフィルターによってブロックされています:",
+        "translationContext": "Message shown when a linked/pre-opened story is filtered"
+    },
+    "contentFilter.linkedStoryClickToReveal": {
+        "text": "クリックして表示する",
+        "translationContext": "Instruction to reveal a linked/pre-opened filtered story"
+    },
+    "ui.skipToMainContent": {
+        "text": "メインコンテンツへスキップ",
+        "translationContext": "Accessibility link to skip navigation and jump to main content"
+    },
+    "notification.newBatch.message": {
+        "text": "新しいニュースが届きました",
+        "translationContext": "Toast notification message when a new batch of news is published"
+    },
+    "notification.newBatch.action": {
+        "text": "表示",
+        "translationContext": "Action button label on toast notification to view the new batch of news"
     }
 }

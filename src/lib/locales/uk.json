@@ -1364,8 +1364,8 @@
         "translationContext": "Label for the data/content language setting"
     },
     "settings.dataLanguage.tooltip": {
-        "text": "Новини генеруються мовою оригіналу, а потім перекладаються. «Типово» показує новини оригінальними мовами без перекладу.",
-        "translationContext": "Tooltip explaining how data language translation works"
+        "text": "Керує мовою новин та їхнім вмістом.\n\n• За замовчуванням: Більшість категорій мовою вашого браузера ({{browserLang}}), країни – місцевою мовою\n• Джерело: Увесь вміст мовою оригіналу\n• Інше: Увесь вміст перекладено на вибрану мову",
+        "translationContext": "Tooltip explaining how data language translation works, with browser language variable"
     },
     "settings.experimental.articleIcons.description": {
         "text": "Якщо ввімкнено, поруч зі статтями відображатимуться невеликі піктограми для забезпечення візуального контексту.",
@@ -2174,5 +2174,201 @@
     "meta.news": {
         "text": "Новини",
         "translationContext": "The word 'News' used in titles"
+    },
+    "settings.categories.noEnabled": {
+        "text": "Немає ввімкнених категорій",
+        "translationContext": "Shows when no categories are enabled"
+    },
+    "settings.categories.allCategories": {
+        "text": "Усі категорії",
+        "translationContext": "Label for showing all categories option in settings"
+    },
+    "settings.language.source": {
+        "text": "Джерело",
+        "translationContext": "Option for showing content in original source language"
+    },
+    "settings.tabs.syncPrivacy": {
+        "text": "Синхронізація",
+        "translationContext": "Title for the sync and privacy settings tab"
+    },
+    "ui.cancel": {
+        "text": "Скасувати",
+        "translationContext": "Text for cancel buttons"
+    },
+    "ui.ok": {
+        "text": "OK",
+        "translationContext": "Text for OK buttons"
+    },
+    "ui.back": {
+        "text": "Назад",
+        "translationContext": "Text for back buttons"
+    },
+    "ui.success": {
+        "text": "Успішно!",
+        "translationContext": "Text for success messages"
+    },
+    "ui.enable": {
+        "text": "Увімкнути",
+        "translationContext": "Text for enabling features"
+    },
+    "ui.disable": {
+        "text": "Вимкнути",
+        "translationContext": "Text for disabling features"
+    },
+    "settings.sync.info.description": {
+        "text": "Kagi News може синхронізувати ваші налаштування та історію читання на всіх ваших пристроях. Ці дані надійно зберігаються на серверах Kagi та пов'язані з вашим обліковим записом Kagi Search.\n\nВаші синхронізовані дані не використовуються для жодних інших цілей, не передаються нікому і зберігаються виключно для надання вам послуги синхронізації. Ви маєте повний контроль над тим, що синхронізується, і можете видалити свої дані в будь-який час.",
+        "translationContext": "Description of sync and privacy features"
+    },
+    "settings.sync.toggles.title": {
+        "text": "Налаштування синхронізації",
+        "translationContext": "Title for sync preferences section"
+    },
+    "settings.sync.settings.label": {
+        "text": "Синхронізувати налаштування",
+        "translationContext": "Label for settings sync toggle"
+    },
+    "settings.sync.settings.description": {
+        "text": "Розмір шрифту, кількість новин та інші налаштування",
+        "translationContext": "Description of what settings get synced"
+    },
+    "settings.sync.settings.enableInfo": {
+        "text": "Якщо увімкнено, ваші поточні налаштування будуть завантажені та синхронізовані на всіх ваших пристроях",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.readHistory.label": {
+        "text": "Синхронізувати історію читання",
+        "translationContext": "Label for read history sync toggle"
+    },
+    "settings.sync.readHistory.description": {
+        "text": "Новини, які ви прочитали в усіх категоріях",
+        "translationContext": "Description of what read history gets synced"
+    },
+    "settings.sync.readHistory.enableInfo": {
+        "text": "Якщо увімкнено, ваша історія читання буде завантажена та синхронізована на всіх ваших пристроях",
+        "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
+    },
+    "settings.sync.clear.title": {
+        "text": "Керування даними",
+        "translationContext": "Title for data management section"
+    },
+    "settings.sync.clear.description": {
+        "text": "Ви контролюєте свої дані. Експортуйте або видаляйте свої хмарні дані в будь-який час. Видалення не впливає на локальні дані.",
+        "translationContext": "Description of data management section"
+    },
+    "settings.sync.clear.button": {
+        "text": "Очистити всі синхронізовані дані",
+        "translationContext": "Button text to clear all synced data"
+    },
+    "settings.sync.clear.clearing": {
+        "text": "Очищення...",
+        "translationContext": "Text shown while clearing data"
+    },
+    "settings.sync.clear.success": {
+        "text": "Усі синхронізовані дані успішно видалено.",
+        "translationContext": "Success message after clearing synced data"
+    },
+    "settings.sync.notLoggedIn.title": {
+        "text": "Потрібен вхід",
+        "translationContext": "Title when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.description": {
+        "text": "Увійдіть у свій обліковий запис Kagi, щоб синхронізувати налаштування та історію читання між пристроями.",
+        "translationContext": "Description when user is not logged in"
+    },
+    "settings.sync.notLoggedIn.signIn": {
+        "text": "Увійти",
+        "translationContext": "Sign in button text"
+    },
+    "settings.sync.clear.confirmTitle": {
+        "text": "Видалити всі синхронізовані дані?",
+        "translationContext": "Title for confirmation dialog when clearing synced data"
+    },
+    "settings.sync.clear.confirmMessage": {
+        "text": "Це назавжди видалить усі ваші синхронізовані налаштування та історію читання з серверів Kagi. Ваші локальні дані залишаться недоторканими.",
+        "translationContext": "Confirmation message when clearing synced data"
+    },
+    "settings.sync.clear.confirmWarning": {
+        "text": "Цю дію неможливо скасувати.",
+        "translationContext": "Warning message in confirmation dialog"
+    },
+    "settings.sync.clear.confirmButton": {
+        "text": "Видалити",
+        "translationContext": "Confirm button text for deleting synced data"
+    },
+    "settings.sync.clear.deleting": {
+        "text": "Видалення ваших даних...",
+        "translationContext": "Loading message shown while deleting synced data"
+    },
+    "settings.sync.clear.errorNotLoggedIn": {
+        "text": "Ви повинні увійти в систему, щоб очистити синхронізовані дані",
+        "translationContext": "Error message when trying to clear data while not logged in"
+    },
+    "settings.sync.clear.errorFailed": {
+        "text": "Не вдалося очистити дані",
+        "translationContext": "Generic error message when clearing data fails"
+    },
+    "settings.sync.export.button": {
+        "text": "Експортувати дані",
+        "translationContext": "Button text to export synced data"
+    },
+    "settings.sync.export.exporting": {
+        "text": "Експорт...",
+        "translationContext": "Text shown while exporting data"
+    },
+    "settings.sync.export.errorNotLoggedIn": {
+        "text": "Ви повинні увійти в систему, щоб експортувати синхронізовані дані",
+        "translationContext": "Error message when trying to export data while not logged in"
+    },
+    "settings.sync.export.errorFailed": {
+        "text": "Не вдалося експортувати дані",
+        "translationContext": "Generic error message when exporting data fails"
+    },
+    "settings.mapsProvider.label": {
+        "text": "Постачальник карт",
+        "translationContext": "Label for the maps provider setting"
+    },
+    "settings.mapsProvider.description": {
+        "text": "Виберіть, який картографічний сервіс використовувати для посилань на місцезнаходження",
+        "translationContext": "Description explaining what the maps provider setting does"
+    },
+    "settings.mapsProvider.auto": {
+        "text": "Автоматично",
+        "translationContext": "Option for automatic maps provider selection based on login status"
+    },
+    "settings.mapsProvider.kagi": {
+        "text": "Карти Kagi",
+        "translationContext": "Option to use Kagi Maps"
+    },
+    "settings.mapsProvider.google": {
+        "text": "Google Карти",
+        "translationContext": "Option to use Google Maps"
+    },
+    "settings.mapsProvider.openstreetmap": {
+        "text": "OpenStreetMap",
+        "translationContext": "Option to use OpenStreetMap"
+    },
+    "settings.mapsProvider.apple": {
+        "text": "Apple Карти",
+        "translationContext": "Option to use Apple Maps"
+    },
+    "contentFilter.linkedStoryFilteredBecause": {
+        "text": "Статтю, яку ви хотіли переглянути, заблоковано вашим фільтром вмісту:",
+        "translationContext": "Message shown when a linked/pre-opened story is filtered"
+    },
+    "contentFilter.linkedStoryClickToReveal": {
+        "text": "Натисніть, щоб усе одно показати",
+        "translationContext": "Instruction to reveal a linked/pre-opened filtered story"
+    },
+    "ui.skipToMainContent": {
+        "text": "Перейти до основного вмісту",
+        "translationContext": "Accessibility link to skip navigation and jump to main content"
+    },
+    "notification.newBatch.message": {
+        "text": "З'явилися нові новини!",
+        "translationContext": "Toast notification message when a new batch of news is published"
+    },
+    "notification.newBatch.action": {
+        "text": "Переглянути",
+        "translationContext": "Action button label on toast notification to view the new batch of news"
     }
 }

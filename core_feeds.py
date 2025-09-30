@@ -861,6 +861,7 @@ feeds = {
         "https://openrss.org/www.axios.com",
         "https://openrss.org/www.inquirer.com/politics/",
         "https://pjmedia.com/news-and-politics/feed",
+        "https://politicalwire.com/feed/",
         "https://prospect.org/api/rss/content.rss",
         "https://quillette.com/tag/politics/rss",
         "https://reason.com/feed/",

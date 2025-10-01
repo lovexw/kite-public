@@ -3497,5 +3497,53 @@
       "https://www.reddit.com/r/hungary/best/.rss",
       "https://www.theguardian.com/world/hungary/rss"
     ]
+  },
+  "Denmark": {
+    "category_type": "topic",
+    "source_language": "dk",
+    "display_names": {
+      "de": "Dänemark",
+      "en": "Denmark",
+      "dk": "Danmark",
+      "es": "Dinamarca",
+      "fr": "Danemark"
+    },
+    "feeds": [
+      "https://www.berlingske.dk/next-api/feeds/alle",
+      "https://jv.dk/feed/forside",
+      "https://jv.dk/feed/danmark",
+      "https://www.dr.dk/nyheder/service/feeds/indland",
+      "https://www.dr.dk/nyheder/service/feeds/politik",
+      "https://www.dr.dk/nyheder/service/feeds/vejret",
+      "https://www.dr.dk/nyheder/service/feeds/regionale",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/kbh",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/bornholm",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/syd",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/fyn",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/vest",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/nord",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/trekanten",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/sjaelland",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/oestjylland",
+      "https://www.dr.dk/nyheder/service/feeds/sporten",
+      "https://politiken.dk/rss/indland.rss",
+      "https://politiken.dk/rss/debat.rss",
+      "https://politiken.dk/rss/ibyen.rss",
+      "https://politiken.dk/rss/sport.rss",
+      "https://politiken.dk/rss/mestlaeste.rss",
+      "https://politiken.dk/rss/senestenyt.rss",
+      "https://politiken.dk/rss/tophistorier.rss",
+      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/top-stories/jyllands-posten.dk",
+      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/latestNewsRss/jyllands-posten.dk",
+      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/mostReadRss/jyllands-posten.dk",
+      "https://borsen.dk/rss",
+      "https://borsen.dk/rss/breaking",
+      "https://borsen.dk/rss/ejendomme",
+      "https://borsen.dk/rss/finans",
+      "https://borsen.dk/rss/politik",
+      "https://borsen.dk/rss/tech",
+      "https://borsen.dk/rss/okonomi",
+      "https://borsen.dk/rss/virksomheder"
+    ]
   }
 }

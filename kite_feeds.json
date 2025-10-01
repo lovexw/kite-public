@@ -3502,6 +3502,7 @@
     },
     "feeds": [
       "https://www.berlingske.dk/next-api/feeds/alle",
+      "https://jv.dk/feed/forside",
       "https://jv.dk/feed/danmark",
       "https://www.dr.dk/nyheder/service/feeds/indland",
       "https://www.dr.dk/nyheder/service/feeds/politik",

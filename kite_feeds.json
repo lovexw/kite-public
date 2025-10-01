@@ -1929,7 +1929,14 @@
       "https://www.yonhapnewstv.co.kr/category/news/local/feed/",
       "https://www.yonhapnewstv.co.kr/category/news/politics/feed/",
       "https://www.yonhapnewstv.co.kr/category/news/society/feed/",
-      "https://www.yonhapnewstv.co.kr/category/news/sports/feed/"
+      "https://www.yonhapnewstv.co.kr/category/news/sports/feed/",
+      "https://news-ex.jtbc.co.kr/v1/get/rss/section/politics",
+      "https://news-ex.jtbc.co.kr/v1/get/rss/section/economy",
+      "https://news-ex.jtbc.co.kr/v1/get/rss/section/society",
+      "https://news-ex.jtbc.co.kr/v1/get/rss/section/international",
+      "https://news-ex.jtbc.co.kr/v1/get/rss/section/culture",
+      "https://news-ex.jtbc.co.kr/v1/get/rss/section/entertainment",
+      "https://news-ex.jtbc.co.kr/v1/get/rss/section/sports"
     ]
   },
   "Spain": {

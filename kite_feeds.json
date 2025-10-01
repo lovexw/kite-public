@@ -106,7 +106,8 @@
       "https://www.fma.gv.at/category/news/feed/",
       "https://www.moment.at/feed",
       "https://www.selektiv.at/feed/",
-      "https://www.wienerzeitung.at/rss.xml"
+      "https://www.wienerzeitung.at/rss.xml",
+      "https://tagebuch.at/feed/"
     ]
   },
   "Belgium": {
@@ -773,6 +774,7 @@
       "https://www.lemonde.fr/economie-francaise/rss_full.xml",
       "https://www.lemonde.fr/politique/rss_full.xml",
       "https://www.lemonde.fr/societe/rss_full.xml",
+      "https://www.monde-diplomatique.fr/rss/",
       "https://www.lepoint.fr/24h-infos/rss.xml",
       "https://www.lepoint.fr/politique/rss.xml",
       "https://www.lepoint.fr/societe/rss.xml",
@@ -851,7 +853,13 @@
       "https://www.t-online.de/nachrichten/feed.rss",
       "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
       "https://www.tagesspiegel.de/contentexport/feed",
-      "https://www.zdf.de/rss/zdf/nachrichten"
+      "https://www.zdf.de/rss/zdf/nachrichten",
+      "https://www.freitag.de/@@RSS",
+      "https://www.blaetter.de/rss.xml",
+      "https://www.surplusmagazin.de/rss/",
+      "https://katapult-magazin.de/feed/rss",
+      "https://www.nd-aktuell.de/rss/aktuell.php",
+      "https://netzpolitik.org/feed/"
     ]
   },
   "India": {
@@ -2414,7 +2422,10 @@
       "https://www.thescarboroughnews.co.uk/rss",
       "https://www.thescottishsun.co.uk/feed/",
       "https://www.worcesternews.co.uk/news/rss/",
-      "https://www.yorkpress.co.uk/news/rss/"
+      "https://www.yorkpress.co.uk/news/rss/",
+      "https://tribunemag.co.uk/feed/",
+      "https://newleftreview.org/feed",
+      "https://www.lrb.co.uk/feeds/rss"
     ]
   },
   "Ukraine": {
@@ -2536,7 +2547,8 @@
       "https://www.taiwan.net.tw/rss.aspx?sno=0001001",
       "https://www.ttv.com.tw/rss/RSSHandler.ashx?d=news",
       "https://www.ttv.com.tw/rss/RSSHandler.ashx?d=news&t=P",
-      "https://www.ttv.com.tw/rss/RSSHandler.ashx?d=news&t=Q"
+      "https://www.ttv.com.tw/rss/RSSHandler.ashx?d=news&t=Q",
+      "https://newbloommag.net/feed/"
     ]
   },
   "Europe": {
@@ -2724,7 +2736,8 @@
       "https://www.independent.co.uk/topic/middle-east/rss",
       "https://www.middleeasteye.net/rss",
       "https://www.middleeastmonitor.com/feed/",
-      "https://www.theguardian.com/world/middleeast/rss"
+      "https://www.theguardian.com/world/middleeast/rss",
+      "https://newlinesmag.com/feed/"
     ]
   },
   "USA | Vermont": {
@@ -2959,7 +2972,9 @@
       "https://www.sh-reya.com/rss.xml",
       "https://www.skynettoday.com/feed.xml",
       "https://www.technologyreview.com/feed/",
-      "https://www.wired.com/feed/tag/ai/latest/rss"
+      "https://www.wired.com/feed/tag/ai/latest/rss",
+      "https://chinai.substack.com/feed",
+      "https://www.wheresyoured.at/rss/"
     ]
   },
   "Apple": {
@@ -3417,7 +3432,8 @@
       "https://www.tecmint.com/feed/",
       "https://www.tomshardware.com/feeds/tag/linux",
       "https://www.ubuntupit.com/feed/",
-      "https://www.unixmen.com/feed/"
+      "https://www.unixmen.com/feed/",
+      "https://vermaden.wordpress.com/feed/"
     ]
   },
   "Microsoft": {

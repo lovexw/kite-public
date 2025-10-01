@@ -832,7 +832,7 @@ feeds = {
         "http://rss.cnn.com/rss/cnn_allpolitics.rss",
         "http://rss.cnn.com/rss/edition_us.rss",
         "http://rss.slashdot.org/Slashdot/slashdotPolitics",
-        "http://slatestarcodex.com/feed/",
+        "https://www.astralcodexten.com/feed",
         "http://www.marketwatch.com/rss/topstories/",
         "http://www.metafilter.com/tags/us/rss",
         "http://www.metafilter.com/tags/uspolitics/rss",

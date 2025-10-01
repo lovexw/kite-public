@@ -97,6 +97,7 @@
       "https://rss.orf.at/news.xml",
       "https://rss.orf.at/science.xml",
       "https://rss.orf.at/sport.xml",
+      "https://tagebuch.at/feed/",
       "https://www.derstandard.at/rss",
       "https://www.derstandard.at/rss/inland",
       "https://www.derstandard.at/rss/international",
@@ -106,8 +107,7 @@
       "https://www.fma.gv.at/category/news/feed/",
       "https://www.moment.at/feed",
       "https://www.selektiv.at/feed/",
-      "https://www.wienerzeitung.at/rss.xml",
-      "https://tagebuch.at/feed/"
+      "https://www.wienerzeitung.at/rss.xml"
     ]
   },
   "Belgium": {
@@ -774,7 +774,6 @@
       "https://www.lemonde.fr/economie-francaise/rss_full.xml",
       "https://www.lemonde.fr/politique/rss_full.xml",
       "https://www.lemonde.fr/societe/rss_full.xml",
-      "https://www.monde-diplomatique.fr/rss/",
       "https://www.lepoint.fr/24h-infos/rss.xml",
       "https://www.lepoint.fr/politique/rss.xml",
       "https://www.lepoint.fr/societe/rss.xml",
@@ -795,6 +794,7 @@
       "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/sports/?outputType=xml",
       "https://www.liberation.fr/arc/outboundfeeds/rss-all/collection/accueil-une/?outputType=xml",
       "https://www.marianne.net/rss.xml",
+      "https://www.monde-diplomatique.fr/rss/",
       "https://www.petitbleu.fr/rss.xml",
       "https://www.radiofrance.fr/franceinter/rss",
       "https://www.reddit.com/r/france/.rss",
@@ -829,6 +829,8 @@
     "feeds": [
       "https://correctiv.org/feed/",
       "https://jacobin.de/rss.xml",
+      "https://katapult-magazin.de/feed/rss",
+      "https://netzpolitik.org/feed/",
       "https://news.google.com/atom?hl=de-DE&gl=DE&ceid=DE:de",
       "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtUmxLQUFQAQ?hl=de&gl=DE&ceid=DE:de",
       "https://newsfeed.zeit.de/all",
@@ -836,30 +838,28 @@
       "https://rss.sueddeutsche.de/rss/Alles",
       "https://taz.de/!p4608;rss/",
       "https://www.augsburger-allgemeine.de/politik/rss",
+      "https://www.blaetter.de/rss.xml",
       "https://www.bundesregierung.de/service/rss/breg-de/1151242/feed.xml",
       "https://www.deutschlandfunk.de/nachrichten-100.rss",
       "https://www.faz.net/rss/aktuell",
       "https://www.fr.de/rssfeed.rdf",
+      "https://www.freitag.de/@@RSS",
       "https://www.ft.com/germany?format=rss",
       "https://www.handelsblatt.com/contentexport/feed/schlagzeilen",
       "https://www.handelsblatt.com/contentexport/feed/top-themen",
       "https://www.morgenpost.de/rss",
       "https://www.n-tv.de/politik/rss",
+      "https://www.nd-aktuell.de/rss/aktuell.php",
       "https://www.rbb24.de/aktuell/index.xml/feed=rss.xml",
       "https://www.reddit.com/r/de/.rss",
       "https://www.rnd.de/arc/outboundfeeds/rss/",
       "https://www.spiegel.de/schlagzeilen/index.rss",
       "https://www.stern.de/feed/standard/alle-nachrichten/",
+      "https://www.surplusmagazin.de/rss/",
       "https://www.t-online.de/nachrichten/feed.rss",
       "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
       "https://www.tagesspiegel.de/contentexport/feed",
-      "https://www.zdf.de/rss/zdf/nachrichten",
-      "https://www.freitag.de/@@RSS",
-      "https://www.blaetter.de/rss.xml",
-      "https://www.surplusmagazin.de/rss/",
-      "https://katapult-magazin.de/feed/rss",
-      "https://www.nd-aktuell.de/rss/aktuell.php",
-      "https://netzpolitik.org/feed/"
+      "https://www.zdf.de/rss/zdf/nachrichten"
     ]
   },
   "India": {
@@ -2372,6 +2372,7 @@
       "https://feeds.bbci.co.uk/news/uk/rss.xml",
       "https://feeds.skynews.com/feeds/rss/home.xml",
       "https://inews.co.uk/feed",
+      "https://newleftreview.org/feed",
       "https://news.google.com/atom/search?q=site%3Ahttps%3A%2F%2Fapublica.org&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
       "https://news.google.com/atom/search?q=site%3Ahttps%3A%2F%2Fdeolhonosruralistas.com.br&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
       "https://news.google.com/atom/search?q=site%3Ahttps%3A%2F%2Fojoioeotrigo.com.br&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
@@ -2382,6 +2383,7 @@
       "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGR6YzJNU0FtVnVLQUFQAQ?hl=en-GB&gl=GB&ceid=GB%3Aen",
       "https://news.stv.tv/feed",
       "https://newsuk1.com/feed/",
+      "https://tribunemag.co.uk/feed/",
       "https://www.belfastlive.co.uk/?service=rss",
       "https://www.birminghammail.co.uk/?service=rss",
       "https://www.cambridge-news.co.uk/?service=rss",
@@ -2401,6 +2403,7 @@
       "https://www.irvinetimes.com/news/rss/",
       "https://www.liverpoolecho.co.uk/rss.xml",
       "https://www.localgov.co.uk/rss",
+      "https://www.lrb.co.uk/feeds/rss",
       "https://www.manchestereveningnews.co.uk/?service=rss",
       "https://www.mylondon.news/rss.xml",
       "https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml",
@@ -2422,10 +2425,7 @@
       "https://www.thescarboroughnews.co.uk/rss",
       "https://www.thescottishsun.co.uk/feed/",
       "https://www.worcesternews.co.uk/news/rss/",
-      "https://www.yorkpress.co.uk/news/rss/",
-      "https://tribunemag.co.uk/feed/",
-      "https://newleftreview.org/feed",
-      "https://www.lrb.co.uk/feeds/rss"
+      "https://www.yorkpress.co.uk/news/rss/"
     ]
   },
   "Ukraine": {
@@ -2530,6 +2530,7 @@
       "https://feeds.feedburner.com/rsscna/local",
       "https://feeds.feedburner.com/rsscna/politics",
       "https://feeds.feedburner.com/rsscna/social",
+      "https://newbloommag.net/feed/",
       "https://news.google.com/rss/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE?hl=zh-TW&gl=TW&ceid=TW:zh-Hant",
       "https://news.pts.org.tw/xml/newsfeed.xml",
       "https://newtalk.tw/rss/category/13",
@@ -2547,8 +2548,7 @@
       "https://www.taiwan.net.tw/rss.aspx?sno=0001001",
       "https://www.ttv.com.tw/rss/RSSHandler.ashx?d=news",
       "https://www.ttv.com.tw/rss/RSSHandler.ashx?d=news&t=P",
-      "https://www.ttv.com.tw/rss/RSSHandler.ashx?d=news&t=Q",
-      "https://newbloommag.net/feed/"
+      "https://www.ttv.com.tw/rss/RSSHandler.ashx?d=news&t=Q"
     ]
   },
   "Europe": {
@@ -2715,6 +2715,7 @@
       "https://jordantimes.com/rss-feed/45",
       "https://jordantimes.com/rss-feed/46",
       "https://middleeastmnt.disqus.com/latest.rss",
+      "https://newlinesmag.com/feed/",
       "https://prod-qt-images.s3.amazonaws.com/production/gulfnews/feed.xml",
       "https://qna.org.qa/en/Pages/RSS-Feeds/Qatar",
       "https://rss.app/feeds/qoc2uGuUJyQbBd91.xml",
@@ -2736,8 +2737,7 @@
       "https://www.independent.co.uk/topic/middle-east/rss",
       "https://www.middleeasteye.net/rss",
       "https://www.middleeastmonitor.com/feed/",
-      "https://www.theguardian.com/world/middleeast/rss",
-      "https://newlinesmag.com/feed/"
+      "https://www.theguardian.com/world/middleeast/rss"
     ]
   },
   "USA | Vermont": {
@@ -2917,6 +2917,7 @@
     "feeds": [
       "https://bair.berkeley.edu/blog/feed.xml",
       "https://blog.samaltman.com/posts.atom",
+      "https://chinai.substack.com/feed",
       "https://crawshaw.io/atom.xml",
       "https://deepmind.google/blog/rss.xml",
       "https://eugeneyan.com/rss/",
@@ -2972,9 +2973,8 @@
       "https://www.sh-reya.com/rss.xml",
       "https://www.skynettoday.com/feed.xml",
       "https://www.technologyreview.com/feed/",
-      "https://www.wired.com/feed/tag/ai/latest/rss",
-      "https://chinai.substack.com/feed",
-      "https://www.wheresyoured.at/rss/"
+      "https://www.wheresyoured.at/rss/",
+      "https://www.wired.com/feed/tag/ai/latest/rss"
     ]
   },
   "Apple": {
@@ -3226,6 +3226,54 @@
       "https://www.wired.com/category/security/feed/"
     ]
   },
+  "Denmark": {
+    "category_type": "topic",
+    "source_language": "dk",
+    "display_names": {
+      "de": "Dänemark",
+      "en": "Denmark",
+      "dk": "Danmark",
+      "es": "Dinamarca",
+      "fr": "Danemark"
+    },
+    "feeds": [
+      "https://borsen.dk/rss",
+      "https://borsen.dk/rss/breaking",
+      "https://borsen.dk/rss/ejendomme",
+      "https://borsen.dk/rss/finans",
+      "https://borsen.dk/rss/okonomi",
+      "https://borsen.dk/rss/politik",
+      "https://borsen.dk/rss/tech",
+      "https://borsen.dk/rss/virksomheder",
+      "https://jv.dk/feed/danmark",
+      "https://jv.dk/feed/forside",
+      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/latestNewsRss/jyllands-posten.dk",
+      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/mostReadRss/jyllands-posten.dk",
+      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/top-stories/jyllands-posten.dk",
+      "https://politiken.dk/rss/debat.rss",
+      "https://politiken.dk/rss/ibyen.rss",
+      "https://politiken.dk/rss/indland.rss",
+      "https://politiken.dk/rss/mestlaeste.rss",
+      "https://politiken.dk/rss/senestenyt.rss",
+      "https://politiken.dk/rss/sport.rss",
+      "https://politiken.dk/rss/tophistorier.rss",
+      "https://www.berlingske.dk/next-api/feeds/alle",
+      "https://www.dr.dk/nyheder/service/feeds/indland",
+      "https://www.dr.dk/nyheder/service/feeds/politik",
+      "https://www.dr.dk/nyheder/service/feeds/regionale",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/bornholm",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/fyn",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/kbh",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/nord",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/oestjylland",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/sjaelland",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/syd",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/trekanten",
+      "https://www.dr.dk/nyheder/service/feeds/regionale/vest",
+      "https://www.dr.dk/nyheder/service/feeds/sporten",
+      "https://www.dr.dk/nyheder/service/feeds/vejret"
+    ]
+  },
   "Economy": {
     "category_type": "topic",
     "source_language": "en",
@@ -3404,6 +3452,7 @@
       "https://steamdeckhq.com/category/steamos/feed/",
       "https://thelibre.news/latest/rss/",
       "https://ubuntu.com/blog/feed",
+      "https://vermaden.wordpress.com/feed/",
       "https://www.blackmoreops.com/feed/",
       "https://www.cyberciti.biz/feed/",
       "https://www.debian.org/News/news",
@@ -3432,8 +3481,7 @@
       "https://www.tecmint.com/feed/",
       "https://www.tomshardware.com/feeds/tag/linux",
       "https://www.ubuntupit.com/feed/",
-      "https://www.unixmen.com/feed/",
-      "https://vermaden.wordpress.com/feed/"
+      "https://www.unixmen.com/feed/"
     ]
   },
   "Microsoft": {
@@ -3512,54 +3560,6 @@
       "https://www.police.hu/hu/rss/feed",
       "https://www.reddit.com/r/hungary/best/.rss",
       "https://www.theguardian.com/world/hungary/rss"
-    ]
-  },
-  "Denmark": {
-    "category_type": "topic",
-    "source_language": "dk",
-    "display_names": {
-      "de": "Dänemark",
-      "en": "Denmark",
-      "dk": "Danmark",
-      "es": "Dinamarca",
-      "fr": "Danemark"
-    },
-    "feeds": [
-      "https://www.berlingske.dk/next-api/feeds/alle",
-      "https://jv.dk/feed/forside",
-      "https://jv.dk/feed/danmark",
-      "https://www.dr.dk/nyheder/service/feeds/indland",
-      "https://www.dr.dk/nyheder/service/feeds/politik",
-      "https://www.dr.dk/nyheder/service/feeds/vejret",
-      "https://www.dr.dk/nyheder/service/feeds/regionale",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/kbh",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/bornholm",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/syd",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/fyn",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/vest",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/nord",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/trekanten",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/sjaelland",
-      "https://www.dr.dk/nyheder/service/feeds/regionale/oestjylland",
-      "https://www.dr.dk/nyheder/service/feeds/sporten",
-      "https://politiken.dk/rss/indland.rss",
-      "https://politiken.dk/rss/debat.rss",
-      "https://politiken.dk/rss/ibyen.rss",
-      "https://politiken.dk/rss/sport.rss",
-      "https://politiken.dk/rss/mestlaeste.rss",
-      "https://politiken.dk/rss/senestenyt.rss",
-      "https://politiken.dk/rss/tophistorier.rss",
-      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/top-stories/jyllands-posten.dk",
-      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/latestNewsRss/jyllands-posten.dk",
-      "https://newsletter-proxy.aws.jyllands-posten.dk/v1/mostReadRss/jyllands-posten.dk",
-      "https://borsen.dk/rss",
-      "https://borsen.dk/rss/breaking",
-      "https://borsen.dk/rss/ejendomme",
-      "https://borsen.dk/rss/finans",
-      "https://borsen.dk/rss/politik",
-      "https://borsen.dk/rss/tech",
-      "https://borsen.dk/rss/okonomi",
-      "https://borsen.dk/rss/virksomheder"
     ]
   }
 }

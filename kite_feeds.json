@@ -1654,6 +1654,7 @@
     },
     "feeds": [
       "https://adevarul.ro/rss/",
+      "https://economedia.ro/feed",
       "https://evz.ro/rss.xml",
       "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFpqTVhrU0FuSnZLQUFQAQ?hl=ro&gl=RO&ceid=RO%3Aro&oc=11",
       "https://playtech.ro/feed",

@@ -2724,8 +2724,22 @@
     "source_language": "en",
     "display_names": {
       "en": "USA | Michigan",
+      "ar": "الولايات المتحدة | ميشيغان",
+      "de": "USA | Michigan",
+      "es": "EE.UU. | Míchigan",
+      "fr": "États-Unis | Michigan",
+      "he": "ארה\"ב | מישיגן",
+      "hi": "यूएसए | मिशिगन",
+      "it": "USA | Michigan",
+      "ja": "アメリカ | ミシガン州",
+      "nl": "VS | Michigan",
+      "pt": "EUA | Michigan",
+      "ru": "США | Мичиган",
+      "uk": "США | Мічиган",
+      "zh-Hans": "美国 | 密歇根州",
+      "zh-Hant": "美國 | 密西根州"
     },
-    "feeds": {
+    "feeds": [
       "https://www.clickondetroit.com/arc/outboundfeeds/rss/category/news/?outputType=xml",
       "https://flipboard.com/@mlivecom/michigan-news-from-mlive.com-bnm6qshiz.rss",
       "https://www.wxyz.com/news.rss",
@@ -2752,8 +2766,8 @@
       "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US%3Aen&oc=11&q=site%3Awww.axios.com/local/detroit",
       "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US%3Aen&oc=11&q=site%3Acrainsdetroit.com",
       "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US%3Aen&oc=11&q=site%3Awww.wilx.com/news/",
-      "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US%3Aen&oc=11&q=site%3Ahttps://wwmt.com/",
-    }
+      "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US%3Aen&oc=11&q=site%3Ahttps://wwmt.com/"
+    ]
   },
   "USA | Vermont": {
     "category_type": "region",

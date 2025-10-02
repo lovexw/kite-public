@@ -2532,7 +2532,6 @@
       "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp4TVhJU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen&oc=11",
       "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpWTJ3U0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen&oc=11",
       "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRGR6YzJNU0FtVnVLQUFQAQ?hl=en-GB&gl=GB&ceid=GB%3Aen",
-      "https://news.stv.tv/feed",
       "https://newsuk1.com/feed/",
       "https://tribunemag.co.uk/feed/",
       "https://www.belfastlive.co.uk/?service=rss",
@@ -2544,9 +2543,6 @@
       "https://www.deadlinenews.co.uk/feed/",
       "https://www.essexlive.news/rss.xml",
       "https://www.ft.com/england?format=rss",
-      "https://www.gbnews.com/feeds/feed.rss",
-      "https://www.glasgowlive.co.uk/?service=rss",
-      "https://www.glasgowtimes.co.uk/news/rss/",
       "https://www.grimsbytelegraph.co.uk/news/?service=rss",
       "https://www.heraldscotland.com/news/rss/",
       "https://www.independent.co.uk/rss",
@@ -2576,7 +2572,10 @@
       "https://www.thescarboroughnews.co.uk/rss",
       "https://www.thescottishsun.co.uk/feed/",
       "https://www.worcesternews.co.uk/news/rss/",
-      "https://www.yorkpress.co.uk/news/rss/"
+      "https://www.yorkpress.co.uk/news/rss/",
+      "https://theconversation.com/uk/articles.atom",
+      "https://www.express.co.uk/posts/rss/1/uk",
+      "https://www.huffingtonpost.co.uk/feeds/index.xml"
     ]
   },
   "Ukraine": {

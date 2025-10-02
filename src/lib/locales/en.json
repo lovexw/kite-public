@@ -1339,6 +1339,14 @@
 		"text": "Filters graphic violence, shootings, and death-related content",
 		"translationContext": "Tooltip description for violence preset"
 	},
+	"settings.contentFilter.preset.sexual-misconduct": {
+		"text": "Sexual Misconduct",
+		"translationContext": "Name of sexual misconduct preset filter"
+	},
+	"settings.contentFilter.preset.sexual-misconduct.tooltip": {
+		"text": "Filters sexual harassment, assault, and abuse-related content",
+		"translationContext": "Tooltip description for sexual misconduct preset"
+	},
 	"settings.contentFilter.presets.description": {
 		"text": "Select one or more preset filters to quickly hide common topics",
 		"translationContext": "Description for filter presets section"

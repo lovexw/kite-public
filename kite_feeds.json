@@ -190,6 +190,7 @@
       "zh-Hans": "巴西",
       "zh-Hant": "巴西"
     },
+    "feeds": [
      "http://agenciabrasil.ebc.com.br/rss/internacional/feed.xml",
       "http://cinema.uol.com.br/ultnot/index.xml",
       "http://pox.globo.com/rss/valor",

@@ -2551,6 +2551,7 @@
       "https://www.independent.co.uk/rss",
       "https://www.irishtimes.com/arc/outboundfeeds/feed-irish-news/?from=0&size=20",
       "https://www.irvinetimes.com/news/rss/",
+      "https://www.lemonde.fr/united-kingdom/rss_full.xml",
       "https://www.liverpoolecho.co.uk/rss.xml",
       "https://www.localgov.co.uk/rss",
       "https://www.lrb.co.uk/feeds/rss",
@@ -2575,7 +2576,6 @@
       "https://www.thescarboroughnews.co.uk/rss",
       "https://www.thescottishsun.co.uk/feed/",
       "https://www.worcesternews.co.uk/news/rss/",
-      "https://www.lemonde.fr/united-kingdom/rss_full.xml",
       "https://www.yorkpress.co.uk/news/rss/"
     ]
   },

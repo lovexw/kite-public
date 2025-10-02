@@ -2891,6 +2891,40 @@
       "https://www.theguardian.com/world/middleeast/rss"
     ]
   },
+  "USA | Colorado": {
+    "feeds": [
+      "https://9news.com/feeds/syndication/rss/news",
+      "https://aspentimes.com/feed",
+      "https://businessden.com/feed",
+      "https://www.cbsnews.com/latest/rss/main",
+      "https://www.coloradocommunitymedia.com/search/?f=rss",
+      "https://coloradonewsline.com/feed",
+      "https://www.coloradopolitics.com/feed/",
+      "https://cpr.org/feed/",
+      "https://coloradotimesrecorder.com/feed/",
+      "https://dailycamera.com/feed",
+      "https://denverite.com/feed",
+      "https://www.denver7.com/index.rss",
+      "https://feeds.bizjournals.com/denver",
+      "https://denverpost.com/feed",
+      "https://www.durangoherald.com/feeds/local-news/",
+      "https://www.fox21news.com/feed/",
+      "https://kdvr.com/feed",
+      "https://gazette.com/feed",
+      "https://greeleytribune.com/feed",
+      "https://koaa.com/news.rss",
+      "https://krdo.com/feed",
+      "https://timescall.com/feed",
+      "https://northfortynews.com/feed",
+      "https://sentinelcolorado.com/feed",
+      "https://steamboatpilot.com/feed",
+      "https://summitdaily.com/feed",
+      "https://coloradosun.com/feed",
+      "https://www.gjsentinel.com/search/?f=rss",
+      "https://vaildaily.com/feed",
+      "https://www.westword.com/feed/"
+    ]
+  },
   "USA | Michigan": {
     "category_type": "region",
     "source_language": "en",

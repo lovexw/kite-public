@@ -30,6 +30,7 @@
       "https://kalkinemedia.com/feed",
       "https://news.google.com/atom/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR05vWjJoNUVnSnFZU2dBUAE?hl=en-US&gl=US&ceid=US%3Aen&oc=11",
       "https://tasmaniantimes.com/feed/",
+      "https://theconversation.com/au/articles.atom",
       "https://thewest.com.au/feed",
       "https://thewest.com.au/rss",
       "https://westsidecommunitynews.com.au/feed/",
@@ -58,8 +59,7 @@
       "https://www.thegcminute.com.au/feed",
       "https://www.theguardian.com/australia-news/australian-politics/rss",
       "https://www.theguardian.com/australia-news/rss",
-      "https://www.werribeenews.com.au/feed/",
-      "https://theconversation.com/au/articles.atom"
+      "https://www.werribeenews.com.au/feed/"
     ]
   },
   "Austria": {

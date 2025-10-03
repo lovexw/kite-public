@@ -58,7 +58,8 @@
       "https://www.thegcminute.com.au/feed",
       "https://www.theguardian.com/australia-news/australian-politics/rss",
       "https://www.theguardian.com/australia-news/rss",
-      "https://www.werribeenews.com.au/feed/"
+      "https://www.werribeenews.com.au/feed/",
+      "https://theconversation.com/au/articles.atom"
     ]
   },
   "Austria": {

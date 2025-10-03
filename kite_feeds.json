@@ -3843,6 +3843,7 @@
       "https://podnews.net/prebuilt/rss-events.xml",
       "https://newsroom.spotify.com/feed/",
       "https://podnews.net/sitemap/trailers.xml",
+      "https://podcastrex.com/feed",
       "https://podcastmarketingmagic.substack.com/feed",
       "https://hnrss.org/newest?q=podcast",
       "https://www.adresultsmedia.com/feed/",
@@ -3854,7 +3855,7 @@
       "https://goodtape.com/feed/",
       "http://analytics.podtrac.com/blog?format=RSS",
       "https://www.westwoodone.com/feed/"
-      ],
+      ]
   },
   "Privacy": {
     "category_type": "topic",

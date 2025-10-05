@@ -116,7 +116,7 @@
     "translationContext": "Button to export filter settings to a file"
   },
   "settings.contentFilter.exportImport.description": {
-    "text": "將您的篩選器設定匯出至檔案，或從先前的備份匯入",
+    "text": "將篩選器設定匯出至檔案，或從先前的備份匯入",
     "translationContext": "Description of export/import functionality"
   },
   "settings.contentFilter.exportImport.title": {
@@ -132,7 +132,7 @@
     "translationContext": "Button to confirm import action"
   },
   "settings.contentFilter.importConfirm.backup": {
-    "text": "提示：先匯出您目前的設定以建立備份。",
+    "text": "提示：建議先匯出目前的設定以建立備份。",
     "translationContext": "Tip about creating a backup before importing"
   },
   "settings.contentFilter.importConfirm.title": {
@@ -140,11 +140,11 @@
     "translationContext": "Title of import confirmation dialog"
   },
   "settings.contentFilter.importConfirm.versionNewer": {
-    "text": "此設定檔來自較新的版本，某些設定可能無法正常運作。",
+    "text": "此設定檔來自較新的版本，部分設定可能無法正常運作。",
     "translationContext": "Warning when importing from a newer version"
   },
   "settings.contentFilter.importConfirm.versionOlder": {
-    "text": "此設定檔來自較舊的版本，某些功能可能會遺失。",
+    "text": "此設定檔來自較舊的版本，部分功能可能會遺失。",
     "translationContext": "Warning when importing from an older version"
   },
   "settings.contentFilter.importConfirm.warning": {
@@ -160,7 +160,7 @@
     "translationContext": "Error when import file cannot be parsed"
   },
   "settings.contentFilter.keywords.description": {
-    "text": "新增您自己的篩選關鍵字，並以逗號分隔",
+    "text": "新增自訂的篩選關鍵字，以逗號分隔",
     "translationContext": "Description for keywords input"
   },
   "settings.contentFilter.keywords.label": {
@@ -176,7 +176,7 @@
     "translationContext": "Option to blur filtered content"
   },
   "settings.contentFilter.mode.blurDescription": {
-    "text": "新聞將被模糊化，點選後即可顯示",
+    "text": "新聞將會模糊處理，點選即可顯示",
     "translationContext": "Description for blur mode"
   },
   "settings.contentFilter.mode.description": {
@@ -188,7 +188,7 @@
     "translationContext": "Option to hide filtered content completely"
   },
   "settings.contentFilter.mode.hideDescription": {
-    "text": "被篩選的報導將從視野中移除",
+    "text": "被篩選的報導將不會顯示",
     "translationContext": "Description for hide mode"
   },
   "settings.contentFilter.mode.label": {
@@ -200,7 +200,7 @@
     "translationContext": "Name of AI preset filter"
   },
   "settings.contentFilter.preset.ai.tooltip": {
-    "text": "篩選有關 AI 熱潮、大型語言模型 (LLM) 新聞以及技術突破的公告",
+    "text": "篩選有關 AI 熱潮、大型語言模型 (LLM) 的新聞和技術突破的公告",
     "translationContext": "Tooltip description for AI preset"
   },
   "settings.contentFilter.preset.celebrities": {
@@ -216,7 +216,7 @@
     "translationContext": "Name of climate preset filter"
   },
   "settings.contentFilter.preset.climate.tooltip": {
-    "text": "篩選氣候變遷新聞和環境危機報導",
+    "text": "篩選氣候變遷和環境危機相關報導",
     "translationContext": "Tooltip description for climate preset"
   },
   "settings.contentFilter.preset.conflicts": {
@@ -224,7 +224,7 @@
     "translationContext": "Name of conflicts preset filter"
   },
   "settings.contentFilter.preset.conflicts.tooltip": {
-    "text": "篩選來自不同地區的戰爭、軍事衝突和相關暴力事件",
+    "text": "篩選戰爭、軍事衝突和各地暴力事件相關報導",
     "translationContext": "Tooltip description for conflicts preset"
   },
   "settings.contentFilter.preset.crypto": {
@@ -232,7 +232,7 @@
     "translationContext": "Name of cryptocurrency preset filter"
   },
   "settings.contentFilter.preset.crypto.tooltip": {
-    "text": "篩選加密貨幣、區塊鏈和 Web3 相關內容",
+    "text": "篩選加密貨幣、區塊鏈和 Web3 相關的內容",
     "translationContext": "Tooltip description for crypto preset"
   },
   "settings.contentFilter.preset.health": {
@@ -240,7 +240,7 @@
     "translationContext": "Name of health crises preset filter"
   },
   "settings.contentFilter.preset.health.tooltip": {
-    "text": "篩選疫情新聞、病毒爆發和相關的健康緊急事件內容",
+    "text": "篩選疫情、病毒爆發和健康緊急事件相關的內容",
     "translationContext": "Tooltip description for health preset"
   },
   "settings.contentFilter.preset.politics": {
@@ -264,7 +264,7 @@
     "translationContext": "Name of tabloid sources preset filter"
   },
   "settings.contentFilter.preset.tabloid.tooltip": {
-    "text": "篩選來自已知小報和聳動新聞來源的新聞",
+    "text": "篩選來自八卦小報和聳動新聞來源的內容",
     "translationContext": "Tooltip description for tabloid preset"
   },
   "settings.contentFilter.preset.violence": {
@@ -272,11 +272,11 @@
     "translationContext": "Name of violence preset filter"
   },
   "settings.contentFilter.preset.violence.tooltip": {
-    "text": "篩選暴力、槍擊和死亡相關內容",
+    "text": "篩選暴力、槍擊事件和死亡相關的內容",
     "translationContext": "Tooltip description for violence preset"
   },
   "settings.contentFilter.presets.description": {
-    "text": "選取一個或多個預設篩選器以快速隱藏常見主題",
+    "text": "選取一個或多個預設篩選器，即可快速隱藏常見主題",
     "translationContext": "Description for filter presets section"
   },
   "settings.contentFilter.presets.label": {
@@ -300,7 +300,7 @@
     "translationContext": "Option to filter by all content"
   },
   "settings.contentFilter.scope.description": {
-    "text": "選擇要在報導的哪個部分檢查關鍵字",
+    "text": "選擇要檢查關鍵字的報導區段",
     "translationContext": "Description for filter scope selection"
   },
   "settings.contentFilter.scope.label": {
@@ -324,7 +324,7 @@
     "translationContext": "Label for show filtered count toggle"
   },
   "settings.contentFilter.tab.description": {
-    "text": "過濾您不想看到的主題，打造個人化的新聞動態。您可使用預設的篩選條件，或使用自訂關鍵字來過濾主題。",
+    "text": "過濾您不想看到的主題，打造個人化的新聞動態。可以使用預設篩選條件快速隱藏常見主題，也可以自訂關鍵字建立專屬的篩選規則。",
     "translationContext": "Description shown at the top of content filter settings tab"
   },
   "settings.dataLanguage.label": {
@@ -332,11 +332,11 @@
     "translationContext": "Label for the data/content language setting"
   },
   "settings.dataLanguage.tooltip": {
-    "text": "控制新聞報導及其內容的語言。\n\n• 預設：大多數分類以您的瀏覽器語言（{{browserLang}}）顯示，國家/地區分類則以當地語言顯示\n• 原文：所有內容以原始語言顯示\n• 其他語言：所有內容翻譯為所選語言",
+    "text": "控制新聞報導及其內容的語言。\n\n• 預設：多數分類會以您的瀏覽器語言（{{browserLang}}）顯示，國家/地區分類則以當地語言顯示\n• 原文：所有內容皆以原始語言顯示\n• 其他：所有內容皆翻譯為您選取的語言",
     "translationContext": "Tooltip explaining how data language translation works, with browser language variable"
   },
   "settings.experimental.articleIcons.description": {
-    "text": "啟用後，文章旁會顯示小圖示以提供視覺脈絡。",
+    "text": "啟用後，文章旁會顯示小圖示來提供視覺脈絡。",
     "translationContext": "Description for article icons setting"
   },
   "settings.experimental.articleIcons.label": {
@@ -344,7 +344,7 @@
     "translationContext": "Label for article icons setting"
   },
   "settings.experimental.categoryIcons.description": {
-    "text": "啟用後，分類標籤旁會顯示小圖示以提供視覺脈絡。",
+    "text": "啟用後，分類標籤旁會顯示小圖示來提供視覺脈絡。",
     "translationContext": "Description for category icons setting"
   },
   "settings.experimental.categoryIcons.label": {
@@ -364,11 +364,11 @@
     "translationContext": "Description for citations setting"
   },
   "settings.experimental.citations.label": {
-    "text": "顯示來源引文",
+    "text": "顯示來源引用",
     "translationContext": "Label for citations setting"
   },
   "settings.experimental.disableCategorySwipe.description": {
-    "text": "啟用後，將停用在行動裝置上透過水平滑動來變更分類的功能。",
+    "text": "啟用後，將停用在行動裝置上透過水平滑動切換分類的功能。",
     "translationContext": "Description for disable category swipe setting"
   },
   "settings.experimental.disableCategorySwipe.label": {
@@ -376,7 +376,7 @@
     "translationContext": "Label for disable category swipe setting"
   },
   "settings.experimental.warning": {
-    "text": "這些是實驗性功能，可能隨時會變更或移除。",
+    "text": "這些是實驗性功能，可能隨時變更或移除。",
     "translationContext": "Warning text for experimental features"
   },
   "settings.fontSize.label": {
@@ -448,7 +448,7 @@
     "translationContext": "Option to use OpenStreetMap"
   },
   "settings.sections.instructions": {
-    "text": "拖曳以重新排序區段。使用開關來啟用/停用。",
+    "text": "拖曳以重新排序區段。使用切換開關來啟用/停用。",
     "translationContext": "Instructions for managing article sections"
   },
   "settings.sections.orderReset": {
@@ -460,7 +460,7 @@
     "translationContext": "Button text to reset section order to defaults"
   },
   "settings.sections.sourcesRequired": {
-    "text": "為了保持透明度和可信度，來源將一律顯示",
+    "text": "為保持透明度和可信度，將一律顯示來源",
     "translationContext": "Tooltip explaining why sources section cannot be disabled"
   },
   "settings.sections.switch": {
@@ -492,7 +492,7 @@
     "translationContext": "Option to always expand all stories automatically"
   },
   "settings.storyExpandMode.description": {
-    "text": "選擇在檢視分類時如何展開報導",
+    "text": "選擇檢視分類時，報導的展開方式",
     "translationContext": "Description for story expand mode setting"
   },
   "settings.storyExpandMode.doubleClick": {
@@ -508,7 +508,7 @@
     "translationContext": "Option to disable bulk story expansion"
   },
   "settings.storyOpenMode.description": {
-    "text": "選擇一次允許開啟多則報導，或僅開啟一則",
+    "text": "選擇要允許同時開啟多則報導，或是一次只開啟一則",
     "translationContext": "Description for story open mode setting"
   },
   "settings.storyOpenMode.label": {
@@ -556,7 +556,7 @@
     "translationContext": "Confirm button text for deleting synced data"
   },
   "settings.sync.clear.confirmMessage": {
-    "text": "此操作將從 Kagi 伺服器永久刪除您所有已同步的設定和閱讀記錄，但您的本機資料不會受到影響。",
+    "text": "此操作將從 Kagi 伺服器永久刪除所有已同步的設定和閱讀紀錄，但裝置上的本機資料不會受到影響。",
     "translationContext": "Confirmation message when clearing synced data"
   },
   "settings.sync.clear.confirmTitle": {
@@ -568,11 +568,11 @@
     "translationContext": "Warning message in confirmation dialog"
   },
   "settings.sync.clear.deleting": {
-    "text": "正在刪除您的資料...",
+    "text": "正在刪除資料...",
     "translationContext": "Loading message shown while deleting synced data"
   },
   "settings.sync.clear.description": {
-    "text": "您的資料由您全權掌控。您可以隨時匯出或刪除您的雲端資料。刪除雲端資料不會影響本機資料。",
+    "text": "您的資料由您全權掌控。您可以隨時匯出或刪除雲端資料，刪除雲端資料不會影響本機資料。",
     "translationContext": "Description of data management section"
   },
   "settings.sync.clear.errorFailed": {
@@ -608,11 +608,11 @@
     "translationContext": "Text shown while exporting data"
   },
   "settings.sync.info.description": {
-    "text": "Kagi News 可以在您所有裝置間同步您的設定和閱讀記錄。這些資料會安全地儲存在 Kagi 伺服器上，並與您的 Kagi Search 帳戶關聯。\n\n您同步的資料不會用於任何其他目的，不會與任何人分享，且僅為了提供同步服務而儲存。您對同步的內容擁有完全的控制權，並可以隨時刪除您的資料。",
+    "text": "Kagi News 可以在您所有裝置間同步設定和閱讀紀錄。這些資料會安全地儲存在 Kagi 的伺服器上，並與您的 Kagi Search 帳戶關聯。\n\n您同步的資料僅用於提供同步服務，不會用於任何其他目的，也不會與任何人分享。您可以完全掌控要同步的內容，並隨時刪除您的資料。",
     "translationContext": "Description of sync and privacy features"
   },
   "settings.sync.notLoggedIn.description": {
-    "text": "登入您的 Kagi 帳戶，即可在不同裝置間同步您的設定和閱讀記錄。",
+    "text": "登入您的 Kagi 帳戶，即可在不同裝置間同步設定和閱讀記錄。",
     "translationContext": "Description when user is not logged in"
   },
   "settings.sync.notLoggedIn.signIn": {
@@ -628,11 +628,11 @@
     "translationContext": "Description of what read history gets synced"
   },
   "settings.sync.readHistory.enableInfo": {
-    "text": "啟用後，您的閱讀記錄將會上傳並在您所有裝置間同步",
+    "text": "啟用後，您的閱讀紀錄將會上傳並在所有裝置間同步",
     "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
   },
   "settings.sync.readHistory.label": {
-    "text": "同步閱讀記錄",
+    "text": "同步閱讀紀錄",
     "translationContext": "Label for read history sync toggle"
   },
   "settings.sync.settings.description": {
@@ -640,7 +640,7 @@
     "translationContext": "Description of what settings get synced"
   },
   "settings.sync.settings.enableInfo": {
-    "text": "啟用後，您目前的設定將會上傳並在您所有裝置間共享",
+    "text": "啟用後，您目前的設定將會上傳並在所有裝置間共享",
     "translationContext": "Info shown when sync is disabled, explaining what happens when enabled"
   },
   "settings.sync.settings.label": {
@@ -696,7 +696,7 @@
     "translationContext": "Label for the UI language setting"
   },
   "settings.uiLanguage.tooltip": {
-    "text": "控制按鈕、選單和介面文字的語言。",
+    "text": "控制按鈕、選單和介面文字的語言。「預設」會自動將介面語言設定為您的瀏覽器語言（{{language}}），但文章內的標題會使用該文章的語言。",
     "translationContext": "Tooltip explaining how UI language works"
   },
   "settings.useLatestUrls.description": {
@@ -732,15 +732,15 @@
     "translationContext": "Reset button text"
   },
   "about.approach.description1": {
-    "text": "世界並非活在同溫層中。現實是來自不同觀點和看法的碰撞——這就是我們從噪音中篩選出訊號的方式。",
+    "text": "世界並非由同溫層構成。現實來自不同觀點和看法的碰撞——這就是我們從雜訊中篩選出信號的方式。",
     "translationContext": "First paragraph of the approach section"
   },
   "about.approach.description2": {
-    "text": "我們致力於資源的多樣性和透明度，歡迎您<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://github.com/kagisearch/kite-public\">做出貢獻</a>，以拓寬視野。這種多來源方法有助於呈現超越任何單一觀點的全貌。",
+    "text": "我們致力於來源的多樣性與透明度，並歡迎您<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://github.com/kagisearch/kite-public\">做出貢獻</a>來拓展視野。這種多來源的方法有助於呈現超越任何單一觀點的完整樣貌。",
     "translationContext": "Second paragraph of the approach section with GitHub link"
   },
   "about.approach.description3": {
-    "text": "Kagi News 會讀取數千個（由社群管理的）全球新聞來源的公共 RSS 訂閱，並將它們濃縮成一份完美的每日簡報。您只需 5 分鐘，即可獲得每個關鍵觀點和時間軸。就是這樣。無須無盡地捲動、也無須被注意力綁架。因為我們值得更好的。",
+    "text": "Kagi News 讀取數千個由社群管理的全球新聞來源 RSS，並將其濃縮成一份完美的每日簡報。只需要 5 分鐘，即可掌握每個關鍵觀點和事件脈絡。就是這樣——不用無盡地捲動，不被注意力綁架。因為我們值得更好的。",
     "translationContext": "Third paragraph of the approach section"
   },
   "about.approach.title": {
@@ -748,7 +748,7 @@
     "translationContext": "Title of the approach section"
   },
   "about.contact.description": {
-    "text": "如需回饋，請使用<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://kagifeedback.org\">Kagi Feedback</a>。如需支援，請寄送電子郵件至<a href=\"mailto:support@kagi.com\" class=\"text-blue-600 hover:underline dark:text-blue-400\">support@kagi.com</a>。",
+    "text": "如需回饋，請使用<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://kagifeedback.org\">Kagi Feedback</a>。如需技術支援，請寄送電子郵件至<a href=\"mailto:support@kagi.com\" class=\"text-blue-600 hover:underline dark:text-blue-400\">support@kagi.com</a>。",
     "translationContext": "Contact information with links"
   },
   "about.contact.title": {
@@ -756,7 +756,7 @@
     "translationContext": "Title of the contact section"
   },
   "about.customization.description": {
-    "text": "透過在設定中重新排序和切換分類，個人化您的新聞來源。想貢獻嗎？Kagi News 的大部分內容都是<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://github.com/kagisearch/kite-public\">開放原始碼</a>的，包括我們的網頁應用程式和由社群維護的資訊來源。",
+    "text": "透過在設定中重新排序和切換分類，個人化您的新聞來源。想要貢獻嗎？Kagi News 的大部分內容都是<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://github.com/kagisearch/kite-public\">開放原始碼</a>的，包括我們的網頁應用程式和由社群維護的資訊來源。",
     "translationContext": "Description of customization options with GitHub link"
   },
   "about.customization.title": {
@@ -772,7 +772,7 @@
     "translationContext": "Second core principle about facts vs opinions"
   },
   "about.principles.item3": {
-    "text": "隱私零妥協—您的閱讀習慣專屬於您",
+    "text": "隱私零妥協—您的閱讀習慣完全專屬於您",
     "translationContext": "Third core principle about privacy"
   },
   "about.principles.item4": {
@@ -780,7 +780,7 @@
     "translationContext": "Fourth core principle about quality"
   },
   "about.principles.item5": {
-    "text": "五分鐘內取得完整的每日新聞",
+    "text": "5 分鐘內完整掌握每日新聞",
     "translationContext": "Fifth core principle about time efficiency"
   },
   "about.principles.item6": {
@@ -800,7 +800,7 @@
     "translationContext": "Text for the I understand button"
   },
   "about.why.description": {
-    "text": "在無止盡的廣告變現驅動下，新聞<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://gwern.net/doc/culture/2010-dobelli.pdf\">已成為</a>心靈垃圾食物——無止盡的點閱誘餌，摧毀了我們深度清晰思考的能力。我們可以做得更好，創造新聞本應呈現的樣貌——純粹、必要的資訊，尊重您的智識與時間。",
+    "text": "在無止盡的廣告營利驅動下，新聞<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://gwern.net/doc/culture/2010-dobelli.pdf\">已淪為</a>精神垃圾食物——無盡的點閱誘餌，摧毀了我們深度思考與明智判斷的能力。我們可以做得更好，並打造出新聞應有的樣貌——純粹、必要的資訊，並尊重您的智識與時間。",
     "translationContext": "Description of why Kagi News exists, including HTML link"
   },
   "about.why.title": {
@@ -812,7 +812,7 @@
     "translationContext": "Beta label shown next to the app title"
   },
   "app.disclaimerAutoGenerated": {
-    "text": "摘要可能包含錯誤。",
+    "text": "摘要中可能包含不正確的內容。",
     "translationContext": "Disclaimer about AI-generated content"
   },
   "app.disclaimerVerify": {
@@ -1500,7 +1500,7 @@
     "translationContext": "Instruction to reveal a linked/pre-opened filtered story"
   },
   "contentFilter.linkedStoryFilteredBecause": {
-    "text": "您想檢視的報導已被內容過濾器隱藏：",
+    "text": "您想檢視的報導已被內容篩選器隱藏：",
     "translationContext": "Message shown when a linked/pre-opened story is filtered"
   },
   "contentFilter.showStory": {
@@ -1608,7 +1608,7 @@
     "translationContext": "Meta description for category pages. {category} will be replaced with the actual category name."
   },
   "meta.description": {
-    "text": "Kagi News 將全球數千個新聞來源，濃縮成一份完美的每日簡報。只需 5 分鐘，即可掌握所有關鍵視角。無須無盡地向下捲動，也無須被注意力綁架。",
+    "text": "Kagi News 將全球數千個新聞來源，濃縮成一份完美的每日簡報。只需要 5 分鐘，即可掌握所有關鍵視角。無須無盡地向下捲動，也無須被注意力綁架。",
     "translationContext": "Default meta description for SEO"
   },
   "meta.news": {
@@ -2236,7 +2236,7 @@
     "translationContext": "First paragraph of world tension explanation"
   },
   "worldTension.explanation2": {
-    "text": "我們透過分析全球新聞頭條，追蹤衝突、危機和不穩定的模式，建立一個簡單的指標，以顯示任何特定時刻全球事務的「熱度」。",
+    "text": "我們透過分析全球新聞頭條，追蹤衝突、危機和不穩定的模式，建立一個簡單的指標來顯示全球事務在任何時刻的「熱度」。",
     "translationContext": "Second paragraph of world tension explanation"
   },
   "worldTension.explanation3": {

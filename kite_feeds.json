@@ -324,6 +324,7 @@
       "http://diepresse.com/rss/kultur",
       "http://diepresse.com/rss/sport",
       "http://diepresse.com/rss/wirtschaft",
+      "https://exxpress.at/rss",
       "https://kurier.at/kultur/xml/rssd",
       "https://kurier.at/politik/ausland/xml/rssd",
       "https://kurier.at/politik/inland/xml/rssd",
@@ -346,8 +347,7 @@
       "https://www.moment.at/feed",
       "https://www.nachrichten.at/storage/rss/rss/nachrichten.xml",
       "https://www.selektiv.at/feed/",
-      "https://www.wienerzeitung.at/rss.xml",
-      "https://exxpress.at/rss"
+      "https://www.wienerzeitung.at/rss.xml"
     ]
   },
   "Belgium": {
@@ -966,6 +966,7 @@
       "zh-Hant": "網路安全"
     },
     "feeds": [
+      "http://feeds.feedburner.com/Unit42",
       "https://blog.talosintelligence.com/rss/",
       "https://citizenlab.ca/feed/",
       "https://cyberscoop.com/feed/",
@@ -974,7 +975,6 @@
       "https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches",
       "https://feeds.feedburner.com/TheHackersNews",
       "https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v",
-      "http://feeds.feedburner.com/Unit42",
       "https://googleonlinesecurity.blogspot.com/atom.xml",
       "https://googleprojectzero.blogspot.com/feeds/posts/default",
       "https://isc.sans.edu/rssfeed_full.xml",
@@ -1601,6 +1601,7 @@
       "https://news.google.com/atom?hl=de-DE&gl=DE&ceid=DE:de",
       "https://news.google.com/atom/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE0wTldnU0FtUmxLQUFQAQ?hl=de&gl=DE&ceid=DE:de",
       "https://newsfeed.zeit.de/all",
+      "https://nius.de/rss",
       "https://rp-online.de/feed.rss",
       "https://rss.sueddeutsche.de/rss/Alles",
       "https://taz.de/!p4608;rss/",
@@ -1626,8 +1627,7 @@
       "https://www.t-online.de/nachrichten/feed.rss",
       "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
       "https://www.tagesspiegel.de/contentexport/feed",
-      "https://www.zdf.de/rss/zdf/nachrichten",
-      "https://nius.de/rss"
+      "https://www.zdf.de/rss/zdf/nachrichten"
     ]
   },
   "Germany | Hesse": {

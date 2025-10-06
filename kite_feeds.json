@@ -1,4 +1,43 @@
 {
+  "Africa": {
+    "category_type": "topic",
+    "source_language": "en",
+    "display_names": {
+      "en": "Africa",
+      "af": "Afrika",
+      "ar": "أفريقيا",
+      "fr": "Afrique",
+      "xh": "Afrika",
+      "zu": "Afrika"
+    },
+    "feeds": [
+      "https://feeds.24.com/articles/news24/world/africa/rss",
+      "https://feeds.24.com/articles/news24/topstories/rss",
+      "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "https://www.economist.com/middle-east-and-africa/rss.xml",
+      "https://www.theguardian.com/world/africa/rss",
+      "https://iol.co.za/rss/iol/news/africa/",
+      "https://www.aljazeera.com/xml/rss/all.xml",
+      "https://www.businesslive.co.za/rss/?publication=bl&section=news",
+      "https://www.dailymaverick.co.za/feed/summaryengine",
+      "https://memeburn.com/feed/",
+      "https://groundup.org.za/sitenews/rss/",
+      "https://www.timeslive.co.za/arc/outboundfeeds/rss/category/news/",
+      "https://www.sabcnews.com/sabcnews/africa/feed/",
+      "https://www.africanews.com/feed/",
+      "https://www.france24.com/en/tag/africa/rss",
+      "https://guardian.ng/category/news/world/africa/feed",
+      "https://nation.africa/africa/rss.xml",
+      "https://capitalethiopia.com/category/regional-news/feed/",
+      "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+      "https://feeds.24.com/articles/news24/southafrica/crime-and-courts/rss",
+      "https://www.moroccoworldnews.com/feed",
+      "https://www.myjoyonline.com/news/feed",
+      "https://dailynews.co.tz/feed/",
+      "https://www.egyptindependent.com/feed/",
+      "https://addisstandard.com/feed/"
+    ]
+  },
   "AI": {
     "category_type": "topic",
     "source_language": "en",

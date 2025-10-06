@@ -270,6 +270,7 @@
       "https://www.nachrichten.at/storage/rss/rss/nachrichten.xml",
       "https://www.selektiv.at/feed/",
       "https://www.wienerzeitung.at/rss.xml"
+      "https://exxpress.at/rss"
     ]
   },
   "Belgium": {
@@ -1546,6 +1547,7 @@
       "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
       "https://www.tagesspiegel.de/contentexport/feed",
       "https://www.zdf.de/rss/zdf/nachrichten"
+      "https://nius.de/rss"
     ]
   },
   "Germany | Hesse": {

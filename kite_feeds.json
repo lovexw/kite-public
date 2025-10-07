@@ -62,6 +62,8 @@
       "https://iol.co.za/rss/iol/news/africa/",
       "https://memeburn.com/feed/",
       "https://nation.africa/africa/rss.xml",
+      "https://theconversation.com/africa/articles.atom",
+      "https://westafricaweekly.com/feed/",
       "https://www.africanews.com/feed/",
       "https://www.aljazeera.com/xml/rss/all.xml",
       "https://www.businesslive.co.za/rss/?publication=bl&section=news",
@@ -69,17 +71,15 @@
       "https://www.economist.com/middle-east-and-africa/rss.xml",
       "https://www.egyptindependent.com/feed/",
       "https://www.france24.com/en/tag/africa/rss",
+      "https://www.ft.com/africa?format=rss",
       "https://www.moroccoworldnews.com/feed",
       "https://www.myjoyonline.com/news/feed",
       "https://www.sabcnews.com/sabcnews/africa/feed/",
-      "https://www.theguardian.com/world/africa/rss",
-      "https://www.timeslive.co.za/arc/outboundfeeds/rss/category/news/",
-      "https://www.ft.com/africa?format=rss",
-      "https://www.thesouthafrican.com/feed/",
       "https://www.theafricareport.com/feed/",
       "https://www.theeastafrican.co.ke/rss.xml",
-      "https://theconversation.com/africa/articles.atom",
-      "https://westafricaweekly.com/feed/"
+      "https://www.theguardian.com/world/africa/rss",
+      "https://www.thesouthafrican.com/feed/",
+      "https://www.timeslive.co.za/arc/outboundfeeds/rss/category/news/"
     ]
   },
   "AI": {

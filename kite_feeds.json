@@ -73,7 +73,13 @@
       "https://www.myjoyonline.com/news/feed",
       "https://www.sabcnews.com/sabcnews/africa/feed/",
       "https://www.theguardian.com/world/africa/rss",
-      "https://www.timeslive.co.za/arc/outboundfeeds/rss/category/news/"
+      "https://www.timeslive.co.za/arc/outboundfeeds/rss/category/news/",
+      "https://www.ft.com/africa?format=rss",
+      "https://www.thesouthafrican.com/feed/",
+      "https://www.theafricareport.com/feed/",
+      "https://www.theeastafrican.co.ke/rss.xml",
+      "https://theconversation.com/africa/articles.atom",
+      "https://westafricaweekly.com/feed/"
     ]
   },
   "AI": {

@@ -2302,13 +2302,5 @@
     "notification.newBatch.action": {
         "text": "عرض",
         "translationContext": "Action button label on toast notification to view the new batch of news"
-    },
-    "settings.contentFilter.preset.sexual-misconduct": {
-        "text": "سوء السلوك الجنسي",
-        "translationContext": "Name of sexual misconduct preset filter"
-    },
-    "settings.contentFilter.preset.sexual-misconduct.tooltip": {
-        "text": "يصفي المحتوى المتعلق بالتحرش الجنسي والاعتداء والإساءة",
-        "translationContext": "Tooltip description for sexual misconduct preset"
     }
 }

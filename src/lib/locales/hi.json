@@ -2370,13 +2370,5 @@
     "notification.newBatch.action": {
         "text": "देखें",
         "translationContext": "Action button label on toast notification to view the new batch of news"
-    },
-    "settings.contentFilter.preset.sexual-misconduct": {
-        "text": "यौन दुराचार",
-        "translationContext": "Name of sexual misconduct preset filter"
-    },
-    "settings.contentFilter.preset.sexual-misconduct.tooltip": {
-        "text": "यौन उत्पीड़न, हमले और दुर्व्यवहार से संबंधित सामग्री को फ़िल्टर करता है",
-        "translationContext": "Tooltip description for sexual misconduct preset"
     }
 }

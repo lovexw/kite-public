@@ -608,6 +608,7 @@
       "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/canada/",
       "https://www.theifp.ca/search/?f=rss&t=article&c=news",
       "https://www.thestar.com/search/?f=rss&t=article&c=news/canada*&l=50&s=start_time&sd=desc",
+      "https://www.timescolonist.com/rss",
       "https://www.winnipegfreepress.com/canada/feed"
     ]
   },

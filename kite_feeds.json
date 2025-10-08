@@ -519,7 +519,13 @@
       "https://www.ft.com/brazil?format=rss",
       "https://www.infomoney.com.br/feed/",
       "https://www.nexojornal.com.br/rss.xml",
-      "https://www.reddit.com/r/brasil/.rss"
+      "https://www.reddit.com/r/brasil/.rss",
+      "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/",
+      "https://www.gazetadopovo.com.br/feed/rss/brasil.xml",
+      "https://news.google.com/rss/search?q=Brasil+site:reuters.com&hl=pt-BR&gl=BR&ceid=BR:pt",
+      "https://veja.abril.com.br/feed/",
+      "https://oantagonista.com/feed/",
+      "https://jovempan.com.br/noticias/feed/"
     ]
   },
   "Canada": {

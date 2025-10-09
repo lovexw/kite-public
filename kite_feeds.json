@@ -4109,6 +4109,7 @@
       "https://wgntv.com/morning-news/feed/",
       "https://wgntv.com/news/chicago-news/feed/",
       "https://wgntv.com/sports/feed/",
+      "https://www.bleachernation.com/cubs/feed/",
       "https://www.cbsnews.com/chicago/latest/rss/entertainment",
       "https://www.cbsnews.com/chicago/latest/rss/local-news",
       "https://www.cbsnews.com/chicago/latest/rss/local-news/business",
@@ -4130,13 +4131,15 @@
       "https://www.dailyherald.com/rssfeed/top-stories/",
       "https://www.fox32chicago.com/rss/category/news",
       "https://www.fox32chicago.com/rss/category/sports",
+      "https://www.mlb.com/cubs/feeds/news/rss.xml",
       "https://www.nbcchicago.com/?rss=y",
       "https://www.nbcchicago.com/chicago-sports-bears-sox-cubs-bulls-blackhawks/feed/",
       "https://www.nbcchicago.com/entertainment/feed/",
       "https://www.nbcchicago.com/investigations/feed/",
       "https://www.nbcchicago.com/news/local/feed/",
       "https://www.reddit.com/r/chicago/.rss",
-      "https://www.timeout.com/chicago/blog/feed.rss"
+      "https://www.timeout.com/chicago/blog/feed.rss",
+      "https://www.yardbarker.com/rss/team/6"
     ]
   },
   "USA | Colorado": {

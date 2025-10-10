@@ -4104,7 +4104,9 @@
       "https://cwbchicago.com/feed",
       "https://feeds.feedburner.com/ChicagoTonight",
       "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREZmWkRRU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en",
+      "https://wgnradio.com/feed/",
       "https://wgntv.com/daytime-chicago/feed/",
+      "https://wgntv.com/feed/",
       "https://wgntv.com/midday-news/feed/",
       "https://wgntv.com/morning-news/feed/",
       "https://wgntv.com/news/chicago-news/feed/",
@@ -4140,7 +4142,10 @@
       "https://www.reddit.com/r/ChicagoSuburbs/.rss",
       "https://www.reddit.com/r/chicago/.rss",
       "https://www.reddit.com/r/cta/.rss",
+      "https://www.shawlocal.com/arc/outboundfeeds/rss/?outputType=xml",
+      "https://www.shawlocal.com/arc/outboundfeeds/rss/category/my-suburban-life/news/education/?outputType=xml",
       "https://www.timeout.com/chicago/blog/feed.rss",
+      "https://www.wbez.org/rss/index.xml",
       "https://www.yardbarker.com/rss/team/6"
     ]
   },

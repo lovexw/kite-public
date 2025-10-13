@@ -1661,6 +1661,7 @@
     },
     "feeds": [
       "https://correctiv.org/feed/",
+      "https://www.abgeordnetenwatch.de/recherchen/feed",
       "https://jacobin.de/rss.xml",
       "https://katapult-magazin.de/feed/rss",
       "https://netzpolitik.org/feed/",

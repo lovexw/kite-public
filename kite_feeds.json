@@ -2408,7 +2408,13 @@
       "https://www.tecmint.com/feed/",
       "https://www.tomshardware.com/feeds/tag/linux",
       "https://www.ubuntupit.com/feed/",
-      "https://www.unixmen.com/feed/"
+      "https://www.unixmen.com/feed/",
+      "https://guix.gnu.org/feeds/blog.atom",
+      "https://spritely.institute/feed.xml",
+      "https://lineageos.org/feed.xml",
+      "https://blog.ipfs.tech/index.xml",
+      "https://wedistribute.org/feed/",
+      "https://planet.gnu.org/rss20.xml"
     ]
   },
   "Lithuania": {

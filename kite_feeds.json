@@ -1661,7 +1661,6 @@
     },
     "feeds": [
       "https://correctiv.org/feed/",
-      "https://www.abgeordnetenwatch.de/recherchen/feed",
       "https://jacobin.de/rss.xml",
       "https://katapult-magazin.de/feed/rss",
       "https://netzpolitik.org/feed/",
@@ -1672,6 +1671,7 @@
       "https://rp-online.de/feed.rss",
       "https://rss.sueddeutsche.de/rss/Alles",
       "https://taz.de/!p4608;rss/",
+      "https://www.abgeordnetenwatch.de/recherchen/feed",
       "https://www.augsburger-allgemeine.de/politik/rss",
       "https://www.blaetter.de/rss.xml",
       "https://www.bundesregierung.de/service/rss/breg-de/1151242/feed.xml",

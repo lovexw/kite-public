@@ -28,7 +28,7 @@
     "translationContext": "Title for the enabled categories section"
   },
   "settings.categories.filterByType": {
-    "text": "種類でフィルタ...",
+    "text": "種類でフィルタ",
     "translationContext": "Placeholder text for category type filter dropdown"
   },
   "settings.categories.instructions": {

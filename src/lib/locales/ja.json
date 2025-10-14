@@ -332,7 +332,7 @@
     "translationContext": "Label for the data/content language setting"
   },
   "settings.dataLanguage.tooltip": {
-    "text": "ニュース記事とそのコンテンツの言語を設定します。\n\n• デフォルト: ほとんどのカテゴリーはブラウザの言語（{{browserLang}}）、国名は現地の言語で表示されます。\n• ソース: すべてのコンテンツが元の言語で表示されます。\n• その他: すべてのコンテンツが選択した言語に翻訳されます。",
+    "text": "ニュース記事とそのコンテンツの言語を設定します。\n\n• デフォルト: ほとんどのカテゴリーはブラウザの言語（{{browserLang}}）、国名は現地の言語で表示されます。\n• 原文: すべてのコンテンツが元の言語で表示されます。\n• その他: すべてのコンテンツが選択した言語に翻訳されます。",
     "translationContext": "Tooltip explaining how data language translation works, with browser language variable"
   },
   "settings.experimental.articleIcons.description": {

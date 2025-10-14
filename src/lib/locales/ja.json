@@ -352,7 +352,7 @@
     "translationContext": "Label for category icons setting"
   },
   "settings.experimental.chaosIndex.description": {
-    "text": "現在の出来事に基づいた世界の安定度を示す気温指数を表示します。",
+    "text": "現在の出来事に基づいた世界の安定度を示す緊張指数を表示します。",
     "translationContext": "Description for chaos index setting"
   },
   "settings.experimental.chaosIndex.label": {
@@ -1109,7 +1109,7 @@
     "translationContext": "Display name for the Kenya news category"
   },
   "category.korea": {
-    "text": "韓国",
+    "text": "朝鮮半島",
     "translationContext": "Display name for the Korea news category"
   },
   "category.linuxOss": {
@@ -1573,7 +1573,7 @@
     "translationContext": "Loading message shown when fetching news categories"
   },
   "loading.chaosIndex": {
-    "text": "混沌指数を計算中...",
+    "text": "世界緊張指数を計算中...",
     "translationContext": "Loading message shown when calculating the world chaos index"
   },
   "loading.default": {
@@ -1873,7 +1873,7 @@
     "translationContext": "Label for enter key selection"
   },
   "search.shortcuts_hint": {
-    "text": "カテゴリは「cat」、日付は「yesterday」や「lastweek」のように入力",
+    "text": "カテゴリは「cat」、日付は「yesterday」や「last week」のように入力",
     "translationContext": "Hint for search shortcuts"
   },
   "search.shortcuts_title": {
@@ -2261,7 +2261,7 @@
     "translationContext": "Temperature description for extreme world tension (81-100%)"
   },
   "worldTension.chaosIndex": {
-    "text": "混沌指数",
+    "text": "世界緊張指数",
     "translationContext": "Label for the chaos index chart"
   },
   "worldTension.cool": {
@@ -2297,7 +2297,7 @@
     "translationContext": "Status label for 41-60% range (deprecated, use warm)"
   },
   "worldTension.hot": {
-    "text": "熱い",
+    "text": "加熱",
     "translationContext": "Temperature description for moderate world tension (41-60%)"
   },
   "worldTension.mild": {
@@ -2309,19 +2309,19 @@
     "translationContext": "Temperature description for extreme world tension (81-100%)"
   },
   "worldTension.scale.burning": {
-    "text": "81-100° 燃え上がる - 極度の危機（稀）",
+    "text": "81-100℃ 炎上中 - 極度の危機（稀）",
     "translationContext": "Scale description for 81-100% tension"
   },
   "worldTension.scale.cool": {
-    "text": "涼しい - 比較的安定",
+    "text": "0-20℃ 涼しい - 比較的安定",
     "translationContext": "Scale description for 0-20% tension"
   },
   "worldTension.scale.hot": {
-    "text": "高温 - 注目の紛争",
+    "text": "41-60℃ 高温 - 注目の紛争",
     "translationContext": "Scale description for 41-60% tension"
   },
   "worldTension.scale.mild": {
-    "text": "21-40° 軽度 - 通常の世界的緊張状態",
+    "text": "21-40℃ 軽度 - 通常の緊張状態",
     "translationContext": "Scale description for 21-40% tension"
   },
   "worldTension.scale.onFire": {
@@ -2333,7 +2333,7 @@
     "translationContext": "Scale description for 61-80% tension"
   },
   "worldTension.scale.warm": {
-    "text": "41-60度 温かい - 懸念高まる",
+    "text": "加熱 - 懸念高まる",
     "translationContext": "Scale description for 41-60% tension"
   },
   "worldTension.scale.warming": {
@@ -2345,7 +2345,7 @@
     "translationContext": "Status label for 0-20% range (deprecated, use cool)"
   },
   "worldTension.title": {
-    "text": "世界の緊張",
+    "text": "世界緊張指数",
     "translationContext": "Title for the world tension modal"
   },
   "worldTension.trendTitle": {
@@ -2357,15 +2357,15 @@
     "translationContext": "Prefix for last update time"
   },
   "worldTension.veryHot": {
-    "text": "非常に暑い",
+    "text": "高温",
     "translationContext": "Temperature description for high world tension (61-80%)"
   },
   "worldTension.warm": {
-    "text": "温かい",
+    "text": "加熱",
     "translationContext": "Temperature description for elevated world tension (41-60%)"
   },
   "worldTension.warming": {
-    "text": "温暖化",
+    "text": "上昇中",
     "translationContext": "Temperature description for mild world tension (21-40%)"
   },
   "worldTension.whatIsThis": {

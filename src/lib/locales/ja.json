@@ -556,8 +556,7 @@
     "translationContext": "Confirm button text for deleting synced data"
   },
   "settings.sync.clear.confirmMessage": {
-    "text": "この操作で、Kagiサーバーから同期されたすべての設定と閲覧履歴が完全に削除されます。ただしローカルに
-    保存されたデータはそのまま残ります。",
+    "text": "この操作で、Kagiサーバーから同期されたすべての設定と閲覧履歴が完全に削除されます。ただしローカルに保存されたデータはそのまま残ります。",
     "translationContext": "Confirmation message when clearing synced data"
   },
   "settings.sync.clear.confirmTitle": {

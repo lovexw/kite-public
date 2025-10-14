@@ -140,11 +140,11 @@
     "translationContext": "Title of import confirmation dialog"
   },
   "settings.contentFilter.importConfirm.versionNewer": {
-    "text": "この設定は新しいバージョンのものです。一部の設定が正しく動作しない可能性があります。",
+    "text": "この設定ファイルは新バージョンのものです。一部の設定が正しく動作しない可能性があります。",
     "translationContext": "Warning when importing from a newer version"
   },
   "settings.contentFilter.importConfirm.versionOlder": {
-    "text": "この設定は旧バージョンのものです。一部の機能が利用できない場合があります。",
+    "text": "この設定ファイルは旧バージョンのものです。一部の機能が利用できない場合があります。",
     "translationContext": "Warning when importing from an older version"
   },
   "settings.contentFilter.importConfirm.warning": {

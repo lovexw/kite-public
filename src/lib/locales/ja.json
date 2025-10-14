@@ -28,7 +28,7 @@
     "translationContext": "Title for the enabled categories section"
   },
   "settings.categories.filterByType": {
-    "text": "種類でフィルタ...",
+    "text": "種類でフィルタ",
     "translationContext": "Placeholder text for category type filter dropdown"
   },
   "settings.categories.instructions": {
@@ -92,7 +92,7 @@
     "translationContext": "Label for category header position setting"
   },
   "settings.categoryHeaderPosition.top": {
-    "text": "上位",
+    "text": "上",
     "translationContext": "Option for top position"
   },
   "settings.contentFilter.activeFilters": {
@@ -140,11 +140,11 @@
     "translationContext": "Title of import confirmation dialog"
   },
   "settings.contentFilter.importConfirm.versionNewer": {
-    "text": "この設定は新しいバージョンからのものです。一部の設定が正しく動作しない可能性があります。",
+    "text": "この設定ファイルは新バージョンのものです。一部の設定が正しく動作しない可能性があります。",
     "translationContext": "Warning when importing from a newer version"
   },
   "settings.contentFilter.importConfirm.versionOlder": {
-    "text": "この設定は旧バージョンからのものです。一部の機能が利用できない場合があります。",
+    "text": "この設定ファイルは旧バージョンのものです。一部の機能が利用できない場合があります。",
     "translationContext": "Warning when importing from an older version"
   },
   "settings.contentFilter.importConfirm.warning": {
@@ -168,7 +168,7 @@
     "translationContext": "Label for keywords input"
   },
   "settings.contentFilter.keywords.placeholder": {
-    "text": "例：有名人の名前、トピック",
+    "text": "例：有名人の名前、トピックなど",
     "translationContext": "Placeholder for keywords input"
   },
   "settings.contentFilter.mode.blur": {
@@ -180,7 +180,7 @@
     "translationContext": "Description for blur mode"
   },
   "settings.contentFilter.mode.description": {
-    "text": "フィルター処理されたコンテンツの取り扱い方法を選択",
+    "text": "フィルターされたストーリーの扱いを選択",
     "translationContext": "Description for filter mode selection"
   },
   "settings.contentFilter.mode.hide": {
@@ -200,15 +200,15 @@
     "translationContext": "Name of AI preset filter"
   },
   "settings.contentFilter.preset.ai.tooltip": {
-    "text": "AIの誇大広告、LLMニュース、技術的ブレークスルー発表をフィルタリング",
+    "text": "AI製の誇大広告、AI製ニュース、技術的ブレークスルー発表をフィルタリング",
     "translationContext": "Tooltip description for AI preset"
   },
   "settings.contentFilter.preset.celebrities": {
-    "text": "有名人ニュース",
+    "text": "有名人のニュース",
     "translationContext": "Name of celebrities preset filter"
   },
   "settings.contentFilter.preset.celebrities.tooltip": {
-    "text": "有名人のゴシップ、エンタメニュース、タブロイド記事を除外します",
+    "text": "有名人のゴシップ、芸能、タブロイド記事を除外します",
     "translationContext": "Tooltip description for celebrities preset"
   },
   "settings.contentFilter.preset.climate": {
@@ -220,7 +220,7 @@
     "translationContext": "Tooltip description for climate preset"
   },
   "settings.contentFilter.preset.conflicts": {
-    "text": "競合",
+    "text": "紛争",
     "translationContext": "Name of conflicts preset filter"
   },
   "settings.contentFilter.preset.conflicts.tooltip": {
@@ -236,11 +236,11 @@
     "translationContext": "Tooltip description for crypto preset"
   },
   "settings.contentFilter.preset.health": {
-    "text": "健康危機",
+    "text": "感染症",
     "translationContext": "Name of health crises preset filter"
   },
   "settings.contentFilter.preset.health.tooltip": {
-    "text": "パンデミック関連ニュース、ウイルス発生、および健康緊急事態コンテンツをフィルタリング",
+    "text": "パンデミック関連ニュース、ウイルス発生、および健康緊急事態コンテンツをフィルタリングします",
     "translationContext": "Tooltip description for health preset"
   },
   "settings.contentFilter.preset.politics": {
@@ -256,7 +256,7 @@
     "translationContext": "Name of sports preset filter"
   },
   "settings.contentFilter.preset.sports.tooltip": {
-    "text": "スポーツニュース、試合結果、競技のカバレッジをフィルタリング",
+    "text": "スポーツニュース、試合結果、競技のカバレッジをフィルタリングします",
     "translationContext": "Tooltip description for sports preset"
   },
   "settings.contentFilter.preset.tabloid": {
@@ -276,7 +276,7 @@
     "translationContext": "Tooltip description for violence preset"
   },
   "settings.contentFilter.presets.description": {
-    "text": "プリセットフィルターを1つ以上選択して、よくあるトピックをすぐに非表示にできます",
+    "text": "プリセットフィルターを1つ以上選択して、任意のトピックをすぐに非表示にできます",
     "translationContext": "Description for filter presets section"
   },
   "settings.contentFilter.presets.label": {
@@ -332,7 +332,7 @@
     "translationContext": "Label for the data/content language setting"
   },
   "settings.dataLanguage.tooltip": {
-    "text": "ニュース記事とそのコンテンツの言語を設定します。\n\n• デフォルト: ほとんどのカテゴリーはブラウザの言語（{{browserLang}}）、国名は現地の言語で表示されます。\n• ソース: すべてのコンテンツが元の言語で表示されます。\n• その他: すべてのコンテンツが選択した言語に翻訳されます。",
+    "text": "ニュース記事とそのコンテンツの言語を設定します。\n\n• デフォルト: ほとんどのカテゴリーはブラウザの言語（{{browserLang}}）、国名は現地の言語で表示されます。\n• 原文: すべてのコンテンツが元の言語で表示されます。\n• その他: すべてのコンテンツが選択した言語に翻訳されます。",
     "translationContext": "Tooltip explaining how data language translation works, with browser language variable"
   },
   "settings.experimental.articleIcons.description": {
@@ -352,7 +352,7 @@
     "translationContext": "Label for category icons setting"
   },
   "settings.experimental.chaosIndex.description": {
-    "text": "現在の出来事に基づいた世界の安定度を示す気温指数を表示します。",
+    "text": "現在の出来事に基づいた世界の安定度を示す緊張指数を表示します。",
     "translationContext": "Description for chaos index setting"
   },
   "settings.experimental.chaosIndex.label": {
@@ -384,7 +384,7 @@
     "translationContext": "Label for the font size setting"
   },
   "settings.fontSize.large": {
-    "text": "大きい",
+    "text": "大",
     "translationContext": "Option for large font size"
   },
   "settings.fontSize.normal": {
@@ -392,7 +392,7 @@
     "translationContext": "Option for normal font size"
   },
   "settings.fontSize.small": {
-    "text": "小さい",
+    "text": "小",
     "translationContext": "Option for small font size"
   },
   "settings.fontSize.xl": {
@@ -412,7 +412,7 @@
     "translationContext": "Label for the language setting"
   },
   "settings.language.poweredBy": {
-    "text": "Kagi翻訳で翻訳しました",
+    "text": "Kagi翻訳で翻訳",
     "translationContext": "Text for the Kagi Translate powered by link"
   },
   "settings.language.source": {
@@ -432,11 +432,11 @@
     "translationContext": "Description explaining what the maps provider setting does"
   },
   "settings.mapsProvider.google": {
-    "text": "Google マップ",
+    "text": "Googleマップ",
     "translationContext": "Option to use Google Maps"
   },
   "settings.mapsProvider.kagi": {
-    "text": "Kagi マップ",
+    "text": "Kagiマップ",
     "translationContext": "Option to use Kagi Maps"
   },
   "settings.mapsProvider.label": {
@@ -452,7 +452,7 @@
     "translationContext": "Instructions for managing article sections"
   },
   "settings.sections.orderReset": {
-    "text": "順序をリセットしました！",
+    "text": "並び替えをリセットしました",
     "translationContext": "Confirmation message shown after resetting section order"
   },
   "settings.sections.resetOrder": {
@@ -500,7 +500,7 @@
     "translationContext": "Option to expand all stories via double-click on category"
   },
   "settings.storyExpandMode.label": {
-    "text": "ストーリー展開モード",
+    "text": "ストーリーの展開モード",
     "translationContext": "Label for story expand mode setting"
   },
   "settings.storyExpandMode.never": {
@@ -508,7 +508,7 @@
     "translationContext": "Option to disable bulk story expansion"
   },
   "settings.storyOpenMode.description": {
-    "text": "複数のストーリーを同時に開くか、1つのみにするかを選択します",
+    "text": "複数のストーリーを同時に開くか、1つづつ開くかを選択します",
     "translationContext": "Description for story open mode setting"
   },
   "settings.storyOpenMode.label": {
@@ -556,7 +556,7 @@
     "translationContext": "Confirm button text for deleting synced data"
   },
   "settings.sync.clear.confirmMessage": {
-    "text": "これにより、Kagiサーバーから同期されたすべての設定と閲覧履歴が完全に削除されます。ローカルデータはそのまま残ります。",
+    "text": "この操作で、Kagiサーバーから同期されたすべての設定と閲覧履歴が完全に削除されます。ただしローカルに保存されたデータはそのまま残ります。",
     "translationContext": "Confirmation message when clearing synced data"
   },
   "settings.sync.clear.confirmTitle": {
@@ -572,7 +572,7 @@
     "translationContext": "Loading message shown while deleting synced data"
   },
   "settings.sync.clear.description": {
-    "text": "あなたのデータはあなたが管理します。クラウド上のデータはいつでもエクスポートまたは削除できます。削除してもローカルデータには影響しません。",
+    "text": "あなたのデータはあなたが管理できます。クラウド上のデータはいつでもエクスポートまたは削除できます。クラウド上のデータは削除してもローカルデータには影響しません。",
     "translationContext": "Description of data management section"
   },
   "settings.sync.clear.errorFailed": {
@@ -608,11 +608,11 @@
     "translationContext": "Text shown while exporting data"
   },
   "settings.sync.info.description": {
-    "text": "Kagiニュースは、設定と閲覧履歴をすべてのデバイスで同期できます。このデータはKagiのサーバーに安全に保存され、あなたのKagi検索アカウントに関連付けられます。\n\n同期されたデータは他の目的で使用されたり、誰かと共有されたりすることはなく、同期サービスを提供するためだけに保存されます。同期する内容を完全に管理でき、いつでもデータを削除できます。",
+    "text": "Kagiニュースは、設定と閲覧履歴をすべてのデバイスで同期できます。このデータはKagiのサーバーに安全に保存され、あなたのKagi検索アカウントに関連付けられます。\n\n同期されたデータは他の目的で使用されたり、誰かと共有されたりすることはなく、同期サービスを提供するためだけに保存されます。あなたは同期する内容を完全に管理でき、いつでもデータを削除できます。",
     "translationContext": "Description of sync and privacy features"
   },
   "settings.sync.notLoggedIn.description": {
-    "text": "設定と閲覧履歴をデバイス間で同期するには、Kagiアカウントにサインインしてください。",
+    "text": "設定と閲覧履歴をすべてのデバイスで同期するには、Kagiアカウントにサインインしてください。",
     "translationContext": "Description when user is not logged in"
   },
   "settings.sync.notLoggedIn.signIn": {
@@ -788,7 +788,7 @@
     "translationContext": "Sixth core principle about attention economy"
   },
   "about.principles.title": {
-    "text": "基本原則",
+    "text": "基本方針",
     "translationContext": "Title of the core principles section"
   },
   "about.subtitle": {
@@ -796,19 +796,19 @@
     "translationContext": "Kagi is a company, should not be translated"
   },
   "about.understand.button": {
-    "text": "わかりました",
+    "text": "分かりました",
     "translationContext": "Text for the I understand button"
   },
   "about.why.description": {
-    "text": "広告収益化の追求により、ニュースは<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://gwern.net/doc/culture/2010-dobelli.pdf\">精神的なジャンクフード</a>と化しました - 深く明確に考える能力を破壊するクリックベイトの延々と続く流れです。私たちはより良い方法を見つけ、ニュースが本来あるべき姿 - あなたの知性と時間を尊重する、純粋で本質的な情報 - を創造できます。",
+    "text": "広告収益化の追求により、ニュースは<a class=\"text-blue-600 hover:underline dark:text-blue-400\" href=\"https://gwern.net/doc/culture/2010-dobelli.pdf\">精神的なジャンクフード</a>と化しました - 深く明確に考える能力を破壊するサムネ詐欺が延々と続く流れです。私たちはより良い方法を見つけ、ニュースが本来あるべき姿 - あなたの知性と時間を尊重する、純粋で本質的な情報 - を創造できます。",
     "translationContext": "Description of why Kagi News exists, including HTML link"
   },
   "about.why.title": {
-    "text": "なぜキートなのか？ニュースは壊れているから。",
+    "text": "なぜkiteなのか？それはニュースは壊れているから。",
     "translationContext": "Title of the Why Kagi News section"
   },
   "app.beta": {
-    "text": "ベータ",
+    "text": "ベータ機能",
     "translationContext": "Beta label shown next to the app title"
   },
   "app.disclaimerAutoGenerated": {
@@ -896,7 +896,7 @@
     "translationContext": "Generic error message for report submission failure"
   },
   "article.reportModal.issueType": {
-    "text": "どうしましたか？",
+    "text": "問題がありますか？",
     "translationContext": "Label for the issue type selection"
   },
   "article.reportModal.issueType.factualError": {
@@ -912,7 +912,7 @@
     "translationContext": "Option for reporting other types of issues"
   },
   "article.reportModal.issueType.outdated": {
-    "text": "情報が古いです",
+    "text": "情報が古い",
     "translationContext": "Option for reporting outdated content"
   },
   "article.reportModal.reportId": {
@@ -1000,15 +1000,15 @@
     "translationContext": "Display name for the Canada news category"
   },
   "category.china": {
-    "text": "China",
+    "text": "中国",
     "translationContext": "Display name for the China news category"
   },
   "category.chinaTaiwan": {
-    "text": "Taiwan",
+    "text": "台湾",
     "translationContext": "Display name for the Taiwan news category"
   },
   "category.colombia": {
-    "text": "Colombia",
+    "text": "コロンビア",
     "translationContext": "Display name for the Colombia news category"
   },
   "category.costaRica": {
@@ -1024,11 +1024,11 @@
     "translationContext": "Display name for the Cybersecurity news category"
   },
   "category.czechRepublic": {
-    "text": "Czech Republic",
+    "text": "チェコ",
     "translationContext": "Display name for the Czech Republic news category"
   },
   "category.denmark": {
-    "text": "Denmark",
+    "text": "デンマーク",
     "translationContext": "Display name for the Denmark news category"
   },
   "category.economy": {
@@ -1036,7 +1036,7 @@
     "translationContext": "Display name for the Economy news category"
   },
   "category.egypt": {
-    "text": "Egypt",
+    "text": "エジプト",
     "translationContext": "Display name for the Egypt news category"
   },
   "category.entertainment": {
@@ -1052,7 +1052,7 @@
     "translationContext": "Display name for the Europe news category"
   },
   "category.finland": {
-    "text": "Finland",
+    "text": "フィンランド",
     "translationContext": "Display name for the Finland news category"
   },
   "category.france": {
@@ -1076,7 +1076,7 @@
     "translationContext": "Display name for the Health news category"
   },
   "category.hongKong": {
-    "text": "Hong Kong",
+    "text": "香港",
     "translationContext": "Display name for the Hong Kong news category"
   },
   "category.india": {
@@ -1084,7 +1084,7 @@
     "translationContext": "Display name for the India news category"
   },
   "category.indonesia": {
-    "text": "Indonesia",
+    "text": "インドネシア",
     "translationContext": "Display name for the Indonesia news category"
   },
   "category.ireland": {
@@ -1104,11 +1104,11 @@
     "translationContext": "Display name for the Japan news category"
   },
   "category.kenya": {
-    "text": "Kenya",
+    "text": "ケニア",
     "translationContext": "Display name for the Kenya news category"
   },
   "category.korea": {
-    "text": "Korea",
+    "text": "朝鮮半島",
     "translationContext": "Display name for the Korea news category"
   },
   "category.linuxOss": {
@@ -1116,7 +1116,7 @@
     "translationContext": "Display name for the Linux & OSS news category"
   },
   "category.malaysia": {
-    "text": "Malaysia",
+    "text": "マレーシア",
     "translationContext": "Display name for the Malaysia news category"
   },
   "category.mexico": {
@@ -1124,7 +1124,7 @@
     "translationContext": "Display name for the Mexico news category"
   },
   "category.middleEast": {
-    "text": "Middle East",
+    "text": "中東",
     "translationContext": "Display name for the Middle East news category"
   },
   "category.netherlands": {
@@ -1136,11 +1136,11 @@
     "translationContext": "Display name for the New Zealand news category"
   },
   "category.nigeria": {
-    "text": "Nigeria",
+    "text": "ナイジェリア",
     "translationContext": "Display name for the Nigeria news category"
   },
   "category.norway": {
-    "text": "Norway",
+    "text": "ノルウェー",
     "translationContext": "Display name for the Norway news category"
   },
   "category.pakistan": {
@@ -1148,7 +1148,7 @@
     "translationContext": "Display name for the Pakistan news category"
   },
   "category.philippines": {
-    "text": "Philippines",
+    "text": "フィリピン",
     "translationContext": "Display name for the Philippines news category"
   },
   "category.poland": {
@@ -1168,7 +1168,7 @@
     "translationContext": "Display name for the Romania news category"
   },
   "category.russia": {
-    "text": "Russia",
+    "text": "ロシア",
     "translationContext": "Display name for the Russia news category"
   },
   "category.science": {
@@ -1180,7 +1180,7 @@
     "translationContext": "Display name for the Serbia news category"
   },
   "category.singapore": {
-    "text": "Singapore",
+    "text": "シンガポール",
     "translationContext": "Display name for the Singapore news category"
   },
   "category.slovenia": {
@@ -1188,7 +1188,7 @@
     "translationContext": "Display name for the Slovenia news category"
   },
   "category.southAfrica": {
-    "text": "South Africa",
+    "text": "南アフリカ",
     "translationContext": "Display name for the South Africa news category"
   },
   "category.southKorea": {
@@ -1208,7 +1208,7 @@
     "translationContext": "Display name for the Sweden news category"
   },
   "category.switzerland": {
-    "text": "Switzerland",
+    "text": "スイス",
     "translationContext": "Display name for the Switzerland news category"
   },
   "category.switzerlandDe": {
@@ -1232,7 +1232,7 @@
     "translationContext": "Display name for the OnThisDay category"
   },
   "category.turkey": {
-    "text": "Turkey",
+    "text": "トルコ",
     "translationContext": "Display name for the Turkey news category"
   },
   "category.uk": {
@@ -1248,207 +1248,207 @@
     "translationContext": "Display name for the USA news category"
   },
   "category.usaAlabama": {
-    "text": "USA | Alabama",
+    "text": "アメリカ | アラバマ",
     "translationContext": "Display name for the USA Alabama news category"
   },
   "category.usaAlaska": {
-    "text": "USA | Alaska",
+    "text": "アメリカ | アラスカ",
     "translationContext": "Display name for the USA Alaska news category"
   },
   "category.usaArizona": {
-    "text": "USA | Arizona",
+    "text": "アメリカ | アリゾナ",
     "translationContext": "Display name for the USA Arizona news category"
   },
   "category.usaArkansas": {
-    "text": "USA | Arkansas",
+    "text": "アメリカ | アーカンソー",
     "translationContext": "Display name for the USA Arkansas news category"
   },
   "category.usaCalifornia": {
-    "text": "USA | California",
+    "text": "アメリカ | カリフォルニア",
     "translationContext": "Display name for the USA California news category"
   },
   "category.usaColorado": {
-    "text": "USA | Colorado",
+    "text": "アメリカ | コロラド",
     "translationContext": "Display name for the USA Colorado news category"
   },
   "category.usaConnecticut": {
-    "text": "USA | Connecticut",
+    "text": "アメリカ | コネチカット",
     "translationContext": "Display name for the USA Connecticut news category"
   },
   "category.usaDelaware": {
-    "text": "USA | Delaware",
+    "text": "アメリカ | デラウェア",
     "translationContext": "Display name for the USA Delaware news category"
   },
   "category.usaFlorida": {
-    "text": "USA | Florida",
+    "text": "アメリカ | フロリダ",
     "translationContext": "Display name for the USA Florida news category"
   },
   "category.usaGeorgia": {
-    "text": "USA | Georgia",
+    "text": "アメリカ | ジョージア",
     "translationContext": "Display name for the USA Georgia news category"
   },
   "category.usaHawaii": {
-    "text": "USA | Hawaii",
+    "text": "アメリカ | ハワイ",
     "translationContext": "Display name for the USA Hawaii news category"
   },
   "category.usaIdaho": {
-    "text": "USA | Idaho",
+    "text": "アメリカ | アイダホ",
     "translationContext": "Display name for the USA Idaho news category"
   },
   "category.usaIllinois": {
-    "text": "USA | Illinois",
+    "text": "アメリカ | イリノイ",
     "translationContext": "Display name for the USA Illinois news category"
   },
   "category.usaIndiana": {
-    "text": "USA | Indiana",
+    "text": "アメリカ | インディアナ",
     "translationContext": "Display name for the USA Indiana news category"
   },
   "category.usaIowa": {
-    "text": "USA | Iowa",
+    "text": "アメリカ | アイオワ",
     "translationContext": "Display name for the USA Iowa news category"
   },
   "category.usaKansas": {
-    "text": "USA | Kansas",
+    "text": "アメリカ | カンザス",
     "translationContext": "Display name for the USA Kansas news category"
   },
   "category.usaKentucky": {
-    "text": "USA | Kentucky",
+    "text": "アメリカ | ケンタッキー",
     "translationContext": "Display name for the USA Kentucky news category"
   },
   "category.usaLouisiana": {
-    "text": "USA | Louisiana",
+    "text": "アメリカ | ルイジアナ",
     "translationContext": "Display name for the USA Louisiana news category"
   },
   "category.usaMaine": {
-    "text": "USA | Maine",
+    "text": "アメリカ | メーン",
     "translationContext": "Display name for the USA Maine news category"
   },
   "category.usaMaryland": {
-    "text": "USA | Maryland",
+    "text": "アメリカ | メリーランド",
     "translationContext": "Display name for the USA Maryland news category"
   },
   "category.usaMassachusetts": {
-    "text": "USA | Massachusetts",
+    "text": "アメリカ | マサチューセッツ",
     "translationContext": "Display name for the USA Massachusetts news category"
   },
   "category.usaMichigan": {
-    "text": "USA | Michigan",
+    "text": "アメリカ | ミシガン",
     "translationContext": "Display name for the USA Michigan news category"
   },
   "category.usaMinnesota": {
-    "text": "USA | Minnesota",
+    "text": "アメリカ | ミネソタ",
     "translationContext": "Display name for the USA Minnesota news category"
   },
   "category.usaMississippi": {
-    "text": "USA | Mississippi",
+    "text": "アメリカ | ミシシッピ",
     "translationContext": "Display name for the USA Mississippi news category"
   },
   "category.usaMissouri": {
-    "text": "USA | Missouri",
+    "text": "アメリカ | ミズーリ",
     "translationContext": "Display name for the USA Missouri news category"
   },
   "category.usaMontana": {
-    "text": "USA | Montana",
+    "text": "アメリカ | モンタナ",
     "translationContext": "Display name for the USA Montana news category"
   },
   "category.usaNebraska": {
-    "text": "USA | Nebraska",
+    "text": "アメリカ | ネブラスカ",
     "translationContext": "Display name for the USA Nebraska news category"
   },
   "category.usaNevada": {
-    "text": "USA | Nevada",
+    "text": "アメリカ | ネバダ",
     "translationContext": "Display name for the USA Nevada news category"
   },
   "category.usaNewHampshire": {
-    "text": "USA | New Hampshire",
+    "text": "アメリカ | ニューハンプシャー",
     "translationContext": "Display name for the USA New Hampshire news category"
   },
   "category.usaNewJersey": {
-    "text": "USA | New Jersey",
+    "text": "アメリカ | ニュージャージー",
     "translationContext": "Display name for the USA New Jersey news category"
   },
   "category.usaNewMexico": {
-    "text": "USA | New Mexico",
+    "text": "アメリカ | ニューメキシコ",
     "translationContext": "Display name for the USA New Mexico news category"
   },
   "category.usaNewYork": {
-    "text": "USA | New York",
+    "text": "アメリカ | ニューヨーク",
     "translationContext": "Display name for the USA New York news category"
   },
   "category.usaNorthCarolina": {
-    "text": "USA | North Carolina",
+    "text": "アメリカ | ノースカロライナ",
     "translationContext": "Display name for the USA North Carolina news category"
   },
   "category.usaNorthDakota": {
-    "text": "USA | North Dakota",
+    "text": "アメリカ | ノースダコタ",
     "translationContext": "Display name for the USA North Dakota news category"
   },
   "category.usaOhio": {
-    "text": "USA | Ohio",
+    "text": "アメリカ | オハイオ",
     "translationContext": "Display name for the USA Ohio news category"
   },
   "category.usaOklahoma": {
-    "text": "USA | Oklahoma",
+    "text": "アメリカ | オクラホマ",
     "translationContext": "Display name for the USA Oklahoma news category"
   },
   "category.usaOregon": {
-    "text": "USA | Oregon",
+    "text": "アメリカ | オレゴン",
     "translationContext": "Display name for the USA Oregon news category"
   },
   "category.usaPennsylvania": {
-    "text": "USA | Pennsylvania",
+    "text": "アメリカ | ペンシルベニア",
     "translationContext": "Display name for the USA Pennsylvania news category"
   },
   "category.usaRhodeIsland": {
-    "text": "USA | Rhode Island",
+    "text": "アメリカ | ロードアイランド",
     "translationContext": "Display name for the USA Rhode Island news category"
   },
   "category.usaSouthCarolina": {
-    "text": "USA | South Carolina",
+    "text": "アメリカ | サウスカロライナ",
     "translationContext": "Display name for the USA South Carolina news category"
   },
   "category.usaSouthDakota": {
-    "text": "USA | South Dakota",
+    "text": "アメリカ | サウスダコタ",
     "translationContext": "Display name for the USA South Dakota news category"
   },
   "category.usaTennessee": {
-    "text": "USA | Tennessee",
+    "text": "アメリカ | テネシー",
     "translationContext": "Display name for the USA Tennessee news category"
   },
   "category.usaTexas": {
-    "text": "USA | Texas",
+    "text": "アメリカ | テキサス",
     "translationContext": "Display name for the USA Texas news category"
   },
   "category.usaUtah": {
-    "text": "USA | Utah",
+    "text": "アメリカ | ユタ",
     "translationContext": "Display name for the USA Utah news category"
   },
   "category.usaVermont": {
-    "text": "アメリカ | バーモント州",
+    "text": "アメリカ | バーモント",
     "translationContext": "Display name for the USA | Vermont news category"
   },
   "category.usaVirginia": {
-    "text": "アメリカ | バージニア州",
+    "text": "アメリカ | バージニア",
     "translationContext": "Display name for the USA | Virginia news category"
   },
   "category.usaWashington": {
-    "text": "USA | Washington",
+    "text": "アメリカ | ワシントン",
     "translationContext": "Display name for the USA Washington news category"
   },
   "category.usaWestVirginia": {
-    "text": "USA | West Virginia",
+    "text": "アメリカ | ウエストバージニア",
     "translationContext": "Display name for the USA West Virginia news category"
   },
   "category.usaWisconsin": {
-    "text": "USA | Wisconsin",
+    "text": "アメリカ | ウィスコンシン",
     "translationContext": "Display name for the USA Wisconsin news category"
   },
   "category.usaWyoming": {
-    "text": "USA | Wyoming",
+    "text": "アメリカ | ワイオミング",
     "translationContext": "Display name for the USA Wyoming news category"
   },
   "category.vietnam": {
-    "text": "Vietnam",
+    "text": "ベトナム",
     "translationContext": "Display name for the Vietnam news category"
   },
   "category.world": {
@@ -1456,7 +1456,7 @@
     "translationContext": "Display name for the World news category"
   },
   "citation.commonKnowledge.description": {
-    "text": "この情報は特定のニュースソースから引用したものではなく、一般的な知識として知られている内容です。物語の文脈と完全性を補うために記載されています。",
+    "text": "この情報は特定のニュースソースから引用したものではなく、一般的な知識として知られている内容です。ストーリーの文脈と完全性を補うために記載されています。",
     "translationContext": "Description explaining what common knowledge citations are"
   },
   "citation.commonKnowledge.title": {
@@ -1532,7 +1532,7 @@
     "translationContext": "Format for displaying dates. {{weekday}} will be replaced with the day of the week, {{month}} with the month name, and {{day}} with the day number."
   },
   "footer.about": {
-    "text": "カイトについて",
+    "text": "Kiteについて",
     "translationContext": "Link text for about page"
   },
   "footer.aboutMobile": {
@@ -1572,7 +1572,7 @@
     "translationContext": "Loading message shown when fetching news categories"
   },
   "loading.chaosIndex": {
-    "text": "混沌指数を計算中...",
+    "text": "世界緊張指数を計算中...",
     "translationContext": "Loading message shown when calculating the world chaos index"
   },
   "loading.default": {
@@ -1872,7 +1872,7 @@
     "translationContext": "Label for enter key selection"
   },
   "search.shortcuts_hint": {
-    "text": "カテゴリは「cat」、日付は「昨日」や「先週」のように入力",
+    "text": "カテゴリは「cat」、日付は「yesterday」や「last week」のように入力",
     "translationContext": "Hint for search shortcuts"
   },
   "search.shortcuts_title": {
@@ -2260,7 +2260,7 @@
     "translationContext": "Temperature description for extreme world tension (81-100%)"
   },
   "worldTension.chaosIndex": {
-    "text": "混沌指数",
+    "text": "世界緊張指数",
     "translationContext": "Label for the chaos index chart"
   },
   "worldTension.cool": {
@@ -2296,7 +2296,7 @@
     "translationContext": "Status label for 41-60% range (deprecated, use warm)"
   },
   "worldTension.hot": {
-    "text": "熱い",
+    "text": "加熱",
     "translationContext": "Temperature description for moderate world tension (41-60%)"
   },
   "worldTension.mild": {
@@ -2308,19 +2308,19 @@
     "translationContext": "Temperature description for extreme world tension (81-100%)"
   },
   "worldTension.scale.burning": {
-    "text": "81-100° 燃え上がる - 極度の危機（稀）",
+    "text": "81-100℃ 炎上中 - 極度の危機（稀）",
     "translationContext": "Scale description for 81-100% tension"
   },
   "worldTension.scale.cool": {
-    "text": "涼しい - 比較的安定",
+    "text": "0-20℃ 涼しい - 比較的安定",
     "translationContext": "Scale description for 0-20% tension"
   },
   "worldTension.scale.hot": {
-    "text": "高温 - 注目の紛争",
+    "text": "41-60℃ 高温 - 注目の紛争",
     "translationContext": "Scale description for 41-60% tension"
   },
   "worldTension.scale.mild": {
-    "text": "21-40° 軽度 - 通常の世界的緊張状態",
+    "text": "21-40℃ 軽度 - 通常の緊張状態",
     "translationContext": "Scale description for 21-40% tension"
   },
   "worldTension.scale.onFire": {
@@ -2332,7 +2332,7 @@
     "translationContext": "Scale description for 61-80% tension"
   },
   "worldTension.scale.warm": {
-    "text": "41-60度 温かい - 懸念高まる",
+    "text": "加熱 - 懸念高まる",
     "translationContext": "Scale description for 41-60% tension"
   },
   "worldTension.scale.warming": {
@@ -2344,7 +2344,7 @@
     "translationContext": "Status label for 0-20% range (deprecated, use cool)"
   },
   "worldTension.title": {
-    "text": "世界の緊張",
+    "text": "世界緊張指数",
     "translationContext": "Title for the world tension modal"
   },
   "worldTension.trendTitle": {
@@ -2356,15 +2356,15 @@
     "translationContext": "Prefix for last update time"
   },
   "worldTension.veryHot": {
-    "text": "非常に暑い",
+    "text": "高温",
     "translationContext": "Temperature description for high world tension (61-80%)"
   },
   "worldTension.warm": {
-    "text": "温かい",
+    "text": "加熱",
     "translationContext": "Temperature description for elevated world tension (41-60%)"
   },
   "worldTension.warming": {
-    "text": "温暖化",
+    "text": "上昇中",
     "translationContext": "Temperature description for mild world tension (21-40%)"
   },
   "worldTension.whatIsThis": {

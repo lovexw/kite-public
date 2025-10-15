@@ -173,7 +173,7 @@
         "de": ["chatgpt", "openai", "künstliche intelligenz", "ki-durchbruch", "maschinelles lernen", "neuronales netzwerk", "deepfake", "generative ki", "ki-sicherheit", "agi", "llm", "anthropic", "claude", "gemini", "gpt-4", "gpt-5", "großes sprachmodell"],
         "nl": ["chatgpt", "openai", "kunstmatige intelligentie", "ai-doorbraak", "machine learning", "neuraal netwerk", "deepfake", "generatieve ai", "ai-veiligheid", "agi", "llm", "anthropic", "claude", "gemini", "gpt-4", "gpt-5", "groot taalmodel"],
         "zh-Hans": ["chatgpt", "openai", "人工智能", "ai突破", "机器学习", "神经网络", "深度伪造", "生成式ai", "ai安全", "通用人工智能", "大语言模型", "anthropic", "claude", "gemini", "gpt-4", "gpt-5", "大型语言模型"],
-        "zh-Hant": ["chatgpt", "openai", "人工智能", "ai突破", "機器學習", "神經網絡", "深度偽造", "生成式ai", "ai安全", "通用人工智能", "大語言模型", "anthropic", "claude", "gemini", "gpt-4", "gpt-5", "大型語言模型"],
+        "zh-Hant": ["chatgpt", "openai", "人工智慧", "AI 突破", "機器學習", "神經網路", "深度偽造", "生成式 AI", "AI 安全", "通用人工智慧", "LLM", "anthropic", "claude", "gemini", "gpt-4", "gpt-5", "大型語言模型"],
         "ja": ["chatgpt", "openai", "人工知能", "aiブレークスルー", "機械学習", "ニューラルネットワーク", "ディープフェイク", "生成ai", "ai安全性", "汎用人工知能", "llm", "anthropic", "claude", "gemini", "gpt-4", "gpt-5", "大規模言語モデル"],
         "hi": ["चैटजीपीटी", "ओपनएआई", "कृत्रिम बुद्धिमत्ता", "एआई सफलता", "मशीन लर्निंग", "न्यूरल नेटवर्क", "डीपफेक", "जेनरेटिव एआई", "एआई सुरक्षा", "एजीआई", "एलएलएम", "एन्थ्रोपिक", "क्लॉड", "जेमिनी", "जीपीटी-4", "जीपीटी-5", "बड़ा भाषा मॉडल"],
         "ru": ["chatgpt", "openai", "искусственный интеллект", "прорыв в ии", "машинное обучение", "нейронная сеть", "дипфейк", "генеративный ии", "безопасность ии", "оии", "большая языковая модель", "anthropic", "claude", "gemini", "gpt-4", "gpt-5", "yagpt", "gigachat"],
@@ -198,6 +198,26 @@
         "hi": ["जलवायु परिवर्तन", "ग्लोबल वार्मिंग", "कार्बन उत्सर्जन", "ग्रीनहाउस गैस", "जलवायु संकट", "चरम मौसम", "समुद्र स्तर में वृद्धि", "विलुप्ति", "जलवायु आपातकाल"],
         "ru": ["изменение климата", "глобальное потепление", "выбросы углерода", "парниковые газы", "климатический кризис", "экстремальная погода", "повышение уровня моря", "вымирание", "климатическая чрезвычайная ситуация"],
         "uk": ["зміна клімату", "глобальне потепління", "викиди вуглецю", "парникові гази", "кліматична криза", "екстремальна погода", "підвищення рівня моря", "вимирання", "кліматична надзвичайна ситуація"]
+      }
+    },
+    {
+      "id": "sexual-misconduct",
+      "label": "Sexual Misconduct",
+      "keywords": {
+        "default": ["sexual assault", "sexual harassment", "rape", "sexual abuse", "metoo", "groping", "molestation", "revenge porn", "pedophile"],
+        "en": ["sexual assault", "sexual harassment", "rape", "sexual abuse", "metoo", "groping", "molestation", "revenge porn", "pedophile"],
+        "pt": ["agressão sexual", "assédio sexual", "estupro", "abuso sexual", "metoo", "aperto/encoxação", "molestação", "pornografia de vingança", "pedófilo"],
+        "it": ["violenza sessuale", "molestie sessuali", "stupro", "abuso sessuale", "metoo", "palpeggiamento", "molestia", "revenge porn", "pedofilo"],
+        "fr": ["agression sexuelle", "harcèlement sexuel", "viol", "abus sexuel", "metoo", "attouchements", "molestation", "porno vengeance", "pédophile"],
+        "es": ["agresión sexual", "acoso sexual", "violación", "abuso sexual", "metoo", "manoseo", "abusos", "porno de venganza", "pedófilo"],
+        "de": ["sexueller Übergriff", "sexuelle Belästigung", "Vergewaltigung", "sexueller Missbrauch", "metoo", "Grapschen", "Belästigung", "Racheporno", "Pädophiler"],
+        "nl": ["verkrachting", "seksuele intimidatie", "verkrachting", "seksueel misbruik", "metoo", "aanranding", "seksueel geweld", "wraakporno", "pedofiel"],
+        "zh-Hans": ["性侵犯", "性骚扰", "强奸", "性虐待", "我也是", "猥亵", "骚扰", "复仇色情", "恋童癖者"],
+        "zh-Hant": ["性侵犯", "性騷擾", "強姦", "性虐待", "metoo", "猥褻", "性騷擾", "復仇式色情", "戀童癖"],
+        "ja": ["性的暴行", "セクハラ", "レイプ", "性的虐待", "metoo", "痴漢", "わいせつ行為", "リベンジポルノ", "小児性愛者"],
+        "hi": ["यौन उत्पीड़न", "यौन उत्पीड़न", "बलात्कार", "यौन शोषण", "मीटू", "छेड़छाड़", "बाल यौन शोषण", "रिवेंज पोर्न", "बाल यौन शोषण"],
+        "ru": ["сексуальное насилие", "сексуальное домогательство", "изнасилование", "сексуальное надругательство", "metoo", "лапать", "растление", "порноместь", "педофил"],
+        "uk": ["сексуальное насилие", "сексуальное домогательство", "изнасилование", "сексуальное надругательство", "metoo", "лапать", "растление", "порноместь", "педофил"]
       }
     }
   ]

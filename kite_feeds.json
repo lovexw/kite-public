@@ -4,7 +4,8 @@
     "source_language": "es",
     "display_names": {
       "en": "Argentina",
-      "es": "Argentina"
+      "es": "Argentina",
+      "ca": "Argentina"
     },
     "feeds": [
       "https://tn.com.ar/rss/",
@@ -44,6 +45,7 @@
       "en": "Africa",
       "af": "Afrika",
       "ar": "أفريقيا",
+      "ca": "Àfrica",
       "fr": "Afrique",
       "xh": "Afrika",
       "zu": "Afrika"
@@ -88,6 +90,7 @@
     "display_names": {
       "en": "AI",
       "ar": "الذكاء الاصطناعي",
+      "ca": "IA",
       "de": "KI",
       "es": "IA",
       "fr": "IA",
@@ -171,6 +174,7 @@
     "display_names": {
       "en": "Apple",
       "ar": "آبل",
+      "ca": "Apple",
       "de": "Apple",
       "es": "Apple",
       "fr": "Apple",
@@ -246,6 +250,7 @@
     "display_names": {
       "en": "Australia",
       "ar": "أستراليا",
+      "ca": "Austràlia",
       "de": "Australien",
       "es": "Australia",
       "fr": "Australie",
@@ -309,6 +314,7 @@
     "display_names": {
       "en": "Austria",
       "ar": "النمسا",
+      "ca": "Àustria",
       "de": "Österreich",
       "es": "Austria",
       "fr": "Autriche",
@@ -362,6 +368,7 @@
     "display_names": {
       "en": "Belgium",
       "ar": "بلجيكا",
+      "ca": "Bèlgica",
       "de": "Belgien",
       "es": "Bélgica",
       "fr": "Belgique",
@@ -422,6 +429,7 @@
     "display_names": {
       "en": "Bitcoin",
       "ar": "بيتكوين",
+      "ca": "Bitcoin",
       "de": "Bitcoin",
       "es": "Bitcoin",
       "fr": "Bitcoin",
@@ -473,6 +481,7 @@
     "display_names": {
       "en": "Brazil",
       "ar": "البرازيل",
+      "ca": "Brasil",
       "de": "Brasilien",
       "es": "Brasil",
       "fr": "Brésil",
@@ -534,6 +543,7 @@
     "display_names": {
       "en": "Canada",
       "ar": "كندا",
+      "ca": "Canadà",
       "de": "Kanada",
       "es": "Canadá",
       "fr": "Canada",
@@ -618,6 +628,7 @@
     "display_names": {
       "en": "Catholic",
       "ar": "كاثوليكي",
+      "ca": "Catòlic",
       "de": "Katholisch",
       "es": "Católico",
       "fr": "Catholique",
@@ -676,6 +687,7 @@
     "display_names": {
       "en": "China",
       "ar": "الصين",
+      "ca": "Xina",
       "de": "China",
       "es": "China",
       "fr": "Chine",
@@ -800,6 +812,7 @@
     "display_names": {
       "en": "Colombia",
       "ar": "كولومبيا",
+      "ca": "Colòmbia",
       "de": "Kolumbien",
       "es": "Colombia",
       "fr": "Colombie",
@@ -850,6 +863,7 @@
     "display_names": {
       "en": "Costa Rica",
       "ar": "كوستاريكا",
+      "ca": "Costa Rica",
       "de": "Costa Rica",
       "es": "Costa Rica",
       "fr": "Costa Rica",
@@ -901,6 +915,7 @@
     "display_names": {
       "en": "Croatia",
       "ar": "كرواتيا",
+      "ca": "Croàcia",
       "de": "Kroatien",
       "es": "Croacia",
       "fr": "Croatie",
@@ -951,6 +966,7 @@
     "display_names": {
       "en": "Cryptocurrency",
       "ar": "العملة المشفرة",
+      "ca": "Criptomoneda",
       "de": "Kryptowährung",
       "es": "Criptomoneda",
       "fr": "Cryptomonnaie",
@@ -1017,6 +1033,7 @@
     "display_names": {
       "en": "Cybersecurity",
       "ar": "الأمن السيبراني",
+      "ca": "Ciberseguretat",
       "de": "Cybersicherheit",
       "es": "Ciberseguridad",
       "fr": "Cybersécurité",
@@ -1077,6 +1094,7 @@
     "display_names": {
       "en": "Czech Republic",
       "ar": "التشيك",
+      "ca": "República Txeca",
       "de": "Tschechien",
       "es": "República Checa",
       "fr": "République tchèque",
@@ -1124,9 +1142,10 @@
     "category_type": "topic",
     "source_language": "dk",
     "display_names": {
+      "ca": "Dinamarca",
       "de": "Dänemark",
-      "en": "Denmark",
       "dk": "Danmark",
+      "en": "Denmark",
       "es": "Dinamarca",
       "fr": "Danemark"
     },
@@ -1174,6 +1193,7 @@
     "display_names": {
       "en": "Economy",
       "ar": "الاقتصاد",
+      "ca": "Economia",
       "de": "Wirtschaft",
       "es": "Economía",
       "fr": "Économie",
@@ -1284,6 +1304,7 @@
     "display_names": {
       "en": "Estonia",
       "ar": "إستونيا",
+      "ca": "Estònia",
       "de": "Estland",
       "es": "Estonia",
       "fr": "Estonie",
@@ -1349,6 +1370,7 @@
     "display_names": {
       "en": "Europe",
       "ar": "أوروبا",
+      "ca": "Europa",
       "de": "Europa",
       "es": "Europa",
       "fr": "Europe",
@@ -1434,6 +1456,7 @@
     "display_names": {
       "en": "Finland",
       "ar": "فنلندا",
+      "ca": "Finlàndia",
       "de": "Finnland",
       "es": "Finlandia",
       "fr": "Finlande",
@@ -1483,6 +1506,7 @@
     "display_names": {
       "en": "Formula 1",
       "ar": "الفورمولا 1",
+      "ca": "Fórmula 1",
       "de": "Formel 1",
       "es": "Fórmula 1",
       "fr": "Formule 1",
@@ -1532,6 +1556,7 @@
     "display_names": {
       "en": "France",
       "ar": "فرنسا",
+      "ca": "França",
       "de": "Frankreich",
       "es": "Francia",
       "fr": "France",
@@ -1645,6 +1670,7 @@
     "display_names": {
       "en": "Germany",
       "ar": "ألمانيا",
+      "ca": "Alemanya",
       "de": "Deutschland",
       "es": "Alemania",
       "fr": "Allemagne",
@@ -1703,6 +1729,7 @@
     "display_names": {
       "en": "Germany | Hesse",
       "ar": "ألمانيا | هيسن",
+      "ca": "Alemanya | Hesse",
       "de": "Deutschland | Hessen",
       "es": "Alemania | Hesse",
       "fr": "Allemagne | Hesse",
@@ -1751,18 +1778,19 @@
     "category_type": "topic",
     "source_language": "gr",
     "display_names": {
-      "en": "Greece",
+      "ca": "Grècia",
       "de": "Griechenland",
-      "fr": "Grèce",
+      "en": "Greece",
       "es": "Grecia",
-      "pt": "Grécia",
-      "it": "Grecia",
-      "nl": "Griekenland",
-      "zh-Hans": "希腊",
-      "zh-Hant": "希臘",
-      "ja": "ギリシャ",
+      "fr": "Grèce",
       "hi": "ग्रीस",
-      "uk": "Греція"
+      "it": "Grecia",
+      "ja": "ギリシャ",
+      "nl": "Griekenland",
+      "pt": "Grécia",
+      "uk": "Греція",
+      "zh-Hans": "希腊",
+      "zh-Hant": "希臘"
     },
     "feeds": [
       "https://eleftherostypos.gr/feed",
@@ -1799,10 +1827,13 @@
     "category_type": "topic",
     "source_language": "hu",
     "display_names": {
+      "ar": "هنغاريا",
+      "ca": "Hongria",
       "de": "Ungarn",
       "en": "Hungary",
       "es": "Hungría",
       "fr": "Hongrie",
+      "he": "הונגריה",
       "hi": "हंगरी",
       "it": "Ungheria",
       "ja": "ハンガリー",
@@ -1811,9 +1842,7 @@
       "ru": "Венгрия",
       "uk": "Угорщина",
       "zh-Hans": "匈牙利",
-      "zh-Hant": "匈牙利",
-      "ar": "هنغاريا",
-      "he": "הונגריה"
+      "zh-Hant": "匈牙利"
     },
     "feeds": [
       "http://koznews.hu/rss.xml",
@@ -1849,6 +1878,7 @@
     "display_names": {
       "en": "India",
       "ar": "الهند",
+      "ca": "Índia",
       "de": "Indien",
       "es": "India",
       "fr": "Inde",
@@ -1937,6 +1967,7 @@
     "display_names": {
       "en": "Iran",
       "ar": "إيران",
+      "ca": "Iran",
       "de": "Iran",
       "es": "Irán",
       "fr": "Iran",
@@ -2001,6 +2032,7 @@
     "display_names": {
       "en": "Ireland",
       "ar": "أيرلندا",
+      "ca": "Irlanda",
       "de": "Irland",
       "es": "Irlanda",
       "fr": "Irlande",
@@ -2048,6 +2080,7 @@
     "display_names": {
       "en": "Israel",
       "ar": "إسرائيل",
+      "ca": "Israel",
       "de": "Israel",
       "es": "Israel",
       "fr": "Israël",
@@ -2125,6 +2158,7 @@
     "display_names": {
       "en": "Italy",
       "ar": "إيطاليا",
+      "ca": "Itàlia",
       "de": "Italien",
       "es": "Italia",
       "fr": "Italie",
@@ -2211,6 +2245,7 @@
     "display_names": {
       "en": "Japan",
       "ar": "اليابان",
+      "ca": "Japó",
       "de": "Japan",
       "es": "Japón",
       "fr": "Japon",
@@ -2262,6 +2297,7 @@
     "display_names": {
       "en": "Large Language Models",
       "ar": "نماذج اللغة الكبيرة",
+      "ca": "Models de Llenguatge Grans",
       "de": "Große Sprachmodelle",
       "es": "Modelos de Lenguaje Grandes",
       "fr": "Grands Modèles de Langage",
@@ -2317,6 +2353,7 @@
     "display_names": {
       "en": "Linux & OSS",
       "ar": "لينكس والبرمجيات مفتوحة المصدر",
+      "ca": "Linux i OSS",
       "de": "Linux & OSS",
       "es": "Linux y OSS",
       "fr": "Linux et OSS",
@@ -2423,6 +2460,7 @@
     "display_names": {
       "en": "Lithuania",
       "ar": "ليتوانيا",
+      "ca": "Lituània",
       "de": "Litauen",
       "es": "Lituania",
       "fr": "Lituanie",
@@ -2471,6 +2509,7 @@
     "display_names": {
       "en": "Mexico",
       "ar": "المكسيك",
+      "ca": "Mèxic",
       "de": "Mexiko",
       "es": "México",
       "fr": "Mexique",
@@ -2525,6 +2564,7 @@
     "display_names": {
       "en": "Microsoft",
       "ar": "مايكروسوفت",
+      "ca": "Microsoft",
       "de": "Microsoft",
       "es": "Microsoft",
       "fr": "Microsoft",
@@ -2555,6 +2595,7 @@
     "display_names": {
       "en": "Middle East",
       "ar": "الشرق الأوسط",
+      "ca": "Orient Mitjà",
       "de": "Naher Osten",
       "es": "Oriente Medio",
       "fr": "Moyen-Orient",
@@ -2609,6 +2650,7 @@
     "display_names": {
       "en": "New Zealand",
       "ar": "نيوزيلندا",
+      "ca": "Nova Zelanda",
       "de": "Neuseeland",
       "es": "Nueva Zelanda",
       "fr": "Nouvelle-Zélande",
@@ -2676,6 +2718,7 @@
     "display_names": {
       "en": "NHL",
       "ar": "دوري الهوكي الوطني",
+      "ca": "NHL",
       "de": "NHL",
       "es": "NHL",
       "fr": "LNH",
@@ -2753,6 +2796,7 @@
     "display_names": {
       "en": "Norway",
       "ar": "النرويج",
+      "ca": "Noruega",
       "de": "Norwegen",
       "es": "Noruega",
       "fr": "Norvège",
@@ -2810,6 +2854,7 @@
     "display_names": {
       "en": "Pakistan",
       "ar": "باكستان",
+      "ca": "Pakistan",
       "de": "Pakistan",
       "es": "Pakistán",
       "fr": "Pakistan",
@@ -2859,6 +2904,7 @@
     "display_names": {
       "en": "Palestine",
       "ar": "فلسطين",
+      "ca": "Palestina",
       "de": "Palästina",
       "es": "Palestina",
       "fr": "Palestine",
@@ -2909,6 +2955,7 @@
     "display_names": {
       "en": "Philippines",
       "ar": "الفلبين",
+      "ca": "Filipines",
       "de": "Philippinen",
       "es": "Filipinas",
       "fr": "Philippines",
@@ -2957,6 +3004,7 @@
     "display_names": {
       "en": "Podcasting",
       "ar": "البث الصوتي",
+      "ca": "Podcasting",
       "de": "Podcasting",
       "es": "Podcasting",
       "fr": "Podcasting",
@@ -3007,6 +3055,7 @@
     "display_names": {
       "en": "Poland",
       "ar": "بولندا",
+      "ca": "Polònia",
       "de": "Polen",
       "es": "Polonia",
       "fr": "Pologne",
@@ -3064,6 +3113,7 @@
     "display_names": {
       "en": "Portugal",
       "ar": "البرتغال",
+      "ca": "Portugal",
       "de": "Portugal",
       "es": "Portugal",
       "fr": "Portugal",
@@ -3113,6 +3163,7 @@
     "display_names": {
       "en": "Privacy",
       "ar": "الخصوصية",
+      "ca": "Privadesa",
       "de": "Datenschutz",
       "es": "Privacidad",
       "fr": "Confidentialité",
@@ -3210,6 +3261,7 @@
     "display_names": {
       "en": "Romania",
       "ar": "رومانيا",
+      "ca": "Romania",
       "de": "Rumänien",
       "es": "Rumania",
       "fr": "Roumanie",
@@ -3262,6 +3314,7 @@
     "display_names": {
       "en": "Russia",
       "ar": "روسيا",
+      "ca": "Rússia",
       "de": "Russland",
       "es": "Rusia",
       "fr": "Russie",
@@ -3310,6 +3363,7 @@
     "display_names": {
       "en": "Serbia",
       "ar": "صربيا",
+      "ca": "Sèrbia",
       "de": "Serbien",
       "es": "Serbia",
       "fr": "Serbie",
@@ -3459,6 +3513,7 @@
     "display_names": {
       "en": "Slovenia",
       "ar": "سلوفينيا",
+      "ca": "Eslovènia",
       "de": "Slowenien",
       "es": "Eslovenia",
       "fr": "Slovénie",
@@ -3508,6 +3563,7 @@
     "display_names": {
       "en": "South Korea",
       "ar": "كوريا الجنوبية",
+      "ca": "Corea del Sud",
       "de": "Südkorea",
       "es": "Corea del Sur",
       "fr": "Corée du Sud",
@@ -3586,6 +3642,7 @@
     "display_names": {
       "en": "Spain",
       "ar": "إسبانيا",
+      "ca": "Espanya",
       "de": "Spanien",
       "es": "España",
       "fr": "Espagne",
@@ -3649,6 +3706,7 @@
     "display_names": {
       "en": "Sweden",
       "ar": "السويد",
+      "ca": "Suècia",
       "de": "Schweden",
       "es": "Suecia",
       "fr": "Suède",
@@ -3705,6 +3763,7 @@
     "display_names": {
       "en": "Switzerland (DE)",
       "ar": "سويسرا (ألمانية)",
+      "ca": "Suïssa (DE)",
       "de": "Schweiz (DE)",
       "es": "Suiza (DE)",
       "fr": "Suisse (DE)",
@@ -3768,6 +3827,7 @@
     "display_names": {
       "en": "Taiwan",
       "ar": "تايوان",
+      "ca": "Taiwan",
       "de": "Taiwan",
       "es": "Taiwán",
       "fr": "Taïwan",
@@ -3872,6 +3932,7 @@
     "display_names": {
       "en": "Thailand",
       "ar": "تايلاند",
+      "ca": "Tailàndia",
       "de": "Thailand",
       "es": "Tailandia",
       "fr": "Thaïlande",
@@ -3946,6 +4007,7 @@
     "display_names": {
       "en": "The Netherlands",
       "ar": "هولندا",
+      "ca": "Països Baixos",
       "de": "Niederlande",
       "es": "Países Bajos",
       "fr": "Pays-Bas",
@@ -4030,6 +4092,7 @@
     "display_names": {
       "en": "Turkey",
       "ar": "تركيا",
+      "ca": "Turquia",
       "de": "Türkei",
       "es": "Turquía",
       "fr": "Turquie",
@@ -4088,6 +4151,7 @@
     "display_names": {
       "en": "UK",
       "ar": "المملكة المتحدة",
+      "ca": "Regne Unit",
       "de": "Vereinigtes Königreich",
       "es": "Reino Unido",
       "fr": "Royaume-Uni",
@@ -4170,6 +4234,7 @@
     "display_names": {
       "en": "Ukraine",
       "ar": "أوكرانيا",
+      "ca": "Ucraïna",
       "de": "Ukraine",
       "es": "Ucrania",
       "fr": "Ukraine",
@@ -4344,6 +4409,7 @@
     "display_names": {
       "en": "USA | Michigan",
       "ar": "الولايات المتحدة | ميشيغان",
+      "ca": "EUA | Michigan",
       "de": "USA | Michigan",
       "es": "EE.UU. | Míchigan",
       "fr": "États-Unis | Michigan",
@@ -4510,6 +4576,7 @@
     "display_names": {
       "en": "USA | Vermont",
       "ar": "الولايات المتحدة | فيرمونت",
+      "ca": "EUA | Vermont",
       "de": "USA | Vermont",
       "es": "EE.UU. | Vermont",
       "fr": "États-Unis | Vermont",
@@ -4612,6 +4679,7 @@
     "display_names": {
       "en": "USA | Virginia",
       "ar": "الولايات المتحدة | فيرجينيا",
+      "ca": "EUA | Virginia",
       "de": "USA | Virginia",
       "es": "EE.UU. | Virginia",
       "fr": "États-Unis | Virginie",
